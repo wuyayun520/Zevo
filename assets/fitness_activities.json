@@ -1,0 +1,124 @@
+{
+  "fitness_activities": [
+    {
+      "id": 1,
+      "name": "Morning Dumbbell Workout",
+      "type": "Dumbbell",
+      "description": "A comprehensive upper body strength training session using various dumbbell exercises to build muscle and improve overall fitness.",
+      "duration": 45,
+      "difficulty": "Intermediate",
+      "calories_burned": 320,
+      "equipment": ["Dumbbells", "Exercise mat"],
+      "muscle_groups": ["Chest", "Shoulders", "Arms", "Back"],
+      "instructions": [
+        "Start with 5-minute warm-up",
+        "Perform 3 sets of 12 dumbbell presses",
+        "Complete 3 sets of 10 dumbbell rows",
+        "Finish with 3 sets of 8 dumbbell curls",
+        "Cool down with stretching"
+      ],
+      "benefits": [
+        "Builds upper body strength",
+        "Improves muscle definition",
+        "Enhances bone density",
+        "Boosts metabolism"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Tennis Match Training",
+      "type": "Tennis",
+      "description": "An intensive tennis training session focusing on technique, agility, and cardiovascular endurance through various drills and practice matches.",
+      "duration": 60,
+      "difficulty": "Advanced",
+      "calories_burned": 450,
+      "equipment": ["Tennis racket", "Tennis balls", "Court"],
+      "muscle_groups": ["Legs", "Core", "Arms", "Shoulders"],
+      "instructions": [
+        "Begin with 10-minute warm-up jogging",
+        "Practice forehand and backhand strokes",
+        "Work on serve technique for 15 minutes",
+        "Play practice points for 20 minutes",
+        "Cool down with light stretching"
+      ],
+      "benefits": [
+        "Improves hand-eye coordination",
+        "Builds cardiovascular endurance",
+        "Enhances agility and speed",
+        "Develops strategic thinking"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Swimming Endurance Session",
+      "type": "Swimming",
+      "description": "A focused swimming workout designed to improve cardiovascular fitness, technique, and endurance through various swimming strokes and drills.",
+      "duration": 50,
+      "difficulty": "Intermediate",
+      "calories_burned": 380,
+      "equipment": ["Swimsuit", "Goggles", "Swimming pool"],
+      "muscle_groups": ["Full body", "Core", "Shoulders", "Legs"],
+      "instructions": [
+        "Start with 5-minute easy warm-up swim",
+        "Swim 4 x 100m freestyle with 30-second rest",
+        "Practice 200m backstroke",
+        "Complete 2 x 50m butterfly",
+        "Finish with 10-minute cool-down"
+      ],
+      "benefits": [
+        "Full body workout",
+        "Low impact exercise",
+        "Improves lung capacity",
+        "Builds endurance"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Dumbbell HIIT Circuit",
+      "type": "Dumbbell",
+      "description": "A high-intensity interval training session using dumbbells to maximize calorie burn and improve both strength and cardiovascular fitness.",
+      "duration": 30,
+      "difficulty": "Advanced",
+      "calories_burned": 400,
+      "equipment": ["Dumbbells", "Timer", "Exercise mat"],
+      "muscle_groups": ["Full body", "Core", "Legs", "Arms"],
+      "instructions": [
+        "Warm up for 5 minutes",
+        "Complete 4 rounds of 45-second work, 15-second rest",
+        "Exercises: dumbbell thrusters, renegade rows, goblet squats",
+        "Rest 2 minutes between rounds",
+        "Cool down with stretching"
+      ],
+      "benefits": [
+        "Burns maximum calories",
+        "Improves cardiovascular fitness",
+        "Builds functional strength",
+        "Time-efficient workout"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Swimming Technique Clinic",
+      "type": "Swimming",
+      "description": "A technical swimming session focused on improving stroke efficiency, breathing technique, and overall swimming performance through targeted drills.",
+      "duration": 40,
+      "difficulty": "Beginner to Intermediate",
+      "calories_burned": 280,
+      "equipment": ["Swimsuit", "Goggles", "Pull buoy", "Pool"],
+      "muscle_groups": ["Full body", "Core", "Shoulders"],
+      "instructions": [
+        "Begin with 10-minute easy swim",
+        "Practice breathing drills for 10 minutes",
+        "Work on stroke technique for 15 minutes",
+        "Use pull buoy for arm-focused swimming",
+        "End with 5-minute cool-down"
+      ],
+      "benefits": [
+        "Improves swimming technique",
+        "Builds confidence in water",
+        "Enhances breathing efficiency",
+        "Reduces injury risk"
+      ]
+    }
+  ]
+}
