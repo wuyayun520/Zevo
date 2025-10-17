@@ -367,8 +367,8 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> {
             ),
             child: Image.asset(
               'assets/zevo_wallet_coin.webp',
-              width: 40,
-              height: 40,
+              width: 50,
+              height: 50,
               fit: BoxFit.contain,
             ),
           ),
@@ -383,7 +383,7 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> {
       physics: const NeverScrollableScrollPhysics(),
       gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
         crossAxisCount: 2,
-        childAspectRatio: 1.2,
+        childAspectRatio: 0.9, // 减小宽高比，增加高度
         crossAxisSpacing: 16,
         mainAxisSpacing: 16,
       ),
@@ -391,7 +391,9 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> {
       itemBuilder: (context, index) {
         final item = _goldProducts[index];
         final product = _products.firstWhereOrNull((p) => p.id == item.productId);
-        final priceStr = product?.price ?? '\$${item.price.toStringAsFixed(2)}';
+        final priceStr = product?.price != null 
+            ? product!.price.replaceAll('US\$', '\$')
+            : '\$${item.price.toStringAsFixed(2)}';
         
         return _buildProductCard(item, priceStr, index == _selectedProductIndex);
       },
@@ -429,7 +431,10 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> {
                     Container(
                       width: 40,
                       height: 40,
-                   
+                      decoration: BoxDecoration(
+                        color: const Color(0xFFFFD700).withOpacity(0.2),
+                        borderRadius: BorderRadius.circular(16),
+                      ),
                       child: Center(
                         child: Image.asset(
                           'assets/zevo_wallet_coin.webp',
@@ -439,7 +444,7 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> {
                         ),
                       ),
                     ),
-                    const SizedBox(height: 6),
+                    const SizedBox(height: 4),
                     Text(
                       '${item.amount}',
                       style: const TextStyle(
@@ -449,12 +454,22 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> {
                       ),
                       textAlign: TextAlign.center,
                     ),
-                    const SizedBox(height: 4),
+                    const SizedBox(height: 2),
                     Text(
                       'Gold coins',
                       style: TextStyle(
                         color: Colors.white,
                         fontSize: 14,
+                      ),
+                      textAlign: TextAlign.center,
+                    ),
+                    const SizedBox(height: 4),
+                    Text(
+                      priceStr,
+                      style: const TextStyle(
+                        color: Color(0xFFFFD700),
+                        fontSize: 16,
+                        fontWeight: FontWeight.bold,
                       ),
                       textAlign: TextAlign.center,
                     ),
