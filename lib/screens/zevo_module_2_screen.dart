@@ -1,10 +1,12 @@
 import 'package:flutter/material.dart';
 import 'dart:io';
+import 'package:shared_preferences/shared_preferences.dart';
 import '../models/zevo_workout_record.dart';
 import '../services/zevo_storage_service.dart';
 import '../utils/zevo_date_utils.dart';
 import 'zevo_add_workout_screen.dart';
 import 'zevo_history_screen.dart';
+import 'zevo_subscriptions_screen.dart';
 
 class ZevoModule2Screen extends StatefulWidget {
   const ZevoModule2Screen({super.key});
@@ -17,11 +19,14 @@ class _ZevoModule2ScreenState extends State<ZevoModule2Screen> {
   List<ZevoWorkoutRecord> _todayWorkouts = [];
   Map<String, dynamic> _statistics = {};
   bool _isLoading = true;
+  bool _isVip = false;
+  String _vipType = '';
 
   @override
   void initState() {
     super.initState();
     _loadData();
+    _loadVipStatus();
   }
 
   Future<void> _loadData() async {
@@ -48,6 +53,18 @@ class _ZevoModule2ScreenState extends State<ZevoModule2Screen> {
       setState(() {
         _isLoading = false;
       });
+    }
+  }
+
+  Future<void> _loadVipStatus() async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      setState(() {
+        _isVip = prefs.getBool('isVip') ?? false;
+        _vipType = prefs.getString('vip_type') ?? '';
+      });
+    } catch (e) {
+      debugPrint('Error loading VIP status: $e');
     }
   }
 
@@ -92,12 +109,7 @@ class _ZevoModule2ScreenState extends State<ZevoModule2Screen> {
             right: 20,
             bottom: 140,
             child: FloatingActionButton(
-              onPressed: () {
-                Navigator.push(
-                  context,
-                  MaterialPageRoute(builder: (context) => const ZevoAddWorkoutScreen()),
-                ).then((_) => _loadData());
-              },
+              onPressed: _handleAddWorkout,
               backgroundColor: const Color(0xFFBBFF2F),
               child: const Icon(
                 Icons.add,
@@ -302,6 +314,132 @@ class _ZevoModule2ScreenState extends State<ZevoModule2Screen> {
           ],
         ),
       ),
+    );
+  }
+
+  void _handleAddWorkout() async {
+    // 重新获取最新的VIP状态
+    await _loadVipStatus();
+    
+    // 检查VIP状态和订阅类型
+    if (_isVip && _vipType == 'monthly') {
+      // 月订阅用户可以直接添加运动记录
+      Navigator.push(
+        context,
+        MaterialPageRoute(builder: (context) => const ZevoAddWorkoutScreen()),
+      ).then((_) => _loadData());
+    } else {
+      // 非VIP用户或周订阅用户显示提示弹窗
+      _showVipRequiredDialog();
+    }
+  }
+
+  void _showVipRequiredDialog() {
+    showDialog(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          backgroundColor: const Color(0xFF2D2D2D),
+          shape: RoundedRectangleBorder(
+            borderRadius: BorderRadius.circular(16),
+          ),
+          title: const Text(
+            'Monthly VIP Required',
+            style: TextStyle(
+              color: Colors.white,
+              fontSize: 20,
+              fontWeight: FontWeight.bold,
+            ),
+          ),
+          content: Column(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              const Text(
+                'Adding workout records is only available for Monthly VIP members.',
+                style: TextStyle(
+                  color: Colors.white70,
+                  fontSize: 16,
+                ),
+              ),
+              const SizedBox(height: 20),
+              
+              // 月订阅
+              Container(
+                width: double.infinity,
+                padding: const EdgeInsets.all(20),
+                decoration: BoxDecoration(
+                  color: const Color(0xFF2D2D2D),
+                  borderRadius: BorderRadius.circular(16),
+                  border: Border.all(
+                    color: const Color(0xFFFFD700),
+                    width: 2,
+                  ),
+                ),
+                child: Column(
+                  children: [
+                    const Text(
+                      'Monthly VIP Plan',
+                      style: TextStyle(
+                        color: Colors.white,
+                        fontSize: 20,
+                        fontWeight: FontWeight.bold,
+                      ),
+                    ),
+                    const SizedBox(height: 12),
+                    const Text(
+                      '\$49.99/month',
+                      style: TextStyle(
+                        color: Color(0xFFFFD700),
+                        fontSize: 24,
+                        fontWeight: FontWeight.bold,
+                      ),
+                    ),
+                    const SizedBox(height: 8),
+                    const Text(
+                      '30 days access to all features',
+                      style: TextStyle(
+                        color: Colors.white70,
+                        fontSize: 16,
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+            ],
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.of(context).pop(),
+              child: const Text(
+                'Cancel',
+                style: TextStyle(
+                  color: Colors.white70,
+                  fontSize: 16,
+                ),
+              ),
+            ),
+            TextButton(
+              onPressed: () {
+                Navigator.of(context).pop();
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) => const SubscriptionsPage(),
+                  ),
+                );
+              },
+              child: const Text(
+                'View Plans',
+                style: TextStyle(
+                  color: Color(0xFFFFD700),
+                  fontSize: 16,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+            ),
+          ],
+        );
+      },
     );
   }
 

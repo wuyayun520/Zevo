@@ -1,8 +1,10 @@
 import 'package:flutter/material.dart';
 import 'dart:convert';
 import 'package:flutter/services.dart' show rootBundle;
+import 'package:shared_preferences/shared_preferences.dart';
 import 'zevo_activity_screen.dart';
 import 'zevo_user_detail_screen.dart';
+import 'zevo_inapppurchases_screen.dart';
 
 class ZevoModule1Screen extends StatefulWidget {
   const ZevoModule1Screen({super.key});
@@ -18,11 +20,14 @@ class _ZevoModule1ScreenState extends State<ZevoModule1Screen> {
   List<Map<String, dynamic>> _swimmingUsers = [];
   bool _isLoading = true;
   int _selectedCategory = 0; // 0: dumbbell, 1: tennis, 2: swimming
+  int _goldCoins = 0; // 用户金币数量
+  Set<String> _unlockedUsers = {}; // 已解锁的用户ID集合
 
   @override
   void initState() {
     super.initState();
     _loadFitnessUsers();
+    _loadUserData();
   }
 
   Future<void> _loadFitnessUsers() async {
@@ -109,6 +114,131 @@ class _ZevoModule1ScreenState extends State<ZevoModule1Screen> {
     }
     
     return result.take(5).toList();
+  }
+
+  Future<void> _loadUserData() async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      final coins = prefs.getInt('petCoins') ?? 0;
+      final unlockedUsersString = prefs.getString('unlocked_users') ?? '';
+      
+      setState(() {
+        _goldCoins = coins;
+        _unlockedUsers = unlockedUsersString.split(',').where((id) => id.isNotEmpty).toSet();
+      });
+    } catch (e) {
+      debugPrint('Error loading user data: $e');
+    }
+  }
+
+  Future<void> _saveUnlockedUser(String userId) async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      _unlockedUsers.add(userId);
+      await prefs.setString('unlocked_users', _unlockedUsers.join(','));
+    } catch (e) {
+      debugPrint('Error saving unlocked user: $e');
+    }
+  }
+
+  Future<void> _handleUserCardTap(Map<String, dynamic> user, String userId, bool isUnlocked) async {
+    // 如果用户已解锁，直接跳转
+    if (isUnlocked) {
+      Navigator.push(
+        context,
+        MaterialPageRoute(
+          builder: (context) => ZevoUserDetailScreen(user: user),
+        ),
+      );
+      return;
+    }
+
+    // 重新加载最新金币数量
+    await _loadUserData();
+
+    // 检查金币是否足够
+    if (_goldCoins >= 20) {
+      // 金币足够，扣除金币并解锁用户
+      await _unlockUser(userId);
+      Navigator.push(
+        context,
+        MaterialPageRoute(
+          builder: (context) => ZevoUserDetailScreen(user: user),
+        ),
+      );
+    } else {
+      // 金币不足，显示确认弹窗
+      _showInsufficientCoinsDialog();
+    }
+  }
+
+  Future<void> _unlockUser(String userId) async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      // 扣除20金币
+      final newCoins = _goldCoins - 20;
+      await prefs.setInt('petCoins', newCoins);
+      
+      // 保存解锁的用户
+      await _saveUnlockedUser(userId);
+      
+      setState(() {
+        _goldCoins = newCoins;
+        _unlockedUsers.add(userId);
+      });
+      
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(
+          content: Text('User unlocked! 20 coins consumed'),
+          backgroundColor: Color(0xFFBBFF2F),
+        ),
+      );
+    } catch (e) {
+      debugPrint('Error unlocking user: $e');
+    }
+  }
+
+  void _showInsufficientCoinsDialog() {
+    showDialog(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          backgroundColor: const Color(0xFF2D2D2D),
+          title: const Text(
+            'Insufficient Coins',
+            style: TextStyle(color: Colors.white),
+          ),
+          content: const Text(
+            'Unlocking a user requires 20 coins. You don\'t have enough coins. Would you like to go to recharge?',
+            style: TextStyle(color: Colors.white70),
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.of(context).pop(),
+              child: const Text(
+                'Cancel',
+                style: TextStyle(color: Colors.white70),
+              ),
+            ),
+            TextButton(
+              onPressed: () {
+                Navigator.of(context).pop();
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) => const InAppPurchasesPage(),
+                  ),
+                );
+              },
+              child: const Text(
+                'Go to Recharge',
+                style: TextStyle(color: Color(0xFFFFD700)),
+              ),
+            ),
+          ],
+        );
+      },
+    );
   }
 
   @override
@@ -276,16 +406,11 @@ class _ZevoModule1ScreenState extends State<ZevoModule1Screen> {
 
   Widget _buildUserCard(Map<String, dynamic> user) {
     final List<dynamic> images = user['images'] ?? [];
+    final String userId = user['id']?.toString() ?? '';
+    final bool isUnlocked = _unlockedUsers.contains(userId);
     
     return GestureDetector(
-      onTap: () {
-        Navigator.push(
-          context,
-          MaterialPageRoute(
-            builder: (context) => ZevoUserDetailScreen(user: user),
-          ),
-        );
-      },
+      onTap: () => _handleUserCardTap(user, userId, isUnlocked),
       child: Container(
       width: double.infinity,
       height: 220, // 增加高度以容纳所有内容

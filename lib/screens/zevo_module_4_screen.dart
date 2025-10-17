@@ -6,6 +6,8 @@ import '../services/zevo_photo_storage_service.dart';
 import 'zevo_privacy_screen.dart';
 import 'zevo_terms_screen.dart';
 import 'zevo_about_us_screen.dart';
+import 'zevo_inapppurchases_screen.dart';
+import 'zevo_subscriptions_screen.dart';
 
 class ZevoModule4Screen extends StatefulWidget {
   const ZevoModule4Screen({super.key});
@@ -20,12 +22,14 @@ class _ZevoModule4ScreenState extends State<ZevoModule4Screen> {
   final ImagePicker _picker = ImagePicker();
   String _userName = 'User';
   final TextEditingController _nameController = TextEditingController();
+  bool _isVip = false;
 
   @override
   void initState() {
     super.initState();
     _loadPhotos();
     _loadUserName();
+    _loadVipStatus();
   }
 
   @override
@@ -64,6 +68,17 @@ class _ZevoModule4ScreenState extends State<ZevoModule4Screen> {
       }
     } catch (e) {
       // 忽略错误，使用默认名称
+    }
+  }
+
+  Future<void> _loadVipStatus() async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      setState(() {
+        _isVip = prefs.getBool('isVip') ?? false;
+      });
+    } catch (e) {
+      debugPrint('Error loading VIP status: $e');
     }
   }
 
@@ -235,6 +250,9 @@ class _ZevoModule4ScreenState extends State<ZevoModule4Screen> {
                   const SizedBox(height: 30),
                   // 用户名称
                   _buildUserNameSection(),
+                  const SizedBox(height: 20),
+                  // 钱包和VIP选项
+                  _buildWalletVipOptions(),
                   const SizedBox(height: 30),
                   // 菜单选项
                   _buildMenuOptions(),
@@ -346,6 +364,47 @@ class _ZevoModule4ScreenState extends State<ZevoModule4Screen> {
             ),
           ),
         ],
+      ),
+    );
+  }
+
+  Widget _buildWalletVipOptions() {
+    return Column(
+      children: [
+        _buildWalletVipCard(
+          imagePath: 'assets/zevo_me_wallet.webp',
+          onTap: () {
+            Navigator.push(
+              context,
+              MaterialPageRoute(builder: (context) => const InAppPurchasesPage()),
+            );
+          },
+        ),
+        const SizedBox(height: 16),
+        _buildWalletVipCard(
+          imagePath: 'assets/zevo_me_vip.webp',
+          onTap: () {
+            Navigator.push(
+              context,
+              MaterialPageRoute(builder: (context) => const SubscriptionsPage()),
+            );
+          },
+        ),
+      ],
+    );
+  }
+
+  Widget _buildWalletVipCard({
+    required String imagePath,
+    required VoidCallback onTap,
+  }) {
+    return GestureDetector(
+      onTap: onTap,
+      child: Image.asset(
+        imagePath,
+        width: double.infinity,
+        height: 80,
+        fit: BoxFit.contain,
       ),
     );
   }
@@ -471,6 +530,15 @@ class _ZevoModule4ScreenState extends State<ZevoModule4Screen> {
   }
 
   void _showPhotoPicker() {
+    // 检查VIP状态
+    if (_isVip) {
+      _showPhotoPickerOptions();
+    } else {
+      _showVipRequiredDialog();
+    }
+  }
+
+  void _showPhotoPickerOptions() {
     showModalBottomSheet(
       context: context,
       backgroundColor: Colors.transparent,
@@ -601,6 +669,160 @@ class _ZevoModule4ScreenState extends State<ZevoModule4Screen> {
         );
       }
     }
+  }
+
+  void _showVipRequiredDialog() {
+    showDialog(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          backgroundColor: const Color(0xFF2D2D2D),
+          shape: RoundedRectangleBorder(
+            borderRadius: BorderRadius.circular(16),
+          ),
+          title: const Text(
+            'VIP Required',
+            style: TextStyle(
+              color: Colors.white,
+              fontSize: 20,
+              fontWeight: FontWeight.bold,
+            ),
+          ),
+          content: Column(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              const Text(
+                'Photo gallery is only available for VIP members. Choose your plan:',
+                style: TextStyle(
+                  color: Colors.white70,
+                  fontSize: 16,
+                ),
+              ),
+              const SizedBox(height: 20),
+              
+              // 周订阅
+              Container(
+                width: double.infinity,
+                padding: const EdgeInsets.all(16),
+                decoration: BoxDecoration(
+                  color: const Color(0xFF3A3A3A),
+                  borderRadius: BorderRadius.circular(12),
+                  border: Border.all(
+                    color: const Color(0xFF555555),
+                    width: 1,
+                  ),
+                ),
+                child: Column(
+                  children: [
+                    const Text(
+                      'Weekly Plan',
+                      style: TextStyle(
+                        color: Colors.white,
+                        fontSize: 18,
+                        fontWeight: FontWeight.bold,
+                      ),
+                    ),
+                    const SizedBox(height: 8),
+                    const Text(
+                      '\$12.99/week',
+                      style: TextStyle(
+                        color: Color(0xFFFFD700),
+                        fontSize: 20,
+                        fontWeight: FontWeight.bold,
+                      ),
+                    ),
+                    const SizedBox(height: 4),
+                    const Text(
+                      '7 days access',
+                      style: TextStyle(
+                        color: Colors.white70,
+                        fontSize: 14,
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+              
+              const SizedBox(height: 12),
+              
+              // 月订阅
+              Container(
+                width: double.infinity,
+                padding: const EdgeInsets.all(16),
+                decoration: BoxDecoration(
+                  color: const Color(0xFF3A3A3A),
+                  borderRadius: BorderRadius.circular(12),
+                  border: Border.all(
+                    color: const Color(0xFF555555),
+                    width: 1,
+                  ),
+                ),
+                child: Column(
+                  children: [
+                    const Text(
+                      'Monthly Plan',
+                      style: TextStyle(
+                        color: Colors.white,
+                        fontSize: 18,
+                        fontWeight: FontWeight.bold,
+                      ),
+                    ),
+                    const SizedBox(height: 8),
+                    const Text(
+                      '\$49.99/month',
+                      style: TextStyle(
+                        color: Color(0xFFFFD700),
+                        fontSize: 20,
+                        fontWeight: FontWeight.bold,
+                      ),
+                    ),
+                    const SizedBox(height: 4),
+                    const Text(
+                      '30 days access',
+                      style: TextStyle(
+                        color: Colors.white70,
+                        fontSize: 14,
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+            ],
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.of(context).pop(),
+              child: const Text(
+                'Cancel',
+                style: TextStyle(
+                  color: Colors.white70,
+                  fontSize: 16,
+                ),
+              ),
+            ),
+            TextButton(
+              onPressed: () {
+                Navigator.of(context).pop();
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) => const SubscriptionsPage(),
+                  ),
+                );
+              },
+              child: const Text(
+                'View Plans',
+                style: TextStyle(
+                  color: Color(0xFFFFD700),
+                  fontSize: 16,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+            ),
+          ],
+        );
+      },
+    );
   }
 
   Widget _buildPhotoItem(String fileName) {

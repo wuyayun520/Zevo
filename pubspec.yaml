@@ -16,7 +16,7 @@ publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 # https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
 # In Windows, build-name is used as the major, minor, and patch parts
 # of the product and file versions while build-number is used as the build suffix.
-version: 1.0.0+2
+version: 1.1.0+1
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
@@ -41,6 +41,9 @@ dependencies:
   record: ^6.0.0
   just_audio: ^0.9.34
   video_player: ^2.8.1
+  url_launcher: ^6.2.2
+  in_app_purchase: ^3.2.3
+  in_app_purchase_storekit: ^0.4.2
 
 dev_dependencies:
   flutter_test:
@@ -91,6 +94,9 @@ flutter:
     - assets/zevo_course_clock.webp
     - assets/zevo_course_select.webp
     - assets/zevo_course_follow.webp
+    - assets/zevo_me_wallet.webp
+    - assets/zevo_me_vip.webp
+    - assets/zevo_wallet_coin.webp
     - assets/dreswell/fitness_users_data_safe.json
     - assets/dreswell/CreateInkwell/fitness_tutorials.json
     - assets/dreswell/CreateInkwell/CreateInkwell_1.mp4

@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
 import 'dart:convert';
 import 'package:flutter/services.dart' show rootBundle;
+import 'package:shared_preferences/shared_preferences.dart';
 import 'zevo_video_player_screen.dart';
+import 'zevo_subscriptions_screen.dart';
 
 class ZevoModule3Screen extends StatefulWidget {
   const ZevoModule3Screen({super.key});
@@ -13,11 +15,13 @@ class ZevoModule3Screen extends StatefulWidget {
 class _ZevoModule3ScreenState extends State<ZevoModule3Screen> {
   List<Map<String, dynamic>> _fitnessUsers = [];
   bool _isLoading = true;
+  bool _isVip = false;
 
   @override
   void initState() {
     super.initState();
     _loadFitnessUsers();
+    _loadVipStatus();
   }
 
   Future<void> _loadFitnessUsers() async {
@@ -34,6 +38,17 @@ class _ZevoModule3ScreenState extends State<ZevoModule3Screen> {
       setState(() {
         _isLoading = false;
       });
+    }
+  }
+
+  Future<void> _loadVipStatus() async {
+    try {
+      final prefs = await SharedPreferences.getInstance();
+      setState(() {
+        _isVip = prefs.getBool('isVip') ?? false;
+      });
+    } catch (e) {
+      debugPrint('Error loading VIP status: $e');
     }
   }
 
@@ -485,12 +500,172 @@ class _ZevoModule3ScreenState extends State<ZevoModule3Screen> {
   }
 
   void _navigateToVideoPlayer(Map<String, dynamic> user) {
-    // 跳转到视频播放页面
-    Navigator.push(
-      context,
-      MaterialPageRoute(
-        builder: (context) => ZevoVideoPlayerScreen(user: user),
-      ),
+    // 检查VIP状态
+    if (_isVip) {
+      // VIP用户直接跳转到视频播放页面
+      Navigator.push(
+        context,
+        MaterialPageRoute(
+          builder: (context) => ZevoVideoPlayerScreen(user: user),
+        ),
+      );
+    } else {
+      // 非VIP用户显示提示弹窗
+      _showVipRequiredDialog();
+    }
+  }
+
+  void _showVipRequiredDialog() {
+    showDialog(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          backgroundColor: const Color(0xFF2D2D2D),
+          shape: RoundedRectangleBorder(
+            borderRadius: BorderRadius.circular(16),
+          ),
+          title: const Text(
+            'VIP Required',
+            style: TextStyle(
+              color: Colors.white,
+              fontSize: 20,
+              fontWeight: FontWeight.bold,
+            ),
+          ),
+          content: Column(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              const Text(
+                'Tutorial videos are only available for VIP members. Choose your plan:',
+                style: TextStyle(
+                  color: Colors.white70,
+                  fontSize: 16,
+                ),
+              ),
+              const SizedBox(height: 20),
+              
+              // 周订阅
+              Container(
+                width: double.infinity,
+                padding: const EdgeInsets.all(16),
+                decoration: BoxDecoration(
+                  color: const Color(0xFF3A3A3A),
+                  borderRadius: BorderRadius.circular(12),
+                  border: Border.all(
+                    color: const Color(0xFF555555),
+                    width: 1,
+                  ),
+                ),
+                child: Column(
+                  children: [
+                    const Text(
+                      'Weekly Plan',
+                      style: TextStyle(
+                        color: Colors.white,
+                        fontSize: 18,
+                        fontWeight: FontWeight.bold,
+                      ),
+                    ),
+                    const SizedBox(height: 8),
+                    const Text(
+                      '\$12.99/week',
+                      style: TextStyle(
+                        color: Color(0xFFFFD700),
+                        fontSize: 20,
+                        fontWeight: FontWeight.bold,
+                      ),
+                    ),
+                    const SizedBox(height: 4),
+                    const Text(
+                      '7 days access',
+                      style: TextStyle(
+                        color: Colors.white70,
+                        fontSize: 14,
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+              
+              const SizedBox(height: 12),
+              
+              // 月订阅
+              Container(
+                width: double.infinity,
+                padding: const EdgeInsets.all(16),
+                decoration: BoxDecoration(
+                  color: const Color(0xFF3A3A3A),
+                  borderRadius: BorderRadius.circular(12),
+                  border: Border.all(
+                    color: const Color(0xFF555555),
+                    width: 1,
+                  ),
+                ),
+                child: Column(
+                  children: [
+                    const Text(
+                      'Monthly Plan',
+                      style: TextStyle(
+                        color: Colors.white,
+                        fontSize: 18,
+                        fontWeight: FontWeight.bold,
+                      ),
+                    ),
+                    const SizedBox(height: 8),
+                    const Text(
+                      '\$49.99/month',
+                      style: TextStyle(
+                        color: Color(0xFFFFD700),
+                        fontSize: 20,
+                        fontWeight: FontWeight.bold,
+                      ),
+                    ),
+                    const SizedBox(height: 4),
+                    const Text(
+                      '30 days access',
+                      style: TextStyle(
+                        color: Colors.white70,
+                        fontSize: 14,
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+            ],
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.of(context).pop(),
+              child: const Text(
+                'Cancel',
+                style: TextStyle(
+                  color: Colors.white70,
+                  fontSize: 16,
+                ),
+              ),
+            ),
+            TextButton(
+              onPressed: () {
+                Navigator.of(context).pop();
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) => const SubscriptionsPage(),
+                  ),
+                );
+              },
+              child: const Text(
+                'View Plans',
+                style: TextStyle(
+                  color: Color(0xFFFFD700),
+                  fontSize: 16,
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+            ),
+          ],
+        );
+      },
     );
   }
 }
