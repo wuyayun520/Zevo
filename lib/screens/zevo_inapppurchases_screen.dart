@@ -15,10 +15,10 @@ class GoldProduct {
 class GoldProducts {
   static const List<GoldProduct> all = [
     GoldProduct('32', 'Zevo', 0.99),
-    GoldProduct('60', 'Zevo1', 1.99),
-    GoldProduct('96', 'Zevo2', 2.99),
+    GoldProduct('60', 'Zevo1.99', 1.99),
+    GoldProduct('96', 'Zevo2.99', 2.99),
     GoldProduct('155', 'Zevo4', 4.99),
-    GoldProduct('189', 'Zevo5', 5.99),
+    GoldProduct('189', 'Zevo5.99', 5.99),
     GoldProduct('359', 'Zevo9', 9.99),
     GoldProduct('729', 'Zevo19', 19.99),
     GoldProduct('1869', 'Zevo49', 49.99),
