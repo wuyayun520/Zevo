@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equipmentPrototypeTransparency</key>
+	<string>requestAroundShape</string>
+	<key>flexModeAppearance</key>
+	<string>sequentialSizeSpacing</string>
+	<key>listenerStageEdge</key>
+	<string>callbackWithCommand</string>
+	<key>managerInSystem</key>
+	<string>mediaqueryAlongChain</string>
+	<key>mediumMapTop</key>
+	<string>protectedOptionKind</string>
+	<key>operationIncludeEnvironment</key>
+	<string>reducerLikePattern</string>
+	<key>skinCommandVelocity</key>
+	<string>nodeDuringChain</string>
+	<key>tickerAmongCommand</key>
+	<string>cycleMethodStatus</string>
+	<key>usedNibCount</key>
+	<string>dynamicPreviewAlignment</string>
+</dict>
+</plist>

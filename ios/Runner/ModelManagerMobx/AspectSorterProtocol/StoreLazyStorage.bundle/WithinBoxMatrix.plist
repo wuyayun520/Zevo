@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationVariableRotation</key>
+	<string>skirtDespiteVisitor</string>
+	<key>interactivePrecisionOrigin</key>
+	<string>offsetMediatorCenter</string>
+	<key>materialByState</key>
+	<string>reducerDespiteFlyweight</string>
+	<key>navigationWithCommand</key>
+	<string>graphExceptAdapter</string>
+	<key>normModeRate</key>
+	<string>resizableChartKind</string>
+	<key>notifierFrameworkStyle</key>
+	<string>oldBuilderSaturation</string>
+	<key>robustObserverForce</key>
+	<string>navigatorMediatorDistance</string>
+	<key>tangentWithPhase</key>
+	<string>interactorWithProxy</string>
+	<key>widgetThroughProcess</key>
+	<string>tweenAboutChain</string>
+</dict>
+</plist>

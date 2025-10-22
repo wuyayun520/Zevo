@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedNodeTint</key>
+	<string>nodeInLevel</string>
+	<key>beginnerAnimationEdge</key>
+	<string>mobxFacadeShape</string>
+	<key>dependencyByTier</key>
+	<string>resourceParameterHead</string>
+	<key>descriptorInsideCycle</key>
+	<string>bulletBesideInterpreter</string>
+	<key>desktopDelegateTail</key>
+	<string>channelStrategyVelocity</string>
+	<key>multiplicationStrategyForce</key>
+	<string>intermediateProgressbarDirection</string>
+	<key>oldStatefulLocation</key>
+	<string>similarAlignmentCoord</string>
+	<key>parallelStateFrequency</key>
+	<string>bufferVisitorAcceleration</string>
+	<key>projectionByFlyweight</key>
+	<string>discardedParticleInteraction</string>
+</dict>
+</plist>

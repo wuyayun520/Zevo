@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorStructureVisibility</key>
+	<string>ignoredSubpixelMomentum</string>
+	<key>boxshadowWithoutFlyweight</key>
+	<string>behaviorFromInterpreter</string>
+	<key>groupInSystem</key>
+	<string>displayableUsageTop</string>
+	<key>mobileThanEnvironment</key>
+	<string>particleModeInteraction</string>
+	<key>modelViaEnvironment</key>
+	<string>resolverLayerValidation</string>
+	<key>timerDuringBridge</key>
+	<string>rowContextIndex</string>
+	<key>workflowThroughObserver</key>
+	<string>mobileCupertinoRate</string>
+</dict>
+</plist>

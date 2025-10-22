@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>heapProxyValidation</key>
+	<string>configurationAndStructure</string>
+	<key>ignoredSwiftAlignment</key>
+	<string>animatedHashInteraction</string>
+	<key>nextRichtextSkewy</key>
+	<string>factorySystemDirection</string>
+	<key>popupAlongSingleton</key>
+	<string>priorityContextVelocity</string>
+	<key>positionedTypeDuration</key>
+	<string>directSymbolStyle</string>
+	<key>temporaryTransformerDuration</key>
+	<string>hashThroughMemento</string>
+	<key>titleOutsideState</key>
+	<string>equipmentInActivity</string>
+</dict>
+</plist>

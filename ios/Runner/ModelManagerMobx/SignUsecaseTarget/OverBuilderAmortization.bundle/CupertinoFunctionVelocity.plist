@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderBridgeDuration</key>
+	<string>mutableCompletionState</string>
+	<key>cubitStructureMode</key>
+	<string>displayableThemeSaturation</string>
+	<key>mediaqueryNumberCount</key>
+	<string>mobxBesideMediator</string>
+	<key>menuSinceTask</key>
+	<string>seamlessButtonInteraction</string>
+	<key>missedInteractorRate</key>
+	<string>logTaskOrigin</string>
+	<key>scaffoldFacadeTransparency</key>
+	<string>agileCurveFlags</string>
+</dict>
+</plist>

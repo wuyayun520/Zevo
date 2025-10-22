@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedChannelFeedback</key>
+	<string>painterOutsideBuffer</string>
+	<key>responseAlongAdapter</key>
+	<string>remainderThanStrategy</string>
+	<key>statefulScrollLeft</key>
+	<string>loopCommandInterval</string>
+	<key>statelessLabelInteraction</key>
+	<string>uniformCoordinatorInteraction</string>
+	<key>symmetricEntityOpacity</key>
+	<string>resultInsideVariable</string>
+</dict>
+</plist>

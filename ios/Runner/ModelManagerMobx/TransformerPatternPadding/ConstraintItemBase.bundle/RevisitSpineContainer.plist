@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityStyleSaturation</key>
+	<string>routeAwaySingleton</string>
+	<key>bulletBesideAdapter</key>
+	<string>requiredHashTop</string>
+	<key>mobileAccessoryForce</key>
+	<string>controllerAtLayer</string>
+	<key>multiResolverInteraction</key>
+	<string>assetObserverLeft</string>
+	<key>navigationOperationForce</key>
+	<string>resourceVarValidation</string>
+	<key>oldRoutePosition</key>
+	<string>presenterSinceStructure</string>
+	<key>sessionAroundState</key>
+	<string>agileMethodRate</string>
+	<key>storageProxyFeedback</key>
+	<string>firstGramRate</string>
+	<key>touchTierHue</key>
+	<string>responseValueResponse</string>
+</dict>
+</plist>

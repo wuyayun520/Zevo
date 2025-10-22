@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisAmongFramework</key>
+	<string>exceptionStrategyLeft</string>
+	<key>eventDuringLevel</key>
+	<string>tabbarDespiteInterpreter</string>
+	<key>exceptionWithoutDecorator</key>
+	<string>textMementoSpacing</string>
+	<key>gridviewViaVisitor</key>
+	<string>backwardSignTransparency</string>
+	<key>positionedInterpreterBottom</key>
+	<string>activatedCommandTag</string>
+	<key>unsortedOffsetEdge</key>
+	<string>errorAmongComposite</string>
+	<key>unsortedRectInset</key>
+	<string>usecaseEnvironmentPadding</string>
+</dict>
+</plist>

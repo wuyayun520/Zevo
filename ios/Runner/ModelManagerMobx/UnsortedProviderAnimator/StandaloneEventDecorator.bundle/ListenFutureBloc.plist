@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateLikeStage</key>
+	<string>significantNodeTop</string>
+	<key>deferredOptimizerStyle</key>
+	<string>listenerByObserver</string>
+	<key>dependencySinceState</key>
+	<string>constraintStructureStatus</string>
+	<key>eventModeTag</key>
+	<string>integerActionVelocity</string>
+	<key>graphicStateDelay</key>
+	<string>radiusDespiteLayer</string>
+	<key>layerExceptStage</key>
+	<string>storageTierContrast</string>
+	<key>repositoryCompositeKind</key>
+	<string>resultThanVisitor</string>
+	<key>transitionTierDensity</key>
+	<string>mediaqueryDecoratorPosition</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteCallbackDepth</key>
+	<string>flexibleTaskSkewy</string>
+	<key>controllerDespiteActivity</key>
+	<string>nativeScrollAcceleration</string>
+	<key>logWithoutType</key>
+	<string>alertAmongChain</string>
+	<key>materialDecorationVisible</key>
+	<string>constraintInSystem</string>
+	<key>originalModelIndex</key>
+	<string>petCompositeSkewx</string>
+	<key>ternaryTaskMode</key>
+	<string>customProgressbarLeft</string>
+	<key>transitionOutsideVariable</key>
+	<string>segueDuringTask</string>
+	<key>tweenExceptType</key>
+	<string>commonSpineState</string>
+	<key>usedExceptionTag</key>
+	<string>cupertinoProfileAcceleration</string>
+</dict>
+</plist>

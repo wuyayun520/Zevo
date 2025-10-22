@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>offsetAdapterCenter</key>
+	<string>constraintFunctionMargin</string>
+	<key>reactiveBoxshadowVisible</key>
+	<string>enabledButtonSize</string>
+	<key>reactiveMatrixCenter</key>
+	<string>singleTickerShade</string>
+	<key>reducerVariableSize</key>
+	<string>enabledCanvasAppearance</string>
+	<key>riverpodAgainstPrototype</key>
+	<string>hyperbolicDescriptionValidation</string>
+	<key>tweenThroughStage</key>
+	<string>symmetricManagerTheme</string>
+</dict>
+</plist>

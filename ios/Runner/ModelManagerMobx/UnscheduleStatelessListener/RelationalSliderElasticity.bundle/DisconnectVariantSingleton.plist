@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerActivityLocation</key>
+	<string>localizationSingletonStyle</string>
+	<key>largeRectMargin</key>
+	<string>rectFlyweightCoord</string>
+	<key>nibStrategyAcceleration</key>
+	<string>otherUtilState</string>
+	<key>zonePlatformDensity</key>
+	<string>alignmentViaProcess</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionVarAcceleration</key>
+	<string>immutableTangentSpeed</string>
+	<key>dynamicPopupPressure</key>
+	<string>typicalEventBound</string>
+	<key>integerMementoScale</key>
+	<string>iconMementoFormat</string>
+	<key>isolateExceptPlatform</key>
+	<string>flexPlatformScale</string>
+	<key>localAwaitIndex</key>
+	<string>momentumCommandState</string>
+	<key>nodeAmongProxy</key>
+	<string>singletonUntilBuffer</string>
+</dict>
+</plist>

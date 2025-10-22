@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveAtParam</key>
+	<string>constKernelAcceleration</string>
+	<key>inheritedRequestMode</key>
+	<string>delegateDuringBuffer</string>
+	<key>operationParameterBehavior</key>
+	<string>diffableVectorSpeed</string>
+	<key>remainderAlongMethod</key>
+	<string>animatedModulusValidation</string>
+	<key>rowExceptPattern</key>
+	<string>vectorWithoutOperation</string>
+	<key>sessionWorkPosition</key>
+	<string>mutableNodeSkewy</string>
+	<key>significantCurveSpeed</key>
+	<string>methodWithoutStructure</string>
+</dict>
+</plist>

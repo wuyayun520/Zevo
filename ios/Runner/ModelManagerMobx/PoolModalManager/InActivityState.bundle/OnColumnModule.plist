@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupUntilFlyweight</key>
+	<string>channelsByMemento</string>
+	<key>pinchableVariantInteraction</key>
+	<string>previewBeyondLayer</string>
+	<key>resultContextRotation</key>
+	<string>inactiveCurveForce</string>
+	<key>riverpodAsFlyweight</key>
+	<string>operationJobEdge</string>
+</dict>
+</plist>

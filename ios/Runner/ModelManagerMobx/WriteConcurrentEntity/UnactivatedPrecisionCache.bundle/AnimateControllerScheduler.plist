@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentTaskOrigin</key>
+	<string>standaloneSpriteOffset</string>
+	<key>batchAgainstKind</key>
+	<string>animatedPaddingForce</string>
+	<key>callbackOrParam</key>
+	<string>heroNumberSpeed</string>
+	<key>drawerVisitorTransparency</key>
+	<string>queueMementoBottom</string>
+	<key>invisibleTimerRight</key>
+	<string>chartVisitorOffset</string>
+	<key>radioWithoutPattern</key>
+	<string>listviewModeInteraction</string>
+	<key>skirtExceptNumber</key>
+	<string>denseGateBehavior</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityThanCommand</key>
+	<string>normalChapterDistance</string>
+	<key>alertTypeTheme</key>
+	<string>sharedShaderBottom</string>
+	<key>blocCycleBorder</key>
+	<string>alertStageFormat</string>
+	<key>cubitSingletonName</key>
+	<string>cursorPhaseHue</string>
+	<key>discardedDependencyKind</key>
+	<string>delegateAtContext</string>
+	<key>isolateAwayType</key>
+	<string>mainCaptionKind</string>
+	<key>parallelMetadataLeft</key>
+	<string>interfaceInsideLayer</string>
+</dict>
+</plist>

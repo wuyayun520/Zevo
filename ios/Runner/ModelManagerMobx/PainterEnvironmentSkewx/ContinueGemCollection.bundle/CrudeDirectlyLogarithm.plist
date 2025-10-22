@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customNodeSpacing</key>
+	<string>euclideanTaskTag</string>
+	<key>ephemeralSubscriptionCoord</key>
+	<string>statelessSpriteOffset</string>
+	<key>heroInStage</key>
+	<string>expandedAdapterMode</string>
+	<key>independentShaderFrequency</key>
+	<string>elasticNavigatorTheme</string>
+	<key>popupBeyondShape</key>
+	<string>sceneFlyweightAppearance</string>
+	<key>radiusStateRight</key>
+	<string>uniformCallbackTransparency</string>
+	<key>swiftParamStyle</key>
+	<string>layerModeKind</string>
+	<key>unsortedDecorationSkewx</key>
+	<string>allocatorAsPattern</string>
+	<key>usedDimensionPressure</key>
+	<string>referenceAlongCommand</string>
+</dict>
+</plist>

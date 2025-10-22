@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletPhaseMargin</key>
+	<string>responsiveTextfieldOpacity</string>
+	<key>configurationParamShape</key>
+	<string>subtleGraphFeedback</string>
+	<key>layoutChainRotation</key>
+	<string>overlayPatternType</string>
+	<key>tabbarAtJob</key>
+	<string>eventCompositeAcceleration</string>
+</dict>
+</plist>

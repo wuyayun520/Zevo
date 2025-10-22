@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushAwayFlyweight</key>
+	<string>movementTempleTop</string>
+	<key>constraintAtInterpreter</key>
+	<string>positionedBridgeDelay</string>
+	<key>containerCycleStyle</key>
+	<string>diffableGesturedetectorVelocity</string>
+	<key>inactiveChartBound</key>
+	<string>borderInsideType</string>
+	<key>positionedAwayForm</key>
+	<string>boxshadowFunctionPadding</string>
+	<key>vectorThroughStrategy</key>
+	<string>asyncFunctionName</string>
+</dict>
+</plist>

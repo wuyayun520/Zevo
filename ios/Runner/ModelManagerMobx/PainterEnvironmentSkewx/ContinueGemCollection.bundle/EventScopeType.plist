@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonStrategyRate</key>
+	<string>globalConfigurationAlignment</string>
+	<key>channelBufferKind</key>
+	<string>ignoredEntityBottom</string>
+	<key>completerOutsideComposite</key>
+	<string>spriteSystemVisible</string>
+	<key>completionChainCenter</key>
+	<string>effectProcessColor</string>
+	<key>configurationViaParameter</key>
+	<string>stampFrameworkSaturation</string>
+	<key>gemInMemento</key>
+	<string>alertStyleOrientation</string>
+	<key>labelLikeLayer</key>
+	<string>repositoryContainMemento</string>
+	<key>segmentAndVariable</key>
+	<string>intensityKindPosition</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedAlignmentTag</key>
+	<string>uniqueNavigationRate</string>
+	<key>entropyPhaseInset</key>
+	<string>dedicatedScaleDistance</string>
+	<key>intuitiveInteractorSize</key>
+	<string>commandPerKind</string>
+	<key>responsiveGridviewSkewy</key>
+	<string>instructionVariableSkewy</string>
+	<key>routeWithoutTask</key>
+	<string>concreteExceptionCenter</string>
+	<key>scaffoldMediatorRight</key>
+	<string>notifierDuringStructure</string>
+	<key>scrollablePlaybackResponse</key>
+	<string>menuStageBehavior</string>
+	<key>subscriptionExceptState</key>
+	<string>staticAnimationOpacity</string>
+</dict>
+</plist>

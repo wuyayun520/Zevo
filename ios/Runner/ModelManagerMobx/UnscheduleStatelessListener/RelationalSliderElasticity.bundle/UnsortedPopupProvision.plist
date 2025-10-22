@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryWithoutTemple</key>
+	<string>agileRepositoryBottom</string>
+	<key>builderFlyweightFrequency</key>
+	<string>queueUntilActivity</string>
+	<key>compositionThroughDecorator</key>
+	<string>errorStateInterval</string>
+	<key>displayableControllerSkewy</key>
+	<string>materialDependencyShape</string>
+	<key>precisionThroughMemento</key>
+	<string>cartesianLabelBound</string>
+	<key>projectStyleMomentum</key>
+	<string>navigatorSystemShade</string>
+	<key>publicStorageSaturation</key>
+	<string>fixedAlertHue</string>
+	<key>viewStyleName</key>
+	<string>symbolJobStyle</string>
+</dict>
+</plist>

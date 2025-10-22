@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorScopeOrigin</key>
+	<string>cacheActionOrientation</string>
+	<key>criticalTransformerFlags</key>
+	<string>featureWithParameter</string>
+	<key>desktopQueryScale</key>
+	<string>cellFacadeShape</string>
+	<key>firstDescriptionVisible</key>
+	<string>checkboxTypeFormat</string>
+	<key>intensityAtJob</key>
+	<string>constSpineSkewx</string>
+	<key>logarithmStyleTop</key>
+	<string>resultPatternSkewx</string>
+	<key>optionParameterLeft</key>
+	<string>dependencyAndActivity</string>
+	<key>rowLevelFrequency</key>
+	<string>adaptiveErrorTransparency</string>
+	<key>statefulStateEdge</key>
+	<string>ephemeralFragmentValidation</string>
+	<key>transitionContextMomentum</key>
+	<string>uniformLogDistance</string>
+</dict>
+</plist>

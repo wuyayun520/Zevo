@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocTypeInset</key>
+	<string>unsortedLabelCenter</string>
+	<key>constraintInFunction</key>
+	<string>transitionAboutBuffer</string>
+	<key>featureExceptComposite</key>
+	<string>shaderIncludeContext</string>
+	<key>graphicProcessDistance</key>
+	<string>gesturedetectorUntilPattern</string>
+</dict>
+</plist>

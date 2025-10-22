@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>localSineShape</key>
+	<string>arithmeticCoordinatorVelocity</string>
+	<key>remainderMediatorFeedback</key>
+	<string>containerStrategyOffset</string>
+	<key>sceneTaskFeedback</key>
+	<string>prevCosineInterval</string>
+	<key>skirtBridgeContrast</key>
+	<string>containerParamTint</string>
+	<key>ternaryAndParam</key>
+	<string>decorationVersusVariable</string>
+</dict>
+</plist>

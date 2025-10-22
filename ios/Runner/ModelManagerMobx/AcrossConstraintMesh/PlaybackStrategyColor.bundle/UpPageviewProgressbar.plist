@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxKindSkewx</key>
+	<string>usecaseAboutAction</string>
+	<key>delegatePerTask</key>
+	<string>switchOutsideMode</string>
+	<key>descriptorOperationPressure</key>
+	<string>overlayActionFrequency</string>
+	<key>explicitRouteVisible</key>
+	<string>metadataAsMethod</string>
+	<key>getxAsBridge</key>
+	<string>particleMediatorLeft</string>
+	<key>imperativeMapShape</key>
+	<string>usecaseCompositeSkewx</string>
+	<key>metadataCompositeMomentum</key>
+	<string>interactorPlatformType</string>
+	<key>positionMediatorSaturation</key>
+	<string>featureOrStyle</string>
+	<key>positionOfBridge</key>
+	<string>semanticStoreDistance</string>
+	<key>transitionProcessVisible</key>
+	<string>autoBehaviorBrightness</string>
+</dict>
+</plist>

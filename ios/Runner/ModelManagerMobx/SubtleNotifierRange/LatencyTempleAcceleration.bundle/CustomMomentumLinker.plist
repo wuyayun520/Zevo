@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderBufferMargin</key>
+	<string>routerForMemento</string>
+	<key>functionalCycleSaturation</key>
+	<string>utilInCycle</string>
+	<key>masterViaDecorator</key>
+	<string>missedFrameFeedback</string>
+	<key>monsterViaProcess</key>
+	<string>queueExceptAction</string>
+	<key>roleInParam</key>
+	<string>popupAlongWork</string>
+	<key>tabbarMediatorVisibility</key>
+	<string>switchTypeInteraction</string>
+	<key>timerBufferSpeed</key>
+	<string>logSinceStructure</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelNearShape</key>
+	<string>awaitByState</string>
+	<key>featureFrameworkTag</key>
+	<string>semanticsViaStage</string>
+	<key>managerTypeVisible</key>
+	<string>seamlessPointOpacity</string>
+	<key>monsterStageResponse</key>
+	<string>keyDimensionCoord</string>
+	<key>statelessStorageLocation</key>
+	<string>routeDuringFlyweight</string>
+</dict>
+</plist>

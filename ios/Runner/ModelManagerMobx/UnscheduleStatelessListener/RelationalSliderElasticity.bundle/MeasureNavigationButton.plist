@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionExceptContext</key>
+	<string>viewForInterpreter</string>
+	<key>baselineTierScale</key>
+	<string>staticRowEdge</string>
+	<key>bufferStateLocation</key>
+	<string>rowVarAlignment</string>
+	<key>chartModeRight</key>
+	<string>assetLikeAction</string>
+	<key>composableResourceTheme</key>
+	<string>painterShapePressure</string>
+	<key>delegateVersusVisitor</key>
+	<string>diffableDropdownbuttonEdge</string>
+	<key>displayableTaskRate</key>
+	<string>multiGesturePressure</string>
+	<key>typicalOverlayAcceleration</key>
+	<string>layoutOutsidePhase</string>
+	<key>utilMediatorFormat</key>
+	<string>currentLayoutSaturation</string>
+</dict>
+</plist>

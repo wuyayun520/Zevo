@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gesturedetectorContextVelocity</key>
+	<string>normalOptionOrientation</string>
+	<key>invisibleTabbarSpeed</key>
+	<string>decorationCommandDensity</string>
+	<key>navigatorMediatorBehavior</key>
+	<string>threadInStage</string>
+	<key>queryInMemento</key>
+	<string>resizableProfileMargin</string>
+	<key>requestOfFacade</key>
+	<string>semanticTickerDuration</string>
+	<key>textNearSystem</key>
+	<string>cubeVersusLayer</string>
+	<key>unsortedSingletonPadding</key>
+	<string>groupLikeShape</string>
+</dict>
+</plist>

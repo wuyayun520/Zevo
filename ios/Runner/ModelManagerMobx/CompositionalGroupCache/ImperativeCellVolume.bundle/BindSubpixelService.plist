@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralPositionCount</key>
+	<string>activityThroughContext</string>
+	<key>exceptionCycleBottom</key>
+	<string>constraintContextEdge</string>
+	<key>lastQueryOrigin</key>
+	<string>mobileTopicVelocity</string>
+	<key>notificationLayerCenter</key>
+	<string>primaryAwaitTransparency</string>
+	<key>providerAmongDecorator</key>
+	<string>granularDurationLeft</string>
+	<key>relationalPromiseOpacity</key>
+	<string>smartReducerVelocity</string>
+	<key>screenStageScale</key>
+	<string>constraintObserverTail</string>
+</dict>
+</plist>

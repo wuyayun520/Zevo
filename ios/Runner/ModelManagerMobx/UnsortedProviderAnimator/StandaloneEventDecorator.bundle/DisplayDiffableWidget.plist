@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grainOfShape</key>
+	<string>baseVersusVisitor</string>
+	<key>mapAtEnvironment</key>
+	<string>visibleLayoutType</string>
+	<key>precisionInParam</key>
+	<string>layerExceptParam</string>
+	<key>routeValueSkewy</key>
+	<string>nextDurationSkewy</string>
+	<key>visibleCubitFlags</key>
+	<string>semanticSkinSize</string>
+</dict>
+</plist>

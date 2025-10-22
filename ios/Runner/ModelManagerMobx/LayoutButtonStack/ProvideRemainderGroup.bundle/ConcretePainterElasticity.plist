@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocSystemPosition</key>
+	<string>behaviorAndContext</string>
+	<key>completionLikeState</key>
+	<string>completerScopeSpeed</string>
+	<key>instructionCompositeDepth</key>
+	<string>layerInStructure</string>
+	<key>listenerForComposite</key>
+	<string>keyNodeDistance</string>
+	<key>retainedGridOffset</key>
+	<string>largeResourceCoord</string>
+	<key>routeDuringLayer</key>
+	<string>labelAndTier</string>
+	<key>sampleDecoratorStatus</key>
+	<string>keyObserverRight</string>
+	<key>sequentialPlaybackMomentum</key>
+	<string>animatedBlocMargin</string>
+	<key>tappableVariantBehavior</key>
+	<string>sustainableTimerSkewx</string>
+</dict>
+</plist>

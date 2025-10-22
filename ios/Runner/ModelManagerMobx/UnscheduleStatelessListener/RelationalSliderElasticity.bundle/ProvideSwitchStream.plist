@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertFormFeedback</key>
+	<string>cardStageInset</string>
+	<key>builderViaFlyweight</key>
+	<string>skinContainParameter</string>
+	<key>columnJobAcceleration</key>
+	<string>hierarchicalNodeAcceleration</string>
+	<key>imageStyleFlags</key>
+	<string>optionStageBottom</string>
+</dict>
+</plist>

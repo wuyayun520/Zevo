@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocChainType</key>
+	<string>inactiveAspectBehavior</string>
+	<key>flexibleUsecaseScale</key>
+	<string>timerFromParam</string>
+	<key>storeByFlyweight</key>
+	<string>textureViaBuffer</string>
+	<key>subpixelEnvironmentIndex</key>
+	<string>matrixBufferOpacity</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonThanBridge</key>
+	<string>columnSingletonAlignment</string>
+	<key>coordinatorProcessDelay</key>
+	<string>hyperbolicGroupDuration</string>
+	<key>decorationVarForce</key>
+	<string>isolateThanDecorator</string>
+	<key>inactiveListenerDistance</key>
+	<string>customizedSubscriptionMode</string>
+	<key>missedAlertRate</key>
+	<string>viewBeyondActivity</string>
+	<key>pointProxyDensity</key>
+	<string>unactivatedPositionShade</string>
+	<key>resizableIsolateShade</key>
+	<string>progressbarAsState</string>
+	<key>segmentAmongStyle</key>
+	<string>batchScopeTail</string>
+	<key>sliderAwayTier</key>
+	<string>tangentExceptJob</string>
+</dict>
+</plist>

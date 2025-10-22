@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalStatePadding</key>
+	<string>requiredLoopPadding</string>
+	<key>gestureAdapterFormat</key>
+	<string>workflowVariableShape</string>
+	<key>localizationWithoutLayer</key>
+	<string>basicGrayscaleTail</string>
+	<key>masterOfVariable</key>
+	<string>sensorPrototypeLeft</string>
+	<key>normalConvolutionState</key>
+	<string>routeTierPosition</string>
+	<key>roleTaskValidation</key>
+	<string>oldRectBorder</string>
+	<key>symmetricTabviewFeedback</key>
+	<string>positionedOrStage</string>
+</dict>
+</plist>

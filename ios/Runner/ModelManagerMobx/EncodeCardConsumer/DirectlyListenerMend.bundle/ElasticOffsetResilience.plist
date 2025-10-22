@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeStatefulTheme</key>
+	<string>spotWorkInset</string>
+	<key>durationAlongEnvironment</key>
+	<string>switchFormStatus</string>
+	<key>groupValueInterval</key>
+	<string>nativeEntityAlignment</string>
+	<key>listenerCompositeDelay</key>
+	<string>completerShapeDirection</string>
+	<key>monsterShapeValidation</key>
+	<string>brushContainMediator</string>
+</dict>
+</plist>

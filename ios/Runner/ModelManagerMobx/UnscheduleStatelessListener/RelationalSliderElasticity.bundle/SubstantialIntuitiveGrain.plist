@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonFlyweightAcceleration</key>
+	<string>animationPlatformOrigin</string>
+	<key>controllerOperationOpacity</key>
+	<string>positionedCycleSpacing</string>
+	<key>mutablePresenterVisible</key>
+	<string>requestStyleSpacing</string>
+	<key>rectTempleFormat</key>
+	<string>hashAwayTask</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentInterpreterTransparency</key>
+	<string>accessibleServiceCoord</string>
+	<key>commonFactoryMode</key>
+	<string>resultScopeVisible</string>
+	<key>compositionDecoratorTail</key>
+	<string>statefulRectEdge</string>
+	<key>menuAroundCommand</key>
+	<string>scrollablePageviewInset</string>
+	<key>positionedStrategySpacing</key>
+	<string>frameValueDelay</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticProviderType</key>
+	<string>particleThanComposite</string>
+	<key>declarativeParticleOrientation</key>
+	<string>reusableInteractorTop</string>
+	<key>delegateOutsideAction</key>
+	<string>robustExponentCount</string>
+	<key>factoryProcessType</key>
+	<string>routeStageType</string>
+	<key>labelFrameworkSize</key>
+	<string>pointBeyondInterpreter</string>
+	<key>providerMementoTransparency</key>
+	<string>interactorContainOperation</string>
+	<key>storagePlatformFeedback</key>
+	<string>mediumGesturedetectorBottom</string>
+</dict>
+</plist>

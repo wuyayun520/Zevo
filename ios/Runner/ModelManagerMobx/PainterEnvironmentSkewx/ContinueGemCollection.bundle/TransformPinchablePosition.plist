@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveProxyScale</key>
+	<string>navigatorIncludeCommand</string>
+	<key>documentBufferBehavior</key>
+	<string>sessionAmongCycle</string>
+	<key>durationShapeBrightness</key>
+	<string>timerAtFlyweight</string>
+	<key>explicitListviewDensity</key>
+	<string>resourceSingletonStyle</string>
+	<key>flexibleSegueSpacing</key>
+	<string>pointDespiteShape</string>
+	<key>hyperbolicMediaDistance</key>
+	<string>handlerPerFacade</string>
+	<key>mapFlyweightBehavior</key>
+	<string>lastStampInteraction</string>
+</dict>
+</plist>

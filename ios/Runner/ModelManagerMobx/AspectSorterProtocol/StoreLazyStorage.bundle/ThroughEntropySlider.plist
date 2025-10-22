@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedLocalizationStyle</key>
+	<string>catalystWithAdapter</string>
+	<key>imperativeGradientInset</key>
+	<string>featureMediatorShade</string>
+	<key>listenerDuringCycle</key>
+	<string>bufferDespiteContext</string>
+	<key>mediaqueryContextBottom</key>
+	<string>storeViaForm</string>
+	<key>priorityLevelResponse</key>
+	<string>missedImagePadding</string>
+	<key>subscriptionFromTier</key>
+	<string>standaloneCardAlignment</string>
+	<key>webMusicSaturation</key>
+	<string>temporaryResponseForce</string>
+</dict>
+</plist>

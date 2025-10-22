@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesInsideWork</key>
+	<string>topicShapeTail</string>
+	<key>dependencyAdapterPosition</key>
+	<string>bufferOperationTail</string>
+	<key>layoutStagePadding</key>
+	<string>storeVarFeedback</string>
+	<key>mediumCubeHue</key>
+	<string>musicLevelValidation</string>
+	<key>methodEnvironmentVisible</key>
+	<string>semanticsObserverResponse</string>
+	<key>monsterDuringMediator</key>
+	<string>channelAndStructure</string>
+	<key>stampExceptWork</key>
+	<string>accessoryNearFlyweight</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorByStrategy</key>
+	<string>accessoryThroughActivity</string>
+	<key>controllerTaskInset</key>
+	<string>permanentTopicCenter</string>
+	<key>effectFormDistance</key>
+	<string>checkboxNearContext</string>
+	<key>lostCosineOffset</key>
+	<string>greatRowCoord</string>
+	<key>managerOrProxy</key>
+	<string>grayscaleFrameworkBorder</string>
+	<key>segueFlyweightState</key>
+	<string>listenerFunctionVelocity</string>
+	<key>serviceSincePlatform</key>
+	<string>mainSliderPadding</string>
+	<key>signAboutDecorator</key>
+	<string>transitionAsType</string>
+</dict>
+</plist>

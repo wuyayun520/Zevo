@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gesturedetectorVersusFacade</key>
+	<string>blocPerTask</string>
+	<key>normalPainterShade</key>
+	<string>hashSystemAlignment</string>
+	<key>routeEnvironmentFlags</key>
+	<string>declarativeStatefulAcceleration</string>
+	<key>samplePerStage</key>
+	<string>persistentBuilderPadding</string>
+	<key>scrollThroughVariable</key>
+	<string>agileFrameIndex</string>
+</dict>
+</plist>

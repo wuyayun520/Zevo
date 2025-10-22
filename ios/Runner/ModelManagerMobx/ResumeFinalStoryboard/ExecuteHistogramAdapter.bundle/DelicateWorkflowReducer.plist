@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelFunctionFormat</key>
+	<string>nodeInInterpreter</string>
+	<key>frameOutsideVariable</key>
+	<string>futurePlatformPadding</string>
+	<key>gesturedetectorPerVariable</key>
+	<string>momentumAroundPattern</string>
+	<key>projectForScope</key>
+	<string>agileStampPosition</string>
+	<key>secondDescriptorOffset</key>
+	<string>modalTempleDensity</string>
+	<key>seguePhaseSpeed</key>
+	<string>uniqueTickerStyle</string>
+</dict>
+</plist>

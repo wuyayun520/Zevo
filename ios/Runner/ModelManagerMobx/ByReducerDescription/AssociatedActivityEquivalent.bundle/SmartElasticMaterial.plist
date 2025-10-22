@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectBeyondBuffer</key>
+	<string>timerAtContext</string>
+	<key>aspectratioCompositeRate</key>
+	<string>materialVersusJob</string>
+	<key>granularMenuDelay</key>
+	<string>dedicatedSliderInterval</string>
+	<key>lazyInterfaceTop</key>
+	<string>mobileAroundMediator</string>
+	<key>localizationUntilTemple</key>
+	<string>zoneStageMargin</string>
+	<key>momentumActionSkewy</key>
+	<string>desktopPopupSpeed</string>
+	<key>seamlessTabbarEdge</key>
+	<string>protectedStampBottom</string>
+	<key>sensorThroughForm</key>
+	<string>radiusVersusDecorator</string>
+</dict>
+</plist>

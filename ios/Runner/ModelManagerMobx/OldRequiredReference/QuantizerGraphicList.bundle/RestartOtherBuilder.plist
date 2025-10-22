@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticLayerTag</key>
+	<string>controllerForPattern</string>
+	<key>axisSinceStage</key>
+	<string>taskViaProxy</string>
+	<key>brushTaskInterval</key>
+	<string>stepThroughStyle</string>
+	<key>buttonSinceComposite</key>
+	<string>injectionCompositeMargin</string>
+	<key>checkboxLikeFlyweight</key>
+	<string>taskInsideMemento</string>
+	<key>heapTempleSkewy</key>
+	<string>standaloneSignatureSpeed</string>
+	<key>iterativeCapsuleDirection</key>
+	<string>desktopContainerDistance</string>
+	<key>modelThroughStage</key>
+	<string>relationalProgressbarColor</string>
+	<key>permanentProjectionColor</key>
+	<string>errorShapeStatus</string>
+</dict>
+</plist>

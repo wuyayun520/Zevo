@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedWidgetHue</key>
+	<string>bulletTaskStyle</string>
+	<key>collectionDespiteType</key>
+	<string>routerIncludeLayer</string>
+	<key>cubitAwayAdapter</key>
+	<string>composableFrameCenter</string>
+	<key>delegateStyleStyle</key>
+	<string>autoAlignmentOffset</string>
+	<key>functionalPrecisionResponse</key>
+	<string>timerBufferSpeed</string>
+	<key>localizationFrameworkIndex</key>
+	<string>semanticsKindValidation</string>
+	<key>movementStrategyState</key>
+	<string>resultProxyColor</string>
+	<key>promiseVisitorAcceleration</key>
+	<string>dynamicGrainPressure</string>
+	<key>widgetSingletonVelocity</key>
+	<string>responsiveResourceSaturation</string>
+</dict>
+</plist>

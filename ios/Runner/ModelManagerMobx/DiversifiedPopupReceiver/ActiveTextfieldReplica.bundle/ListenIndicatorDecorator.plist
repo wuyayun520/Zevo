@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonPrototypeTag</key>
+	<string>gridviewLikeBridge</string>
+	<key>cupertinoDecoratorAcceleration</key>
+	<string>particleByVariable</string>
+	<key>cursorAndKind</key>
+	<string>retainedLocalizationRate</string>
+	<key>diffableSwiftTransparency</key>
+	<string>hierarchicalUsageBorder</string>
+	<key>interactorThanKind</key>
+	<string>isolateDecoratorAcceleration</string>
+	<key>signLevelAlignment</key>
+	<string>completionMethodSaturation</string>
+	<key>staticDescriptionAcceleration</key>
+	<string>curveDuringPattern</string>
+	<key>swiftMediatorTheme</key>
+	<string>cellVersusForm</string>
+	<key>symmetricOffsetMode</key>
+	<string>storePlatformSkewx</string>
+	<key>uniformCompletionInset</key>
+	<string>publicTextureOffset</string>
+</dict>
+</plist>

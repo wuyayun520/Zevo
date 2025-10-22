@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleExtensionHue</key>
+	<string>taskAsAdapter</string>
+	<key>activatedInteractorPosition</key>
+	<string>menuStyleDirection</string>
+	<key>frameSystemDelay</key>
+	<string>brushValueAcceleration</string>
+	<key>progressbarBufferDuration</key>
+	<string>appbarByContext</string>
+</dict>
+</plist>

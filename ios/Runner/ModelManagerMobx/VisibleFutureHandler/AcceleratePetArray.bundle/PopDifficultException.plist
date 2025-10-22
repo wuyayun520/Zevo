@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystNumberShape</key>
+	<string>paddingInLayer</string>
+	<key>delicateServiceInterval</key>
+	<string>adaptiveResourceSkewx</string>
+	<key>handlerMethodSpacing</key>
+	<string>nativeSlashDistance</string>
+	<key>visibleGraphValidation</key>
+	<string>interpolationAgainstSingleton</string>
+</dict>
+</plist>

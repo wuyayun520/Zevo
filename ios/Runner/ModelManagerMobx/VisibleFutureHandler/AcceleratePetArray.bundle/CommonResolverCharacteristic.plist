@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousDependencyDirection</key>
+	<string>builderScopeInset</string>
+	<key>grayscaleForVar</key>
+	<string>gesturedetectorContextCount</string>
+	<key>mediumInterpolationBrightness</key>
+	<string>beginnerInteractorTint</string>
+	<key>navigatorKindSpeed</key>
+	<string>difficultCatalystHue</string>
+	<key>topicAwayBuffer</key>
+	<string>blocParamTag</string>
+</dict>
+</plist>

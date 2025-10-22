@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxByContext</key>
+	<string>factoryTypeTheme</string>
+	<key>gateObserverTransparency</key>
+	<string>menuViaObserver</string>
+	<key>immutableProgressbarScale</key>
+	<string>grainOrMediator</string>
+	<key>lossVariableState</key>
+	<string>cubitForVariable</string>
+	<key>providerPrototypeRate</key>
+	<string>stampSystemTension</string>
+	<key>spineFrameworkRight</key>
+	<string>skinDespiteEnvironment</string>
+	<key>textOutsideSystem</key>
+	<string>entropyAndInterpreter</string>
+</dict>
+</plist>

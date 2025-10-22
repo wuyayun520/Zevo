@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerByStrategy</key>
+	<string>activityLayerSkewx</string>
+	<key>decorationDuringShape</key>
+	<string>resourceShapeVisibility</string>
+	<key>intermediateRowOpacity</key>
+	<string>animatedcontainerExceptMediator</string>
+	<key>momentumIncludeType</key>
+	<string>enabledTitleStatus</string>
+	<key>rectBridgeName</key>
+	<string>sortedTransitionCenter</string>
+	<key>semanticEffectColor</key>
+	<string>resolverUntilState</string>
+	<key>sophisticatedRouteSkewx</key>
+	<string>sinkParameterSpeed</string>
+	<key>synchronousModalMomentum</key>
+	<string>segueOrState</string>
+	<key>unsortedSinkAcceleration</key>
+	<string>newestInterfaceShade</string>
+</dict>
+</plist>

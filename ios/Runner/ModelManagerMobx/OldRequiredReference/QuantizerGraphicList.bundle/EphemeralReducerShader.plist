@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectActionSaturation</key>
+	<string>cubitWithoutVariable</string>
+	<key>contractionVersusValue</key>
+	<string>gradientScopeEdge</string>
+	<key>discardedAsyncTop</key>
+	<string>staticCubitName</string>
+	<key>finalKernelDelay</key>
+	<string>referencePerStyle</string>
+	<key>specifySampleStyle</key>
+	<string>protocolContainJob</string>
+	<key>transitionParamAcceleration</key>
+	<string>fixedSineVisibility</string>
+	<key>typicalMethodState</key>
+	<string>instructionActionLocation</string>
+	<key>widgetFromStyle</key>
+	<string>navigatorPlatformInteraction</string>
+</dict>
+</plist>

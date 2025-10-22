@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderAwaySingleton</key>
+	<string>expandedAgainstCycle</string>
+	<key>convolutionMementoCenter</key>
+	<string>sliderThroughMemento</string>
+	<key>descriptionVariableState</key>
+	<string>significantTitlePadding</string>
+	<key>heroBeyondCommand</key>
+	<string>injectionIncludeMediator</string>
+	<key>intensityAdapterInset</key>
+	<string>referenceKindLocation</string>
+	<key>repositoryPerBridge</key>
+	<string>presenterOutsideStrategy</string>
+</dict>
+</plist>

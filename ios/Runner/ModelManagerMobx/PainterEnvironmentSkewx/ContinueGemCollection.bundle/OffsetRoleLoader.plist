@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedLogAcceleration</key>
+	<string>parallelHandlerFrequency</string>
+	<key>navigatorForAction</key>
+	<string>layerLikePlatform</string>
+	<key>relationalFeatureOrientation</key>
+	<string>multiAspectHue</string>
+	<key>scrollContainDecorator</key>
+	<string>transitionByLayer</string>
+	<key>textureFormColor</key>
+	<string>navigatorTempleOpacity</string>
+	<key>threadTierTheme</key>
+	<string>exceptionPrototypeOpacity</string>
+</dict>
+</plist>

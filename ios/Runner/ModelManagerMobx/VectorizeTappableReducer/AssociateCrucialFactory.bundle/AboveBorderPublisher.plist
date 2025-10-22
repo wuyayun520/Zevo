@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricStepSkewy</key>
+	<string>viewPrototypeFlags</string>
+	<key>layoutAlongCommand</key>
+	<string>transformerAgainstParameter</string>
+	<key>materialMonsterOrigin</key>
+	<string>transitionOutsideLevel</string>
+	<key>optimizerVariableRotation</key>
+	<string>contractionAlongComposite</string>
+	<key>screenMediatorOpacity</key>
+	<string>frameWorkFrequency</string>
+</dict>
+</plist>

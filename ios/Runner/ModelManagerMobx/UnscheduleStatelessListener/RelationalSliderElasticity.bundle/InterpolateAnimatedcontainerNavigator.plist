@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferAdapterBehavior</key>
+	<string>accessibleManagerDelay</string>
+	<key>cartesianRowVisibility</key>
+	<string>resultForComposite</string>
+	<key>directlyUtilDepth</key>
+	<string>euclideanAsyncSize</string>
+	<key>hierarchicalRouterTop</key>
+	<string>stackBesidePrototype</string>
+	<key>keyBulletCount</key>
+	<string>particleTaskCoord</string>
+	<key>lostTextureDistance</key>
+	<string>awaitAroundLevel</string>
+	<key>menuScopeIndex</key>
+	<string>assetPerStyle</string>
+	<key>pinchableSizeSize</key>
+	<string>delegateUntilJob</string>
+	<key>tableTaskPadding</key>
+	<string>greatLogarithmFrequency</string>
+</dict>
+</plist>

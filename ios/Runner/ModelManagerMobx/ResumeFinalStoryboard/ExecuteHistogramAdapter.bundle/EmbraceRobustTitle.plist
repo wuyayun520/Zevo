@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackOperationVelocity</key>
+	<string>axisWorkShape</string>
+	<key>commandWithoutDecorator</key>
+	<string>directlyFactoryDuration</string>
+	<key>dynamicMatrixPosition</key>
+	<string>standaloneAxisDistance</string>
+	<key>matrixMethodFeedback</key>
+	<string>discardedListenerIndex</string>
+	<key>missedCurveBound</key>
+	<string>dialogsMethodTint</string>
+</dict>
+</plist>

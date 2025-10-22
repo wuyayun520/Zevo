@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileAlertColor</key>
+	<string>collectionCycleDirection</string>
+	<key>associatedCapsuleTail</key>
+	<string>loopThroughMode</string>
+	<key>baselineByDecorator</key>
+	<string>routerBridgeForce</string>
+	<key>constBlocBottom</key>
+	<string>listenerAroundEnvironment</string>
+	<key>memberMethodMargin</key>
+	<string>timerFrameworkPadding</string>
+	<key>singletonFrameworkShape</key>
+	<string>loopAgainstEnvironment</string>
+	<key>taskContextDensity</key>
+	<string>persistentCoordinatorMomentum</string>
+	<key>variantStageFrequency</key>
+	<string>segueAwayCycle</string>
+	<key>viewStructureTheme</key>
+	<string>asyncCaptionRight</string>
+	<key>zoneInFlyweight</key>
+	<string>managerInSingleton</string>
+</dict>
+</plist>

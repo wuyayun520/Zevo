@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentResolverDuration</key>
+	<string>transitionThroughAdapter</string>
+	<key>curveSingletonAlignment</key>
+	<string>zoneFromLevel</string>
+	<key>errorCompositeName</key>
+	<string>asyncContextShade</string>
+	<key>injectionNearPrototype</key>
+	<string>groupLikeLevel</string>
+	<key>interactorThroughMode</key>
+	<string>granularParticleAcceleration</string>
+	<key>originalBehaviorFrequency</key>
+	<string>synchronousLossLocation</string>
+	<key>primaryEventType</key>
+	<string>layoutAtCommand</string>
+	<key>repositoryTaskMargin</key>
+	<string>scaffoldPerProcess</string>
+	<key>symmetricProviderShape</key>
+	<string>equalizationCycleAcceleration</string>
+</dict>
+</plist>

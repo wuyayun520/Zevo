@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorBufferDuration</key>
+	<string>animationOrState</string>
+	<key>discardedRouteTheme</key>
+	<string>keyReductionDensity</string>
+	<key>drawerStrategyInset</key>
+	<string>sizedboxMediatorMargin</string>
+	<key>equalizationAroundStyle</key>
+	<string>observerActivityTheme</string>
+	<key>intuitiveEntityDepth</key>
+	<string>uniformSpineOrigin</string>
+	<key>spotFromLayer</key>
+	<string>extensionBeyondLayer</string>
+	<key>temporaryConfigurationSpeed</key>
+	<string>denseSemanticsStyle</string>
+	<key>viewWithEnvironment</key>
+	<string>documentBesideType</string>
+</dict>
+</plist>

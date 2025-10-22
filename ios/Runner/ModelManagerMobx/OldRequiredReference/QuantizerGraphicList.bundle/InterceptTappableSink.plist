@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerCoordinatorRight</key>
+	<string>screenExceptCycle</string>
+	<key>callbackAboutMethod</key>
+	<string>precisionByForm</string>
+	<key>constraintAwayShape</key>
+	<string>decorationContainSingleton</string>
+	<key>frameExceptMediator</key>
+	<string>serviceAboutDecorator</string>
+	<key>indicatorOrObserver</key>
+	<string>tweenFormRotation</string>
+	<key>mutableBlocHead</key>
+	<string>isolateActivitySpeed</string>
+	<key>transformerModeRotation</key>
+	<string>errorAwayFacade</string>
+</dict>
+</plist>

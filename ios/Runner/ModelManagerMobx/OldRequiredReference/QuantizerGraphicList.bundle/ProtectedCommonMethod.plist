@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackShapePadding</key>
+	<string>responseParameterContrast</string>
+	<key>cubeSinceMode</key>
+	<string>workflowValueCount</string>
+	<key>decorationValueCoord</key>
+	<string>tappablePresenterBottom</string>
+	<key>intuitiveActivityPosition</key>
+	<string>textureThroughShape</string>
+	<key>invisibleScaffoldRate</key>
+	<string>accessiblePageviewRate</string>
+	<key>singleMediaCoord</key>
+	<string>secondConfigurationDirection</string>
+</dict>
+</plist>

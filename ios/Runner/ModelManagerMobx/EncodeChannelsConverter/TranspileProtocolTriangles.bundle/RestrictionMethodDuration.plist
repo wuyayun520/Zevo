@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerScreenFlags</key>
+	<string>observerProcessSkewy</string>
+	<key>boxshadowFromShape</key>
+	<string>denseConstraintAlignment</string>
+	<key>cubeModeAcceleration</key>
+	<string>singleIconSkewx</string>
+	<key>easyEventFrequency</key>
+	<string>mainRouteScale</string>
+	<key>hardRequestAlignment</key>
+	<string>layoutWorkDensity</string>
+	<key>semanticsContainLevel</key>
+	<string>animatedLossVisible</string>
+	<key>standaloneTopicTension</key>
+	<string>decorationChainTheme</string>
+	<key>textFromProcess</key>
+	<string>queueFunctionAcceleration</string>
+</dict>
+</plist>

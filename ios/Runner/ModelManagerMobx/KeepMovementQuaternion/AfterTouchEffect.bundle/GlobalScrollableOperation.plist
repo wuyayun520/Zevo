@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>permanentGridBehavior</key>
+	<string>nextEntityTheme</string>
+	<key>requestAlongBridge</key>
+	<string>requestProcessEdge</string>
+	<key>techniqueWorkHue</key>
+	<string>eventParamDelay</string>
+	<key>vectorBridgeLocation</key>
+	<string>hardTweenDistance</string>
+</dict>
+</plist>

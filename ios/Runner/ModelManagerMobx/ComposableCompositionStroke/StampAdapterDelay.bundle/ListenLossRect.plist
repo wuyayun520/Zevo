@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionChainTop</key>
+	<string>animationNearComposite</string>
+	<key>compositionalBufferStyle</key>
+	<string>chapterLevelAppearance</string>
+	<key>grayscaleIncludeState</key>
+	<string>keyWorkflowRotation</string>
+	<key>intermediateConfigurationHead</key>
+	<string>futureScopeStatus</string>
+	<key>pointInMemento</key>
+	<string>opaqueReducerName</string>
+	<key>rectIncludeLayer</key>
+	<string>clipperOrLevel</string>
+</dict>
+</plist>

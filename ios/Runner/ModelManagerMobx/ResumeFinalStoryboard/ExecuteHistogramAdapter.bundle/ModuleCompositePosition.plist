@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncUntilInterpreter</key>
+	<string>semanticStorageSkewy</string>
+	<key>checklistModeMode</key>
+	<string>switchIncludeFlyweight</string>
+	<key>commandVersusStage</key>
+	<string>resilientPresenterValidation</string>
+	<key>customizedPositionBorder</key>
+	<string>listenerStrategyVelocity</string>
+	<key>equalizationOperationOpacity</key>
+	<string>resizableTopicColor</string>
+	<key>notificationAndStage</key>
+	<string>cubitAlongCycle</string>
+	<key>primaryTopicStyle</key>
+	<string>marginBeyondVar</string>
+	<key>providerContainMemento</key>
+	<string>coordinatorInsideParameter</string>
+	<key>reducerContainComposite</key>
+	<string>capsuleThanInterpreter</string>
+</dict>
+</plist>

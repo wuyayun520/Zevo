@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerSystemSpeed</key>
+	<string>significantCardInset</string>
+	<key>concurrentSinkTheme</key>
+	<string>usedButtonFeedback</string>
+	<key>declarativeRepositoryState</key>
+	<string>reducerFromPhase</string>
+	<key>diffableHandlerSpeed</key>
+	<string>adaptiveProgressbarTop</string>
+	<key>modelDuringStyle</key>
+	<string>sceneAsFlyweight</string>
+	<key>swiftExceptShape</key>
+	<string>greatSpriteVelocity</string>
+</dict>
+</plist>

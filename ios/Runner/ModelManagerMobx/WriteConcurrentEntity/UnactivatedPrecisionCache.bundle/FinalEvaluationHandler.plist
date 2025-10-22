@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorForKind</key>
+	<string>challengeLevelBehavior</string>
+	<key>animatedcontainerTypeBrightness</key>
+	<string>smartCacheValidation</string>
+	<key>autoLayerEdge</key>
+	<string>allocatorAwayFunction</string>
+	<key>heapStrategyVisible</key>
+	<string>blocWorkValidation</string>
+	<key>immediateLayoutBrightness</key>
+	<string>pointContextVisible</string>
+	<key>positionFromVariable</key>
+	<string>sinkAgainstCycle</string>
+	<key>respectiveAwaitMomentum</key>
+	<string>widgetAndContext</string>
+	<key>resultPrototypeVisibility</key>
+	<string>lazyChannelSkewx</string>
+</dict>
+</plist>

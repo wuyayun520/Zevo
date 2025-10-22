@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryModeBorder</key>
+	<string>disparateResolverInset</string>
+	<key>animationVarKind</key>
+	<string>resilientModalOrigin</string>
+	<key>consultativeSinkScale</key>
+	<string>cupertinoProviderFeedback</string>
+	<key>cosineFlyweightDensity</key>
+	<string>movementNearState</string>
+	<key>delegatePlatformEdge</key>
+	<string>geometricCallbackHead</string>
+	<key>dimensionFormShade</key>
+	<string>symmetricFrameType</string>
+	<key>protectedExtensionAcceleration</key>
+	<string>loopPerParam</string>
+	<key>standaloneLocalizationAppearance</key>
+	<string>desktopSignatureSaturation</string>
+	<key>usedControllerSize</key>
+	<string>semanticLayerInset</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousReferenceHead</key>
+	<string>viewAndMemento</string>
+	<key>brushLikeAction</key>
+	<string>arithmeticBeyondState</string>
+	<key>constraintFunctionType</key>
+	<string>boxAgainstParam</string>
+	<key>drawerDuringMemento</key>
+	<string>navigatorTaskSkewy</string>
+	<key>lastQueueInteraction</key>
+	<string>accessibleBoxMode</string>
+	<key>rowAmongPhase</key>
+	<string>reducerVarAlignment</string>
+	<key>spriteDecoratorBottom</key>
+	<string>ignoredIntegerBound</string>
+	<key>viewOfAction</key>
+	<string>layoutAmongCommand</string>
+</dict>
+</plist>

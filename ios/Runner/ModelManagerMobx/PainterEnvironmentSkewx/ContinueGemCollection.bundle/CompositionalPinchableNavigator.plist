@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsWithParam</key>
+	<string>beginnerBufferInteraction</string>
+	<key>groupOutsideChain</key>
+	<string>titleForObserver</string>
+	<key>indicatorPerDecorator</key>
+	<string>providerSystemShape</string>
+	<key>referenceStageOrientation</key>
+	<string>inactiveCallbackVelocity</string>
+</dict>
+</plist>

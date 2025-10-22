@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderInterpreterType</key>
+	<string>materialWithStyle</string>
+	<key>independentGroupCoord</key>
+	<string>sliderInLayer</string>
+	<key>methodUntilPattern</key>
+	<string>layoutPhaseTint</string>
+	<key>musicTemplePadding</key>
+	<string>basicMobxColor</string>
+	<key>persistentWidgetShape</key>
+	<string>responsiveIntensityBehavior</string>
+	<key>uniqueExceptionDuration</key>
+	<string>geometricTangentOffset</string>
+</dict>
+</plist>

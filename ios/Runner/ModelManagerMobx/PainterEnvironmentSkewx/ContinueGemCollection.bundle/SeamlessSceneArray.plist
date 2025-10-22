@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartCommandVisibility</key>
+	<string>histogramIncludeStage</string>
+	<key>functionalLoopTail</key>
+	<string>serviceAroundTask</string>
+	<key>gradientFlyweightInteraction</key>
+	<string>keyQueryShape</string>
+	<key>sinkAboutStage</key>
+	<string>elasticButtonVelocity</string>
+</dict>
+</plist>

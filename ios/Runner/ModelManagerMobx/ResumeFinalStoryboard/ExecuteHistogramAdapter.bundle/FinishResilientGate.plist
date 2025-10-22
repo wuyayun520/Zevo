@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsAroundProxy</key>
+	<string>nibAndSingleton</string>
+	<key>cupertinoRequestCenter</key>
+	<string>blocAwaySingleton</string>
+	<key>durationBesideForm</key>
+	<string>graphWithStrategy</string>
+	<key>gesturedetectorForMode</key>
+	<string>catalystOutsideObserver</string>
+	<key>groupPatternFlags</key>
+	<string>nativeLoopBrightness</string>
+	<key>nextGestureDistance</key>
+	<string>scrollVersusAction</string>
+	<key>protocolFunctionName</key>
+	<string>allocatorBufferInteraction</string>
+</dict>
+</plist>

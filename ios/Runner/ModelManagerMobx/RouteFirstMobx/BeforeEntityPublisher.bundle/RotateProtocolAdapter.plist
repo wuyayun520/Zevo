@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferLikeCommand</key>
+	<string>symbolAboutEnvironment</string>
+	<key>bulletInFramework</key>
+	<string>projectMethodOrigin</string>
+	<key>controllerCycleSkewx</key>
+	<string>diffableTransformerAppearance</string>
+	<key>newestAssetState</key>
+	<string>intuitiveSliderPosition</string>
+	<key>observerAsStrategy</key>
+	<string>usedIndicatorContrast</string>
+	<key>tangentAdapterShade</key>
+	<string>logBeyondMediator</string>
+	<key>tappableHeroTension</key>
+	<string>hashOfAction</string>
+</dict>
+</plist>

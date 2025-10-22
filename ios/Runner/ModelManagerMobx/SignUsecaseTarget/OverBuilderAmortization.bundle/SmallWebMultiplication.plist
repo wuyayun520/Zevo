@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionVarTop</key>
+	<string>sessionValueForce</string>
+	<key>alignmentVersusCycle</key>
+	<string>animatedRectValidation</string>
+	<key>labelOutsideMediator</key>
+	<string>skirtInsideStage</string>
+	<key>modulusNumberOffset</key>
+	<string>interfaceOutsideValue</string>
+	<key>navigatorParamLeft</key>
+	<string>offsetCycleDelay</string>
+</dict>
+</plist>

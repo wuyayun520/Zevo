@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitScopeFeedback</key>
+	<string>hierarchicalUsecaseBehavior</string>
+	<key>grainForParam</key>
+	<string>channelsAboutStructure</string>
+	<key>progressbarJobInteraction</key>
+	<string>builderExceptTier</string>
+	<key>vectorCommandShade</key>
+	<string>semanticsEnvironmentStatus</string>
+</dict>
+</plist>

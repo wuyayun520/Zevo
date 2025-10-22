@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerWithBuffer</key>
+	<string>viewPlatformAppearance</string>
+	<key>constraintProxyTheme</key>
+	<string>previewFromChain</string>
+	<key>methodActionOpacity</key>
+	<string>originalModelFrequency</string>
+	<key>methodInsideShape</key>
+	<string>robustResolverDelay</string>
+	<key>previewAroundChain</key>
+	<string>sessionAlongPlatform</string>
+	<key>subpixelThroughCommand</key>
+	<string>consultativeCallbackPadding</string>
+</dict>
+</plist>

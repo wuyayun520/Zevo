@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constOptimizerTint</key>
+	<string>collectionMementoInteraction</string>
+	<key>eagerSymbolDuration</key>
+	<string>segmentStateSkewx</string>
+	<key>requiredMarginSpeed</key>
+	<string>intermediateSubpixelOffset</string>
+	<key>responsePhasePosition</key>
+	<string>labelTypeMargin</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionNibDepth</key>
+	<string>dedicatedPositionSize</string>
+	<key>bufferAgainstParam</key>
+	<string>effectSingletonSpacing</string>
+	<key>bufferAroundVisitor</key>
+	<string>resourceInterpreterSpacing</string>
+	<key>labelNumberMode</key>
+	<string>loopMethodMode</string>
+	<key>routerVisitorDepth</key>
+	<string>textfieldIncludeJob</string>
+	<key>sessionScopeCoord</key>
+	<string>zoneModeHead</string>
+</dict>
+</plist>

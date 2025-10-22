@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncNearActivity</key>
+	<string>bitrateThroughSingleton</string>
+	<key>channelsCycleTheme</key>
+	<string>immutableCosineTransparency</string>
+	<key>collectionProxyPosition</key>
+	<string>pinchableGridFormat</string>
+	<key>deferredUsageStyle</key>
+	<string>layoutPerPrototype</string>
+	<key>explicitPointBrightness</key>
+	<string>arithmeticCursorResponse</string>
+	<key>hyperbolicOperationType</key>
+	<string>menuThroughFunction</string>
+	<key>storageMethodRotation</key>
+	<string>localBufferContrast</string>
+	<key>transformerParameterDepth</key>
+	<string>consultativeLogarithmBorder</string>
+</dict>
+</plist>

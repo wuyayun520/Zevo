@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerQueueBottom</key>
+	<string>radioPatternFrequency</string>
+	<key>keyTickerSize</key>
+	<string>taskCompositeCount</string>
+	<key>labelAlongWork</key>
+	<string>resultMediatorOrientation</string>
+	<key>statefulAboutKind</key>
+	<string>visibleLocalizationKind</string>
+	<key>utilStrategySize</key>
+	<string>localButtonInset</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardOffsetShade</key>
+	<string>easyPetInteraction</string>
+	<key>chartContextFrequency</key>
+	<string>permissiveRiverpodInteraction</string>
+	<key>dedicatedPrecisionTint</key>
+	<string>alignmentBufferTransparency</string>
+	<key>directIsolateFeedback</key>
+	<string>elasticRoleFlags</string>
+	<key>gemThroughProxy</key>
+	<string>greatMetadataShade</string>
+	<key>labelVisitorDelay</key>
+	<string>dependencyAsAdapter</string>
+	<key>sensorByContext</key>
+	<string>tappableInteractorSpacing</string>
+	<key>singleGateCoord</key>
+	<string>eventJobPadding</string>
+	<key>visibleProviderInset</key>
+	<string>largeGrainDepth</string>
+</dict>
+</plist>

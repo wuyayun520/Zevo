@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalCommandVisibility</key>
+	<string>responsivePointContrast</string>
+	<key>elasticEventAlignment</key>
+	<string>builderInEnvironment</string>
+	<key>gestureViaProxy</key>
+	<string>listviewVariableLeft</string>
+	<key>providerProcessRight</key>
+	<string>scrollAgainstJob</string>
+	<key>radiusOfFramework</key>
+	<string>descriptionContainBuffer</string>
+	<key>robustCellSpacing</key>
+	<string>overlayShapeContrast</string>
+	<key>storageCommandPadding</key>
+	<string>inactiveModelSkewx</string>
+</dict>
+</plist>

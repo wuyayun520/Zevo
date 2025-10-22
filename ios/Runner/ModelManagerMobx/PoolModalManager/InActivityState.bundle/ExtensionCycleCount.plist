@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalListenerFrequency</key>
+	<string>dropdownbuttonPatternFrequency</string>
+	<key>methodAwayState</key>
+	<string>timerEnvironmentEdge</string>
+	<key>persistentPlaybackRotation</key>
+	<string>mediumDropdownbuttonInset</string>
+	<key>plateStateSize</key>
+	<string>advancedDurationBottom</string>
+	<key>sensorFromInterpreter</key>
+	<string>subsequentHashCenter</string>
+	<key>touchInterpreterColor</key>
+	<string>constAspectShade</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarLikeCommand</key>
+	<string>agileObserverBottom</string>
+	<key>isolateUntilStructure</key>
+	<string>dropdownbuttonSinceChain</string>
+	<key>popupStructureOrientation</key>
+	<string>retainedDropdownbuttonFlags</string>
+	<key>providerFrameworkSpeed</key>
+	<string>adaptiveAsyncFormat</string>
+	<key>toolSinceLevel</key>
+	<string>popupPerComposite</string>
+</dict>
+</plist>

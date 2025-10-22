@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerCommandType</key>
+	<string>sliderOfTask</string>
+	<key>cosineWorkDuration</key>
+	<string>widgetFrameworkDuration</string>
+	<key>euclideanRoleRate</key>
+	<string>advancedGridviewDuration</string>
+	<key>fixedBufferName</key>
+	<string>sessionVersusLevel</string>
+	<key>fusedGrainInset</key>
+	<string>sharedAwaitValidation</string>
+</dict>
+</plist>

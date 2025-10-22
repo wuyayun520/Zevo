@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioDuringPhase</key>
+	<string>collectionBeyondOperation</string>
+	<key>descriptorPatternPosition</key>
+	<string>buttonStateAppearance</string>
+	<key>directStepSkewy</key>
+	<string>queryDecoratorSpeed</string>
+	<key>mediocreColumnBrightness</key>
+	<string>methodWorkSpeed</string>
+	<key>missionOrObserver</key>
+	<string>rectActivityOffset</string>
+	<key>permanentBufferColor</key>
+	<string>unsortedMatrixPressure</string>
+	<key>scrollableSkinShape</key>
+	<string>constEffectOpacity</string>
+	<key>tappableFutureKind</key>
+	<string>ternaryAboutOperation</string>
+	<key>unaryMediatorForce</key>
+	<string>isolateEnvironmentDuration</string>
+	<key>utilAdapterName</key>
+	<string>viewTypeHue</string>
+</dict>
+</plist>

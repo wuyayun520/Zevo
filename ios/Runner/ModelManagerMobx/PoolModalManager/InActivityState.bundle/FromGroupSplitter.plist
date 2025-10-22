@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveLayerShape</key>
+	<string>hierarchicalMasterContrast</string>
+	<key>dependencyVarEdge</key>
+	<string>masterNumberSaturation</string>
+	<key>operationOutsideParameter</key>
+	<string>inactiveVariantTransparency</string>
+	<key>singletonWithAdapter</key>
+	<string>animationMediatorMode</string>
+	<key>spriteStageDensity</key>
+	<string>contractionPhaseCount</string>
+	<key>storageNumberForce</key>
+	<string>animatedcontainerBridgeHue</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleVersusBuffer</key>
+	<string>independentEffectSkewx</string>
+	<key>positionStrategyTag</key>
+	<string>menuAgainstInterpreter</string>
+	<key>resourceTierOpacity</key>
+	<string>tableBeyondCommand</string>
+	<key>responseProcessValidation</key>
+	<string>configurationNearCommand</string>
+	<key>streamPrototypeRotation</key>
+	<string>capsuleWithScope</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionPerState</key>
+	<string>transitionBeyondInterpreter</string>
+	<key>convolutionExceptCycle</key>
+	<string>beginnerBlocDistance</string>
+	<key>getxAboutType</key>
+	<string>clipperVersusCycle</string>
+	<key>iterativeNavigationFrequency</key>
+	<string>intuitiveProgressbarFormat</string>
+	<key>storyboardFlyweightSize</key>
+	<string>aspectCycleName</string>
+	<key>uniformUsecaseHead</key>
+	<string>iconAgainstChain</string>
+</dict>
+</plist>

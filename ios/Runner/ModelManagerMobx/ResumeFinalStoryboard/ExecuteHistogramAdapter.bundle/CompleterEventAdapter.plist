@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeFactoryContrast</key>
+	<string>sineTypePressure</string>
+	<key>grainVisitorType</key>
+	<string>richtextStageBrightness</string>
+	<key>nodeDuringPrototype</key>
+	<string>scaffoldActivityResponse</string>
+	<key>particlePrototypeLeft</key>
+	<string>storageEnvironmentSize</string>
+	<key>pinchableReferenceDelay</key>
+	<string>elasticDurationMargin</string>
+	<key>pointAmongCycle</key>
+	<string>iterativeHandlerTension</string>
+	<key>semanticSliderVelocity</key>
+	<string>previewInsideObserver</string>
+	<key>smartMenuBorder</key>
+	<string>materialCommandBehavior</string>
+	<key>statefulEffectPadding</key>
+	<string>stampAwayStructure</string>
+</dict>
+</plist>

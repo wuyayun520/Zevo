@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationOrKind</key>
+	<string>expandedPlatformShade</string>
+	<key>boxshadowAtWork</key>
+	<string>drawerMediatorHue</string>
+	<key>materialChecklistHead</key>
+	<string>displayableCubitName</string>
+	<key>unsortedRequestRate</key>
+	<string>hierarchicalTweenCount</string>
+</dict>
+</plist>

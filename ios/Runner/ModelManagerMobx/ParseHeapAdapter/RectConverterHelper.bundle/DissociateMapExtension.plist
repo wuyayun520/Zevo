@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleZoneMode</key>
+	<string>loopWorkShape</string>
+	<key>bitrateByPrototype</key>
+	<string>nativeQueryValidation</string>
+	<key>containerBesidePhase</key>
+	<string>subpixelAtStructure</string>
+	<key>customEffectSpeed</key>
+	<string>rectInterpreterDepth</string>
+	<key>disparateDialogsSpeed</key>
+	<string>sortedAnimationOrientation</string>
+	<key>missedMapFrequency</key>
+	<string>symbolInActivity</string>
+	<key>radiusWithoutNumber</key>
+	<string>accordionLoopRotation</string>
+	<key>touchAdapterPadding</key>
+	<string>gridUntilForm</string>
+</dict>
+</plist>

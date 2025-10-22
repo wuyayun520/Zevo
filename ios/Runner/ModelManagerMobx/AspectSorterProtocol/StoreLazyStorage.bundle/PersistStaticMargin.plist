@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushFacadeHead</key>
+	<string>viewAgainstValue</string>
+	<key>coordinatorStrategyAppearance</key>
+	<string>visibleButtonSpacing</string>
+	<key>cupertinoValueTint</key>
+	<string>queryAgainstInterpreter</string>
+	<key>customActionVisible</key>
+	<string>resizableQueueBottom</string>
+	<key>delegateActionFlags</key>
+	<string>tweenStateMode</string>
+	<key>dynamicInteractorAcceleration</key>
+	<string>dynamicHeroCenter</string>
+	<key>fixedOffsetType</key>
+	<string>interfaceModeKind</string>
+	<key>mapSingletonBorder</key>
+	<string>gridContainDecorator</string>
+	<key>newestObserverLocation</key>
+	<string>fusedTechniqueForce</string>
+</dict>
+</plist>

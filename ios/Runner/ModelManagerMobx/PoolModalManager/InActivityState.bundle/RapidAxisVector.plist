@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedAccessoryPressure</key>
+	<string>previewProxyBound</string>
+	<key>lazyLoopCoord</key>
+	<string>spriteStageEdge</string>
+	<key>paddingPlatformLocation</key>
+	<string>animatedHeroMomentum</string>
+	<key>sensorByMethod</key>
+	<string>matrixActionMargin</string>
+	<key>smallActionSize</key>
+	<string>slashFacadePadding</string>
+	<key>tweenWithTask</key>
+	<string>assetOrActivity</string>
+</dict>
+</plist>

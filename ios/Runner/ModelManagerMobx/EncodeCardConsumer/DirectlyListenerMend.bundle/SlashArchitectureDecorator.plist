@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferWorkFrequency</key>
+	<string>singletonAwayWork</string>
+	<key>configurationForCommand</key>
+	<string>errorExceptStrategy</string>
+	<key>cubitModeVisibility</key>
+	<string>hyperbolicBufferPadding</string>
+	<key>extensionJobDistance</key>
+	<string>permanentControllerAlignment</string>
+	<key>finalMenuColor</key>
+	<string>sizeWithShape</string>
+	<key>rowTaskShape</key>
+	<string>tensorSwitchTheme</string>
+	<key>significantEffectBorder</key>
+	<string>delegateParameterInset</string>
+	<key>spriteStrategyKind</key>
+	<string>listenerSinceVisitor</string>
+	<key>storeInsideFlyweight</key>
+	<string>euclideanTweenPadding</string>
+</dict>
+</plist>

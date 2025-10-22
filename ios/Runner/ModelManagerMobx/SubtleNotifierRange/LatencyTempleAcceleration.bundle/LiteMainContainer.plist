@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeTextTint</key>
+	<string>ignoredTexturePressure</string>
+	<key>disabledZoneSpeed</key>
+	<string>immediateRowCenter</string>
+	<key>entityOperationFrequency</key>
+	<string>spineAlongSingleton</string>
+	<key>iterativeFactoryTheme</key>
+	<string>scrollableSymbolDelay</string>
+	<key>largeNavigatorType</key>
+	<string>standaloneReducerCenter</string>
+	<key>nextGemMargin</key>
+	<string>singlePetInterval</string>
+	<key>signatureAgainstJob</key>
+	<string>dialogsScopeDirection</string>
+</dict>
+</plist>

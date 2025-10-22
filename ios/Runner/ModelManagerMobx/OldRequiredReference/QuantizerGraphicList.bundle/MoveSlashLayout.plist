@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateModeFrequency</key>
+	<string>commandAsParameter</string>
+	<key>capsuleAtVar</key>
+	<string>radioAwayPlatform</string>
+	<key>documentStyleShade</key>
+	<string>taskValueFrequency</string>
+	<key>drawerMediatorVisibility</key>
+	<string>petFlyweightTag</string>
+	<key>interfaceProxyPadding</key>
+	<string>layerByLevel</string>
+	<key>layoutByTask</key>
+	<string>radiusProxyContrast</string>
+	<key>stateNumberDuration</key>
+	<string>completionOutsideProcess</string>
+	<key>sustainableGesturedetectorColor</key>
+	<string>brushSinceCommand</string>
+</dict>
+</plist>

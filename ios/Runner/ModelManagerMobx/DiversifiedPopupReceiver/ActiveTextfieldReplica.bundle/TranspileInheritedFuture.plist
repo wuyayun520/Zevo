@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleWorkCount</key>
+	<string>playbackViaMethod</string>
+	<key>loopBeyondStrategy</key>
+	<string>overlayModeShape</string>
+	<key>semanticPlaybackName</key>
+	<string>exceptionProcessSpeed</string>
+	<key>significantPointShape</key>
+	<string>hierarchicalDurationHead</string>
+	<key>statefulModeName</key>
+	<string>difficultSinkBound</string>
+</dict>
+</plist>

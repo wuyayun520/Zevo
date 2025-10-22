@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlerTierFrequency</key>
+	<string>alphaOutsideSingleton</string>
+	<key>interpolationDuringOperation</key>
+	<string>intuitiveSlashLocation</string>
+	<key>materialSpriteDensity</key>
+	<string>hierarchicalTextureStatus</string>
+	<key>mediocreProjectMode</key>
+	<string>observerDuringFacade</string>
+	<key>reducerByObserver</key>
+	<string>mediaParameterMode</string>
+	<key>sessionVariableMode</key>
+	<string>completerLayerRate</string>
+</dict>
+</plist>

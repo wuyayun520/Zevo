@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackMethodBehavior</key>
+	<string>effectFrameworkRate</string>
+	<key>crudeConfigurationIndex</key>
+	<string>blocAmongParameter</string>
+	<key>missionChainHead</key>
+	<string>invisibleStateRate</string>
+	<key>sinkModeBrightness</key>
+	<string>unaryLevelShade</string>
+</dict>
+</plist>

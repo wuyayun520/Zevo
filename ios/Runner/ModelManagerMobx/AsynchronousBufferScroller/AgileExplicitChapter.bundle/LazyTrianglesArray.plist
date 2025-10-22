@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderWorkEdge</key>
+	<string>transformerPhaseDelay</string>
+	<key>cacheShapeBehavior</key>
+	<string>clipperIncludeContext</string>
+	<key>custompaintStrategyDensity</key>
+	<string>crudeSpotFlags</string>
+	<key>hardResolverDistance</key>
+	<string>canvasCycleCenter</string>
+	<key>inheritedLossState</key>
+	<string>baseActivityDensity</string>
+	<key>listviewAsOperation</key>
+	<string>arithmeticUsageVelocity</string>
+	<key>relationalMusicPosition</key>
+	<string>tensorReducerInteraction</string>
+	<key>segmentLevelType</key>
+	<string>behaviorOrWork</string>
+	<key>smartSwiftFormat</key>
+	<string>allocatorThroughMediator</string>
+</dict>
+</plist>

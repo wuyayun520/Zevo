@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchTypeKind</key>
+	<string>documentEnvironmentOpacity</string>
+	<key>graphChainDepth</key>
+	<string>navigatorSystemTheme</string>
+	<key>kernelByLayer</key>
+	<string>appbarContainNumber</string>
+	<key>modelPhasePressure</key>
+	<string>customizedCupertinoFormat</string>
+	<key>reactiveListenerAlignment</key>
+	<string>composableActionSpeed</string>
+	<key>resolverInSystem</key>
+	<string>equalizationCommandDuration</string>
+	<key>smallCompositionDirection</key>
+	<string>commandParamLeft</string>
+</dict>
+</plist>

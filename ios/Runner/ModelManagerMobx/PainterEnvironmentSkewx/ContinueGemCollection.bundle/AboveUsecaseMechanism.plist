@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hierarchicalResourceName</key>
+	<string>usecaseEnvironmentTransparency</string>
+	<key>inheritedLossKind</key>
+	<string>geometricStateDistance</string>
+	<key>opaqueThemeBound</key>
+	<string>optionActivityVisibility</string>
+	<key>permissiveScaleTransparency</key>
+	<string>normFormHead</string>
+	<key>rectFormDuration</key>
+	<string>mobxFormOrigin</string>
+	<key>sampleFrameworkMode</key>
+	<string>completionBeyondType</string>
+</dict>
+</plist>

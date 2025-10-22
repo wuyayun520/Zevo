@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitSinceBuffer</key>
+	<string>tweenWithoutCycle</string>
+	<key>channelsWithStyle</key>
+	<string>gestureModeTheme</string>
+	<key>descriptorAtShape</key>
+	<string>bulletCommandOrientation</string>
+	<key>hashBufferTop</key>
+	<string>routerByNumber</string>
+	<key>inkwellBeyondFacade</key>
+	<string>routeDuringPlatform</string>
+	<key>optimizerChainShape</key>
+	<string>expandedAdapterOrientation</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterLevelSpeed</key>
+	<string>flexibleLabelState</string>
+	<key>controllerStageScale</key>
+	<string>deferredGemFeedback</string>
+	<key>grayscaleShapeShape</key>
+	<string>pageviewObserverSaturation</string>
+	<key>mobxStrategyBound</key>
+	<string>typicalTouchMode</string>
+	<key>sensorShapeBrightness</key>
+	<string>gradientSinceMemento</string>
+	<key>sessionActivityStyle</key>
+	<string>awaitCycleColor</string>
+	<key>sinkFrameworkTransparency</key>
+	<string>radiusMethodCenter</string>
+</dict>
+</plist>

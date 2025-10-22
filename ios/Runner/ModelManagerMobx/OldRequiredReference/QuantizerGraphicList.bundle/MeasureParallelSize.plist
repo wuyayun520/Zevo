@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferAtAction</key>
+	<string>statefulPerParam</string>
+	<key>bufferPerVisitor</key>
+	<string>cellDespiteDecorator</string>
+	<key>commandPatternOrigin</key>
+	<string>inkwellFunctionLeft</string>
+	<key>cubitChainSkewx</key>
+	<string>immutableCapacitiesMomentum</string>
+	<key>ephemeralStateRate</key>
+	<string>disabledTickerHead</string>
+	<key>localizationTypeFlags</key>
+	<string>injectionAlongAction</string>
+	<key>presenterInMediator</key>
+	<string>gateBeyondTask</string>
+	<key>storageWithoutInterpreter</key>
+	<string>tabbarModePressure</string>
+	<key>switchOfLayer</key>
+	<string>keyStreamStyle</string>
+</dict>
+</plist>

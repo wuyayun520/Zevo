@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetBesideStructure</key>
+	<string>cursorFacadeSaturation</string>
+	<key>delegateValueDelay</key>
+	<string>beginnerModulusScale</string>
+	<key>immediateResponseCenter</key>
+	<string>missedAlertBrightness</string>
+	<key>integerLikeKind</key>
+	<string>equipmentInMode</string>
+</dict>
+</plist>

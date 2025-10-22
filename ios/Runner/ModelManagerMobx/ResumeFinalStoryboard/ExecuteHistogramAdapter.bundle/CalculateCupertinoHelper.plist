@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitPatternOrientation</key>
+	<string>usecaseExceptStage</string>
+	<key>handlerSystemStyle</key>
+	<string>providerOrOperation</string>
+	<key>ignoredChannelsBehavior</key>
+	<string>gemFormDepth</string>
+	<key>intensityAgainstKind</key>
+	<string>sliderFromSystem</string>
+	<key>layerPerContext</key>
+	<string>modelInsideProcess</string>
+	<key>materialCubitInterval</key>
+	<string>boxshadowAroundStructure</string>
+	<key>modelAlongChain</key>
+	<string>resolverStructureLocation</string>
+</dict>
+</plist>

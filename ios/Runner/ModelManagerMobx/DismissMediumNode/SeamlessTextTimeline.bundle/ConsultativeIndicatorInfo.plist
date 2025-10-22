@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedMediaRotation</key>
+	<string>boxViaKind</string>
+	<key>exceptionUntilAction</key>
+	<string>actionAndScope</string>
+	<key>layoutDespiteWork</key>
+	<string>vectorUntilCycle</string>
+	<key>movementAmongObserver</key>
+	<string>disabledGrayscaleShape</string>
+	<key>plateExceptMode</key>
+	<string>uniformScaleSpeed</string>
+	<key>repositoryThanComposite</key>
+	<string>singletonBesideTemple</string>
+	<key>reusableTickerFeedback</key>
+	<string>lazyMasterRotation</string>
+	<key>webCompositionBound</key>
+	<string>storeVisitorLeft</string>
+	<key>widgetWithParameter</key>
+	<string>materialProviderVisible</string>
+</dict>
+</plist>

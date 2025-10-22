@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationDuringMethod</key>
+	<string>usecaseWorkTail</string>
+	<key>autoDescriptorTransparency</key>
+	<string>graphScopeTail</string>
+	<key>denseCompleterState</key>
+	<string>cellStageBrightness</string>
+	<key>rectAmongParameter</key>
+	<string>fusedSymbolTheme</string>
+	<key>timerOutsideTier</key>
+	<string>appbarChainPadding</string>
+	<key>touchAgainstMethod</key>
+	<string>nodeMementoDistance</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityIncludeTier</key>
+	<string>directlyWidgetMargin</string>
+	<key>composableStackEdge</key>
+	<string>mediocreLayoutVisibility</string>
+	<key>declarativeSpineValidation</key>
+	<string>indicatorFlyweightType</string>
+	<key>dropdownbuttonThroughSingleton</key>
+	<string>taskEnvironmentOrientation</string>
+	<key>futureTaskInset</key>
+	<string>specifyProviderRight</string>
+	<key>interactorIncludeProxy</key>
+	<string>multiSpriteCount</string>
+	<key>petForLayer</key>
+	<string>positionPhaseDistance</string>
+	<key>screenAwayCommand</key>
+	<string>tabbarAlongOperation</string>
+	<key>storeAlongPrototype</key>
+	<string>dependencyFlyweightAcceleration</string>
+	<key>tweenCycleTail</key>
+	<string>primarySinkInteraction</string>
+</dict>
+</plist>

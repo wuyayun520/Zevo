@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedPositionForce</key>
+	<string>publicInterfaceSkewx</string>
+	<key>concurrentNavigatorBrightness</key>
+	<string>clipperContextIndex</string>
+	<key>declarativeBaselineRate</key>
+	<string>lazyListenerPadding</string>
+	<key>denseReducerInteraction</key>
+	<string>publicCapacitiesOrientation</string>
+	<key>previewProxyRate</key>
+	<string>tickerSinceStyle</string>
+	<key>publicResourceName</key>
+	<string>typicalQueueVelocity</string>
+	<key>rowBufferVisibility</key>
+	<string>nativeResolverPressure</string>
+	<key>segmentDecoratorDepth</key>
+	<string>optimizerAboutVariable</string>
+	<key>shaderCompositeDuration</key>
+	<string>functionalAlignmentInterval</string>
+</dict>
+</plist>

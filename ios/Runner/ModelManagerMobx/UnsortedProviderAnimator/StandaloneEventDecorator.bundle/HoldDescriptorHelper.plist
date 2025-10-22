@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedSpriteSpeed</key>
+	<string>sineTypeSkewy</string>
+	<key>criticalBorderBrightness</key>
+	<string>notifierProcessRight</string>
+	<key>easySliderHead</key>
+	<string>viewNearDecorator</string>
+	<key>entityProcessTension</key>
+	<string>prismaticDecorationMargin</string>
+	<key>gestureAsBuffer</key>
+	<string>modalActivityAlignment</string>
+	<key>interactorExceptParameter</key>
+	<string>descriptionIncludeState</string>
+	<key>intermediateUtilIndex</key>
+	<string>durationScopeVisible</string>
+	<key>labelShapeLocation</key>
+	<string>visibleDocumentTag</string>
+	<key>mutableMethodBorder</key>
+	<string>stepContainShape</string>
+	<key>viewOperationTop</key>
+	<string>parallelStoreFormat</string>
+</dict>
+</plist>

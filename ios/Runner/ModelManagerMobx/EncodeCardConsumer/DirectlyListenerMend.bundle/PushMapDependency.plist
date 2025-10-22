@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerUntilScope</key>
+	<string>boxPhaseDuration</string>
+	<key>disabledGemResponse</key>
+	<string>directConstraintOrigin</string>
+	<key>grainAroundOperation</key>
+	<string>collectionMethodBottom</string>
+	<key>layerThroughState</key>
+	<string>presenterAsFacade</string>
+	<key>listviewBeyondMediator</key>
+	<string>isolateCycleFeedback</string>
+	<key>previewStructureScale</key>
+	<string>managerModeVisible</string>
+	<key>reducerOfPattern</key>
+	<string>asynchronousUtilRate</string>
+	<key>staticScaffoldIndex</key>
+	<string>configurationExceptFlyweight</string>
+	<key>variantStructureIndex</key>
+	<string>previewMethodRotation</string>
+</dict>
+</plist>

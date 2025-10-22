@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredAppbarTail</key>
+	<string>tweenNearDecorator</string>
+	<key>groupFormRotation</key>
+	<string>hierarchicalStatefulTheme</string>
+	<key>precisionDecoratorOrigin</key>
+	<string>metadataMediatorDuration</string>
+	<key>primaryThemeOrigin</key>
+	<string>hashThanLevel</string>
+	<key>responsiveAnchorSpeed</key>
+	<string>convolutionLikeParam</string>
+	<key>streamAdapterBehavior</key>
+	<string>usecaseFormSkewy</string>
+	<key>threadFormDelay</key>
+	<string>parallelBlocSkewy</string>
+</dict>
+</plist>

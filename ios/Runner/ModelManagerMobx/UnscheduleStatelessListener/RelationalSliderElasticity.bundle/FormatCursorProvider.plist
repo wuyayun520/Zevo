@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowPhaseSaturation</key>
+	<string>commonBaseHead</string>
+	<key>constraintFlyweightState</key>
+	<string>futureContextKind</string>
+	<key>invisibleResolverDistance</key>
+	<string>mutableEventTint</string>
+	<key>mediaDespiteComposite</key>
+	<string>petMethodAlignment</string>
+	<key>opaqueAlphaOrientation</key>
+	<string>prevControllerFrequency</string>
+	<key>profilePhaseStatus</key>
+	<string>otherSinkAppearance</string>
+	<key>signDespiteMethod</key>
+	<string>geometricConvolutionScale</string>
+	<key>tabbarScopeBehavior</key>
+	<string>reducerChainTint</string>
+	<key>tappableIntensityDirection</key>
+	<string>spineAdapterInterval</string>
+</dict>
+</plist>

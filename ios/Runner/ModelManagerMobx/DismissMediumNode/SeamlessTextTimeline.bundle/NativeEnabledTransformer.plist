@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousRouteDensity</key>
+	<string>completerEnvironmentAppearance</string>
+	<key>buttonByFramework</key>
+	<string>tableViaInterpreter</string>
+	<key>pageviewNumberFeedback</key>
+	<string>stampOutsideFramework</string>
+	<key>popupPatternInteraction</key>
+	<string>borderVarSkewy</string>
+	<key>prismaticCollectionKind</key>
+	<string>greatIndicatorMomentum</string>
+</dict>
+</plist>

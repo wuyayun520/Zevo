@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedUsecaseAcceleration</key>
+	<string>prevLayoutSkewx</string>
+	<key>heapLevelState</key>
+	<string>radiusMementoLocation</string>
+	<key>intuitiveInterfaceStyle</key>
+	<string>beginnerCheckboxScale</string>
+	<key>multiPromiseLocation</key>
+	<string>dependencyActionShape</string>
+	<key>opaqueLayoutDistance</key>
+	<string>inheritedObserverAppearance</string>
+	<key>publicGiftType</key>
+	<string>queueStateDelay</string>
+	<key>scaffoldProxyDelay</key>
+	<string>repositoryDecoratorTint</string>
+</dict>
+</plist>

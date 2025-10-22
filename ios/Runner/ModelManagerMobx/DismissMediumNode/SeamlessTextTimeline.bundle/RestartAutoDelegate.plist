@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsAsState</key>
+	<string>displayableObserverAppearance</string>
+	<key>heapLevelCenter</key>
+	<string>activeWidgetOffset</string>
+	<key>lossAroundMethod</key>
+	<string>baselineViaVariable</string>
+	<key>projectInsideProcess</key>
+	<string>animatedcontainerMementoTag</string>
+	<key>promiseAboutStructure</key>
+	<string>grainAroundCycle</string>
+	<key>sortedModalTail</key>
+	<string>customizedSingletonTheme</string>
+	<key>statelessAsParameter</key>
+	<string>textureExceptAction</string>
+</dict>
+</plist>

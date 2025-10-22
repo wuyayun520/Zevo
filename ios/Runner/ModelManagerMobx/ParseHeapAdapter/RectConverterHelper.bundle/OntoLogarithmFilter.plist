@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationNearWork</key>
+	<string>smallExtensionMode</string>
+	<key>gridviewThroughPattern</key>
+	<string>viewOperationTransparency</string>
+	<key>remainderVersusDecorator</key>
+	<string>notifierPlatformTag</string>
+	<key>routerPatternBehavior</key>
+	<string>criticalRouterBottom</string>
+	<key>subscriptionAtProxy</key>
+	<string>sampleKindTag</string>
+</dict>
+</plist>

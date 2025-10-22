@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchAroundLevel</key>
+	<string>mobileJobValidation</string>
+	<key>controllerMementoInset</key>
+	<string>queueObserverDuration</string>
+	<key>coordinatorDecoratorPadding</key>
+	<string>chapterContextCenter</string>
+	<key>dependencyBridgeVisible</key>
+	<string>switchPatternHue</string>
+	<key>durationEnvironmentTransparency</key>
+	<string>resolverInsideBuffer</string>
+	<key>newestRadiusDelay</key>
+	<string>curveInterpreterOrientation</string>
+	<key>storageLikeParameter</key>
+	<string>diffableReductionShape</string>
+</dict>
+</plist>

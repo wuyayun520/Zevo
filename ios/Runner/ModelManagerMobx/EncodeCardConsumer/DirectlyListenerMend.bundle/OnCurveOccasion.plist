@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardMediatorOffset</key>
+	<string>stackOperationValidation</string>
+	<key>curveWithoutParameter</key>
+	<string>chartWithoutNumber</string>
+	<key>iconPhaseFlags</key>
+	<string>allocatorExceptParam</string>
+	<key>immediateCapacitiesMode</key>
+	<string>observerPerSingleton</string>
+	<key>immutableSampleType</key>
+	<string>parallelIntegerLocation</string>
+	<key>inkwellBeyondProxy</key>
+	<string>resourcePrototypeDelay</string>
+	<key>masterValueVelocity</key>
+	<string>lostShaderHead</string>
+	<key>observerFormDuration</key>
+	<string>labelInsideChain</string>
+	<key>sizedboxTaskTransparency</key>
+	<string>channelsStageScale</string>
+</dict>
+</plist>

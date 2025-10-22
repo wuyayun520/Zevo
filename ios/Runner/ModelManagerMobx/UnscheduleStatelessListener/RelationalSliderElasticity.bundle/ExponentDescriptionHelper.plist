@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferContextOrientation</key>
+	<string>animationAgainstPattern</string>
+	<key>canvasContainActivity</key>
+	<string>usedDelegateTransparency</string>
+	<key>certificateWithoutCycle</key>
+	<string>spriteOfCommand</string>
+	<key>cosineSingletonMode</key>
+	<string>descriptorPhaseVisibility</string>
+	<key>easyEffectShade</key>
+	<string>routeThroughPrototype</string>
+	<key>multiSubpixelVisible</key>
+	<string>sharedAxisHead</string>
+	<key>responseJobTransparency</key>
+	<string>nextSpineTint</string>
+</dict>
+</plist>

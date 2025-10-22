@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorTypeResponse</key>
+	<string>stepVariablePressure</string>
+	<key>currentBuilderStatus</key>
+	<string>switchByPhase</string>
+	<key>denseGrainBehavior</key>
+	<string>subpixelStageTension</string>
+	<key>rectTaskCenter</key>
+	<string>heapVisitorTop</string>
+	<key>sampleFunctionName</key>
+	<string>visibleInteractorState</string>
+	<key>skinKindTransparency</key>
+	<string>tableNearBridge</string>
+</dict>
+</plist>

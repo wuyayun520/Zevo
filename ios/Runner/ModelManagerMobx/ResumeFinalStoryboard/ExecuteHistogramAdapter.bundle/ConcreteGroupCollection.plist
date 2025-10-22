@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveAllocatorBorder</key>
+	<string>mobxChainForce</string>
+	<key>bufferAmongMemento</key>
+	<string>easyChapterTransparency</string>
+	<key>entityMethodSpacing</key>
+	<string>exceptionMediatorAlignment</string>
+	<key>extensionObserverFlags</key>
+	<string>errorAlongFlyweight</string>
+	<key>offsetAtFlyweight</key>
+	<string>invisibleSpriteSkewx</string>
+	<key>reducerActionColor</key>
+	<string>otherIconAppearance</string>
+	<key>requestAboutStyle</key>
+	<string>stateKindSpeed</string>
+	<key>richtextViaPrototype</key>
+	<string>activatedBoxFeedback</string>
+</dict>
+</plist>

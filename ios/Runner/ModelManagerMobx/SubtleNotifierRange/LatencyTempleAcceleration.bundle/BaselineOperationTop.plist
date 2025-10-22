@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioObserverRate</key>
+	<string>viewAtMethod</string>
+	<key>currentButtonRotation</key>
+	<string>imageNearKind</string>
+	<key>momentumNearParameter</key>
+	<string>completionBufferPosition</string>
+	<key>observerBufferKind</key>
+	<string>scrollInPattern</string>
+	<key>spriteCompositeKind</key>
+	<string>sensorCommandTail</string>
+</dict>
+</plist>

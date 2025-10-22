@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferBridgeRate</key>
+	<string>iterativeGateBrightness</string>
+	<key>customCommandSkewy</key>
+	<string>robustRouterDelay</string>
+	<key>difficultAlertInterval</key>
+	<string>crudeCurveAcceleration</string>
+	<key>geometricTransformerState</key>
+	<string>rowFormSaturation</string>
+	<key>layoutNearMemento</key>
+	<string>durationOfAdapter</string>
+	<key>petTempleOrientation</key>
+	<string>responseAroundCycle</string>
+	<key>reactiveCubitValidation</key>
+	<string>relationalEventOffset</string>
+	<key>synchronousResourceValidation</key>
+	<string>behaviorMediatorValidation</string>
+</dict>
+</plist>

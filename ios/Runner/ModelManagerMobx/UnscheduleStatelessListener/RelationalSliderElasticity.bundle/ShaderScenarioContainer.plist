@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoBufferName</key>
+	<string>scrollActivityLocation</string>
+	<key>builderStrategyForce</key>
+	<string>priorAwaitLeft</string>
+	<key>equalizationLevelTop</key>
+	<string>currentInkwellPressure</string>
+	<key>hyperbolicControllerScale</key>
+	<string>concurrentCommandTop</string>
+	<key>ignoredBaseDensity</key>
+	<string>permissiveCoordinatorMargin</string>
+	<key>relationalMetadataName</key>
+	<string>tickerOrProxy</string>
+	<key>stackAgainstActivity</key>
+	<string>coordinatorInterpreterMode</string>
+</dict>
+</plist>

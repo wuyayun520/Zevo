@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedPageviewTag</key>
+	<string>adaptiveCurveFeedback</string>
+	<key>awaitOfStructure</key>
+	<string>navigatorAmongInterpreter</string>
+	<key>commandLevelVisibility</key>
+	<string>listviewEnvironmentPadding</string>
+	<key>constraintStrategyTint</key>
+	<string>navigationBeyondDecorator</string>
+	<key>modelPhaseAcceleration</key>
+	<string>catalystBesideTask</string>
+	<key>primaryScreenSaturation</key>
+	<string>beginnerSubpixelState</string>
+	<key>sceneStageOrientation</key>
+	<string>controllerFunctionTint</string>
+	<key>specifyCharacterSpeed</key>
+	<string>discardedHashPosition</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchCommandTop</key>
+	<string>textfieldStructureVisible</string>
+	<key>commandParameterTheme</key>
+	<string>routerStyleShade</string>
+	<key>coordinatorAtBuffer</key>
+	<string>storyboardEnvironmentSkewy</string>
+	<key>dropdownbuttonOperationTransparency</key>
+	<string>cacheWithoutSingleton</string>
+	<key>injectionAroundChain</key>
+	<string>rowKindName</string>
+	<key>interactorThroughOperation</key>
+	<string>containerVariableFeedback</string>
+	<key>mapExceptPrototype</key>
+	<string>threadTierCenter</string>
+	<key>uniformEffectStatus</key>
+	<string>imageAsType</string>
+</dict>
+</plist>

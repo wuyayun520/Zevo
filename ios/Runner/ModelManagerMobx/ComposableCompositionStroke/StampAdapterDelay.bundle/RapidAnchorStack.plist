@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionFromPattern</key>
+	<string>subpixelFromActivity</string>
+	<key>certificateFacadeTheme</key>
+	<string>visibleSinkSkewx</string>
+	<key>grainThanMemento</key>
+	<string>granularIntensityHue</string>
+	<key>modalOperationSize</key>
+	<string>imageParamVisibility</string>
+	<key>notificationActionBrightness</key>
+	<string>mediaqueryPlatformBehavior</string>
+	<key>rapidSessionStyle</key>
+	<string>richtextStructurePressure</string>
+	<key>repositoryStrategyKind</key>
+	<string>precisionParamFrequency</string>
+	<key>scrollDespiteFunction</key>
+	<string>storageScopeDelay</string>
+	<key>toolValueVelocity</key>
+	<string>intuitiveFrameHue</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveModelMomentum</key>
+	<string>invisibleClipperDirection</string>
+	<key>bufferInProcess</key>
+	<string>normNearStyle</string>
+	<key>cubitModeAcceleration</key>
+	<string>declarativeFrameScale</string>
+	<key>extensionVariableSpeed</key>
+	<string>exponentCompositeVelocity</string>
+	<key>grainStateColor</key>
+	<string>activeTaskAppearance</string>
+	<key>mobileProviderOrientation</key>
+	<string>utilInsideOperation</string>
+	<key>routeSingletonColor</key>
+	<string>zoneProcessHead</string>
+	<key>shaderBeyondFlyweight</key>
+	<string>enabledMultiplicationCoord</string>
+</dict>
+</plist>

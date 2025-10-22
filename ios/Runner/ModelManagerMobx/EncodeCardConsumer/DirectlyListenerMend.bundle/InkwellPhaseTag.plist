@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedChannelRate</key>
+	<string>publicStreamResponse</string>
+	<key>advancedMetadataLeft</key>
+	<string>independentAspectOffset</string>
+	<key>alphaValueFlags</key>
+	<string>workflowFlyweightSize</string>
+	<key>asyncJobOpacity</key>
+	<string>routeMethodVisible</string>
+	<key>beginnerPaddingMargin</key>
+	<string>resourceVisitorMargin</string>
+	<key>extensionThroughAdapter</key>
+	<string>slashDuringVar</string>
+	<key>factoryOrForm</key>
+	<string>uniformLayoutCount</string>
+	<key>seamlessQueryLocation</key>
+	<string>petScopeDensity</string>
+	<key>smartCubeStyle</key>
+	<string>threadSinceScope</string>
+	<key>spriteAwayLayer</key>
+	<string>canvasScopeStatus</string>
+</dict>
+</plist>

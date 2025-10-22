@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoVisitorBehavior</key>
+	<string>resilientMapTag</string>
+	<key>listenerOperationRotation</key>
+	<string>tweenWithoutStructure</string>
+	<key>storeScopeOffset</key>
+	<string>queryCycleScale</string>
+	<key>symmetricSingletonFrequency</key>
+	<string>roleVersusStrategy</string>
+	<key>toolPrototypeRate</key>
+	<string>reusableNotificationRotation</string>
+	<key>viewJobVelocity</key>
+	<string>ternaryChainRate</string>
+</dict>
+</plist>

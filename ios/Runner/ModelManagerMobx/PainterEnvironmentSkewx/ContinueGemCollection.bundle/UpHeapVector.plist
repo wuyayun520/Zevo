@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateFacadeAppearance</key>
+	<string>largeColumnTransparency</string>
+	<key>iconSinceFramework</key>
+	<string>blocJobScale</string>
+	<key>lazyStoreVelocity</key>
+	<string>declarativeResultType</string>
+	<key>tweenAtContext</key>
+	<string>buttonOrAction</string>
+</dict>
+</plist>

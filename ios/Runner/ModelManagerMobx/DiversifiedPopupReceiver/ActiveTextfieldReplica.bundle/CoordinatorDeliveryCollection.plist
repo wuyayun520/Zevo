@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeEffectKind</key>
+	<string>smallNodeSpeed</string>
+	<key>curveInAction</key>
+	<string>otherAspectOpacity</string>
+	<key>menuMediatorBound</key>
+	<string>callbackKindSpeed</string>
+	<key>reusableEventHue</key>
+	<string>intermediateSubpixelPosition</string>
+	<key>taskInsideFlyweight</key>
+	<string>respectiveExpandedHue</string>
+</dict>
+</plist>

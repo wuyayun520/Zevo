@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerInType</key>
+	<string>offsetDecoratorOpacity</string>
+	<key>cubitLikeBuffer</key>
+	<string>dropdownbuttonVariableOffset</string>
+	<key>queryTypeTheme</key>
+	<string>handlerChainInset</string>
+	<key>resourceSingletonDepth</key>
+	<string>dedicatedPlatePadding</string>
+	<key>responsivePlaybackVelocity</key>
+	<string>menuActionMargin</string>
+	<key>scrollableViewHead</key>
+	<string>iconKindRight</string>
+	<key>sequentialAxisInterval</key>
+	<string>behaviorChainLeft</string>
+	<key>utilPerType</key>
+	<string>fixedSingletonFormat</string>
+</dict>
+</plist>

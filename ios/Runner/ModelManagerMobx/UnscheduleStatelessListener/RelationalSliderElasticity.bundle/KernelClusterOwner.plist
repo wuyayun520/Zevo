@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedErrorDelay</key>
+	<string>scrollableDescriptionSkewx</string>
+	<key>arithmeticByPhase</key>
+	<string>listviewStyleCenter</string>
+	<key>bufferSingletonFeedback</key>
+	<string>webAwaitVisibility</string>
+	<key>hyperbolicLoopState</key>
+	<string>bufferModeSkewy</string>
+	<key>layerProxyOffset</key>
+	<string>blocTypeAppearance</string>
+	<key>mutableConsumerOpacity</key>
+	<string>cycleAgainstOperation</string>
+	<key>smartGrainHead</key>
+	<string>missionPhaseInteraction</string>
+	<key>storeVisitorLocation</key>
+	<string>visibleTransitionSize</string>
+	<key>temporaryGridPressure</key>
+	<string>retainedSubscriptionOffset</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitAsKind</key>
+	<string>managerDuringType</string>
+	<key>elasticSessionKind</key>
+	<string>queueTypeDirection</string>
+	<key>handlerModePosition</key>
+	<string>singletonPlatformRate</string>
+	<key>labelModeDistance</key>
+	<string>hashFromCommand</string>
+	<key>protocolMementoDuration</key>
+	<string>sortedSpotTransparency</string>
+	<key>sortedDescriptionEdge</key>
+	<string>delicateBuilderEdge</string>
+</dict>
+</plist>

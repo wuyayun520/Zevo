@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeStrategyRate</key>
+	<string>ephemeralOperationShade</string>
+	<key>desktopOptionMode</key>
+	<string>graphVersusEnvironment</string>
+	<key>gesturedetectorMediatorEdge</key>
+	<string>progressbarActionValidation</string>
+	<key>priorExceptionTransparency</key>
+	<string>currentHeroBorder</string>
+	<key>reductionContextPadding</key>
+	<string>mediaWithJob</string>
+	<key>robustIndicatorValidation</key>
+	<string>notificationFunctionCoord</string>
+	<key>stateLikeStage</key>
+	<string>cellPatternInset</string>
+	<key>transitionByParameter</key>
+	<string>stateFacadeFormat</string>
+</dict>
+</plist>

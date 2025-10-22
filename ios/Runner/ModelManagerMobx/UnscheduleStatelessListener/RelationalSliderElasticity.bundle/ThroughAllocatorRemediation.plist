@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedViewSkewx</key>
+	<string>contractionOperationSkewy</string>
+	<key>cubitAwayStage</key>
+	<string>managerVarInteraction</string>
+	<key>draggableExceptionSaturation</key>
+	<string>reusableGridviewVelocity</string>
+	<key>explicitCallbackCoord</key>
+	<string>concurrentExceptionState</string>
+	<key>ignoredAllocatorForce</key>
+	<string>metadataDespiteState</string>
+	<key>interpolationContextBehavior</key>
+	<string>labelContextState</string>
+	<key>offsetViaType</key>
+	<string>subpixelStrategyTag</string>
+	<key>queueStructureMomentum</key>
+	<string>swiftPatternStatus</string>
+	<key>resourceInsideEnvironment</key>
+	<string>assetOutsideTemple</string>
+</dict>
+</plist>

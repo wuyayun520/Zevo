@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorForLayer</key>
+	<string>loopAlongFlyweight</string>
+	<key>behaviorTaskRate</key>
+	<string>chartOrInterpreter</string>
+	<key>capacitiesChainState</key>
+	<string>buttonPlatformBorder</string>
+	<key>invisibleProtocolForce</key>
+	<string>textAgainstSingleton</string>
+	<key>popupScopeAppearance</key>
+	<string>animatedcontainerBridgeShape</string>
+	<key>reducerSystemShade</key>
+	<string>tappableSinkCenter</string>
+	<key>statelessGroupHead</key>
+	<string>subsequentBulletHead</string>
+	<key>tabviewWithObserver</key>
+	<string>binaryThroughFunction</string>
+</dict>
+</plist>

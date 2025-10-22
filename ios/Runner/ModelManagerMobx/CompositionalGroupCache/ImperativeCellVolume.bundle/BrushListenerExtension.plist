@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedRouteAcceleration</key>
+	<string>autoGestureEdge</string>
+	<key>flexibleCardStatus</key>
+	<string>loopValueState</string>
+	<key>giftObserverPosition</key>
+	<string>overlayAmongAction</string>
+	<key>grayscaleFlyweightPressure</key>
+	<string>otherApertureCount</string>
+	<key>transitionContainStage</key>
+	<string>usedSliderMode</string>
+</dict>
+</plist>

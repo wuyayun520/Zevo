@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncActivityDistance</key>
+	<string>imageOrStage</string>
+	<key>diffableRoleTint</key>
+	<string>sequentialLogarithmBehavior</string>
+	<key>intuitiveInkwellSpacing</key>
+	<string>significantAlphaFormat</string>
+	<key>notifierDuringPattern</key>
+	<string>repositoryProcessStyle</string>
+	<key>publicRouteInteraction</key>
+	<string>basicTimerBrightness</string>
+	<key>sophisticatedBrushHead</key>
+	<string>progressbarViaInterpreter</string>
+	<key>transformerWorkDuration</key>
+	<string>resizableProjectionSpeed</string>
+</dict>
+</plist>

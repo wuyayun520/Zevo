@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalFactoryOpacity</key>
+	<string>routeViaMemento</string>
+	<key>delegateAwayFlyweight</key>
+	<string>callbackAlongStrategy</string>
+	<key>indicatorAndTier</key>
+	<string>requestTypeOffset</string>
+	<key>semanticDurationAcceleration</key>
+	<string>lossWithoutOperation</string>
+	<key>statefulGroupFlags</key>
+	<string>specifierModeResponse</string>
+	<key>streamViaMediator</key>
+	<string>semanticEffectTension</string>
+	<key>temporaryBuilderSaturation</key>
+	<string>disabledAllocatorBound</string>
+</dict>
+</plist>

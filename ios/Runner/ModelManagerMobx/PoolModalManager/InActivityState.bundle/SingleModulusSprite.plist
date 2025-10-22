@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gesturedetectorDuringStyle</key>
+	<string>storeThroughScope</string>
+	<key>positionedDespiteParameter</key>
+	<string>transitionAdapterColor</string>
+	<key>sliderDespiteDecorator</key>
+	<string>streamAndDecorator</string>
+	<key>taskFlyweightCoord</key>
+	<string>configurationMediatorSaturation</string>
+</dict>
+</plist>

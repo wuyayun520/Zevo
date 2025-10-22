@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveStorageTransparency</key>
+	<string>displayablePlateHead</string>
+	<key>featureAsFacade</key>
+	<string>animatedAxisBorder</string>
+	<key>inheritedLayerSize</key>
+	<string>custompaintTaskTag</string>
+	<key>layerAtProxy</key>
+	<string>adaptiveMusicAppearance</string>
+</dict>
+</plist>

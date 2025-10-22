@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseVariableValidation</key>
+	<string>semanticsAgainstScope</string>
+	<key>futureStateAcceleration</key>
+	<string>sessionBesidePlatform</string>
+	<key>lastSinkAlignment</key>
+	<string>concurrentEntityLeft</string>
+	<key>oldStateAlignment</key>
+	<string>enabledBlocDelay</string>
+	<key>repositoryEnvironmentSpacing</key>
+	<string>dedicatedReducerRotation</string>
+</dict>
+</plist>

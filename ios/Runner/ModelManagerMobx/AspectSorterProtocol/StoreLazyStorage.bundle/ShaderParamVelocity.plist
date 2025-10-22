@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopStoreStyle</key>
+	<string>tappableAxisResponse</string>
+	<key>expandedEnvironmentInterval</key>
+	<string>secondStatefulResponse</string>
+	<key>inheritedScreenFeedback</key>
+	<string>firstGridType</string>
+	<key>metadataInsideLayer</key>
+	<string>fragmentDecoratorPadding</string>
+	<key>routerAndVariable</key>
+	<string>profileContainPhase</string>
+</dict>
+</plist>

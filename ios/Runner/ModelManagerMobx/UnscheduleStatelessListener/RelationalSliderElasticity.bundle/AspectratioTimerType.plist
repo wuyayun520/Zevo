@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directTaskFrequency</key>
+	<string>touchLayerContrast</string>
+	<key>geometricPrecisionOffset</key>
+	<string>errorAgainstStrategy</string>
+	<key>localizationCompositeOffset</key>
+	<string>functionalPositionedDistance</string>
+	<key>memberForActivity</key>
+	<string>iterativeInteractorRotation</string>
+	<key>modalInMethod</key>
+	<string>matrixAndFramework</string>
+	<key>normPhaseRight</key>
+	<string>groupCommandOpacity</string>
+	<key>routerThroughPattern</key>
+	<string>textureKindResponse</string>
+	<key>statefulModelCount</key>
+	<string>baselineModeSaturation</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertDuringStructure</key>
+	<string>workflowAgainstFacade</string>
+	<key>dropdownbuttonAgainstComposite</key>
+	<string>previewThroughMethod</string>
+	<key>optimizerByValue</key>
+	<string>streamNearForm</string>
+	<key>pinchableDurationBehavior</key>
+	<string>inactivePreviewCount</string>
+	<key>streamOperationBottom</key>
+	<string>radiusUntilLayer</string>
+	<key>tangentVisitorIndex</key>
+	<string>missionThroughStage</string>
+	<key>timerTypeDistance</key>
+	<string>callbackChainOpacity</string>
+	<key>tweenBufferPadding</key>
+	<string>animationChainPadding</string>
+</dict>
+</plist>

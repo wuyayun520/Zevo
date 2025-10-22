@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorActionAcceleration</key>
+	<string>streamBeyondCycle</string>
+	<key>backwardAllocatorFeedback</key>
+	<string>retainedListenerSkewx</string>
+	<key>directlyDependencyFormat</key>
+	<string>mediocreLabelBorder</string>
+	<key>easyParticleOpacity</key>
+	<string>logarithmAsCommand</string>
+	<key>listviewInsideCommand</key>
+	<string>builderKindForce</string>
+	<key>permissiveErrorBound</key>
+	<string>prismaticViewContrast</string>
+	<key>sceneDuringParameter</key>
+	<string>durationBesideVariable</string>
+	<key>specifyLayoutInset</key>
+	<string>axisPerActivity</string>
+</dict>
+</plist>

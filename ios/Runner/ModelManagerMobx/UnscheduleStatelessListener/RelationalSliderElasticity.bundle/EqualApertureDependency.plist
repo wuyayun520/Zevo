@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finalInkwellScale</key>
+	<string>crucialTechniqueAcceleration</string>
+	<key>missedActionStyle</key>
+	<string>missionOutsideShape</string>
+	<key>multiLoopCount</key>
+	<string>secondExceptionSkewx</string>
+	<key>nativeConfigurationSpacing</key>
+	<string>resolverScopeDensity</string>
+	<key>progressbarLayerTransparency</key>
+	<string>scaleNumberSkewy</string>
+	<key>tableByInterpreter</key>
+	<string>constraintObserverLocation</string>
+</dict>
+</plist>

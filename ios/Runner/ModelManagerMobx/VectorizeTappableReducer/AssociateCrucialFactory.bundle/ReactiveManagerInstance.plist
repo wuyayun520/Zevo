@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseNavigatorInset</key>
+	<string>sensorValueFrequency</string>
+	<key>discardedGraphVisibility</key>
+	<string>mobileDurationState</string>
+	<key>interactorObserverDepth</key>
+	<string>cartesianReductionVisibility</string>
+	<key>kernelContextMomentum</key>
+	<string>discardedAsyncFrequency</string>
+	<key>radiusScopeMomentum</key>
+	<string>flexAtAdapter</string>
+	<key>rectExceptOperation</key>
+	<string>projectDuringStructure</string>
+	<key>seamlessObserverTop</key>
+	<string>imperativeInteractorHue</string>
+	<key>semanticExceptionDistance</key>
+	<string>semanticErrorStatus</string>
+	<key>sharedAllocatorCount</key>
+	<string>usedProviderSpeed</string>
+	<key>transitionUntilInterpreter</key>
+	<string>hardTernaryFormat</string>
+</dict>
+</plist>

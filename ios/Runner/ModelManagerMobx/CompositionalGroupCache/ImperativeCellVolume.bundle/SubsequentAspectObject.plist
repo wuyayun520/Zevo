@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackFormMode</key>
+	<string>arithmeticNumberOrientation</string>
+	<key>callbackJobFeedback</key>
+	<string>hardBuilderCount</string>
+	<key>channelsVersusStage</key>
+	<string>fusedProtocolName</string>
+	<key>largeHeroDelay</key>
+	<string>mainTextValidation</string>
+	<key>nativePromiseTension</key>
+	<string>discardedProgressbarIndex</string>
+	<key>routerWorkDuration</key>
+	<string>toolPerObserver</string>
+	<key>stepAroundLayer</key>
+	<string>synchronousIconState</string>
+</dict>
+</plist>

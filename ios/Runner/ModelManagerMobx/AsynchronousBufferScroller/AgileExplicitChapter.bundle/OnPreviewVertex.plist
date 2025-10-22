@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocStrategyBorder</key>
+	<string>allocatorAmongTask</string>
+	<key>consumerPrototypeDelay</key>
+	<string>storageContainPhase</string>
+	<key>keyDependencyFlags</key>
+	<string>sharedStoryboardSkewy</string>
+	<key>mobileSubpixelRate</key>
+	<string>mediumReducerBottom</string>
+	<key>routeOfTier</key>
+	<string>effectPlatformFrequency</string>
+	<key>sensorDuringStrategy</key>
+	<string>uniformRouteEdge</string>
+	<key>singlePointCount</key>
+	<string>hierarchicalGroupPressure</string>
+	<key>tickerAboutValue</key>
+	<string>curveStyleDelay</string>
+</dict>
+</plist>

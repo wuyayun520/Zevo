@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedBorderOpacity</key>
+	<string>utilThroughProxy</string>
+	<key>delegateActionIndex</key>
+	<string>zoneAndAction</string>
+	<key>disabledCubeResponse</key>
+	<string>alignmentStyleBottom</string>
+	<key>durationEnvironmentOpacity</key>
+	<string>anchorAwayVariable</string>
+	<key>normalLossPosition</key>
+	<string>channelsWithMode</string>
+	<key>observerObserverResponse</key>
+	<string>captionAlongStage</string>
+	<key>resourceCycleBottom</key>
+	<string>keyTextfieldStatus</string>
+	<key>routerKindOrientation</key>
+	<string>tappableInstructionVisible</string>
+	<key>textureLayerContrast</key>
+	<string>smartGridSkewx</string>
+</dict>
+</plist>

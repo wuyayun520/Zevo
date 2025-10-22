@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedResourceDepth</key>
+	<string>subtleAlignmentTheme</string>
+	<key>boxMethodCenter</key>
+	<string>segueVersusAdapter</string>
+	<key>compositionViaBridge</key>
+	<string>customFeatureShade</string>
+	<key>coordinatorAwayNumber</key>
+	<string>tabbarCommandCenter</string>
+	<key>drawerViaLayer</key>
+	<string>numericalBrushShape</string>
+	<key>labelValueTheme</key>
+	<string>semanticGrayscaleColor</string>
+	<key>mediaqueryValueDistance</key>
+	<string>fusedDrawerFrequency</string>
+	<key>radiusFrameworkOpacity</key>
+	<string>requiredBoxshadowVelocity</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticProviderPosition</key>
+	<string>blocAgainstBridge</string>
+	<key>completionEnvironmentSkewx</key>
+	<string>animatedGrainSkewy</string>
+	<key>exceptionWithoutPhase</key>
+	<string>containerNearBridge</string>
+	<key>pageviewOrTier</key>
+	<string>transitionParameterSkewx</string>
+	<key>vectorScopePressure</key>
+	<string>consumerFacadeDistance</string>
+</dict>
+</plist>

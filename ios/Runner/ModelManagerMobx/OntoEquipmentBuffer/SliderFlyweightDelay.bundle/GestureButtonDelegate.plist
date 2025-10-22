@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerAlongComposite</key>
+	<string>consultativeGestureBottom</string>
+	<key>gradientObserverEdge</key>
+	<string>observerStageDensity</string>
+	<key>popupScopeStatus</key>
+	<string>screenObserverValidation</string>
+	<key>respectiveDurationBottom</key>
+	<string>sensorNearNumber</string>
+	<key>responsiveFutureTheme</key>
+	<string>featureCycleTheme</string>
+	<key>semanticsCompositeTag</key>
+	<string>commandShapeBound</string>
+	<key>transitionTaskVisibility</key>
+	<string>hierarchicalMobileSize</string>
+</dict>
+</plist>

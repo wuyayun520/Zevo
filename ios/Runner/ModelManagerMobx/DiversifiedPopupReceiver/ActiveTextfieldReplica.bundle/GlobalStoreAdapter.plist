@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveStructureFeedback</key>
+	<string>optionVariableSaturation</string>
+	<key>dynamicCommandRate</key>
+	<string>durationAmongFramework</string>
+	<key>materialLogSpacing</key>
+	<string>immutableFrameEdge</string>
+	<key>missedWidgetBehavior</key>
+	<string>materialBufferPadding</string>
+	<key>reusableTouchAcceleration</key>
+	<string>reductionTempleFlags</string>
+	<key>serviceSystemDistance</key>
+	<string>signParameterSpeed</string>
+	<key>shaderOutsideStyle</key>
+	<string>seamlessDelegateTint</string>
+	<key>similarStatelessAlignment</key>
+	<string>criticalLayerFrequency</string>
+	<key>tweenSinceTemple</key>
+	<string>aspectBeyondCycle</string>
+</dict>
+</plist>

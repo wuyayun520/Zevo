@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncOutsideBridge</key>
+	<string>crudePreviewPosition</string>
+	<key>awaitVersusContext</key>
+	<string>interactiveInterfacePadding</string>
+	<key>checkboxVersusStructure</key>
+	<string>rowUntilCommand</string>
+	<key>completionActionKind</key>
+	<string>gesturedetectorMementoPressure</string>
+	<key>respectiveTernaryKind</key>
+	<string>taskShapeDistance</string>
+	<key>sliderSingletonInset</key>
+	<string>routeProxyRotation</string>
+	<key>streamDuringFlyweight</key>
+	<string>transformerAgainstMemento</string>
+	<key>subtleGateFrequency</key>
+	<string>subpixelBeyondOperation</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnValueCount</key>
+	<string>difficultCurveInteraction</string>
+	<key>graphicOrProxy</key>
+	<string>workflowByVisitor</string>
+	<key>navigationAdapterVelocity</key>
+	<string>enabledRadiusRate</string>
+	<key>reactiveIndicatorTint</key>
+	<string>transitionDuringStructure</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedRadiusAcceleration</key>
+	<string>interactorThroughBuffer</string>
+	<key>observerVisitorBottom</key>
+	<string>navigatorWithFramework</string>
+	<key>persistentAwaitIndex</key>
+	<string>matrixSystemDistance</string>
+	<key>radiusInsidePattern</key>
+	<string>permissiveOffsetInset</string>
+	<key>resizableVariantTag</key>
+	<string>descriptorDuringOperation</string>
+	<key>subtleErrorRate</key>
+	<string>routerAlongOperation</string>
+	<key>unsortedProjectDepth</key>
+	<string>cupertinoSingletonOffset</string>
+	<key>vectorAsScope</key>
+	<string>screenDuringPrototype</string>
+</dict>
+</plist>

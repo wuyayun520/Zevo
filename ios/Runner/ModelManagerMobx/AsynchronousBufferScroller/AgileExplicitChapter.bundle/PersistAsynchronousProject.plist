@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationPlatformRight</key>
+	<string>arithmeticDecorationSkewx</string>
+	<key>arithmeticIncludeType</key>
+	<string>activeProjectOpacity</string>
+	<key>displayableTweenFormat</key>
+	<string>screenMethodSaturation</string>
+	<key>interpolationDecoratorTint</key>
+	<string>transitionAtFlyweight</string>
+	<key>respectiveResultAppearance</key>
+	<string>commandFunctionAlignment</string>
+	<key>sceneTypePosition</key>
+	<string>accessibleTopicFeedback</string>
+	<key>sharedModelRate</key>
+	<string>alertNearDecorator</string>
+	<key>taskAmongInterpreter</key>
+	<string>optionStrategyHead</string>
+	<key>themePhaseScale</key>
+	<string>eventCommandMomentum</string>
+	<key>timerAsFacade</key>
+	<string>entityForLayer</string>
+</dict>
+</plist>

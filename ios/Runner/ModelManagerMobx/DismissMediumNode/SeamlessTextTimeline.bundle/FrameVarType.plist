@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardOrAdapter</key>
+	<string>radiusLayerLeft</string>
+	<key>discardedLogarithmFlags</key>
+	<string>activeVectorScale</string>
+	<key>frameMethodPressure</key>
+	<string>groupFacadePadding</string>
+	<key>groupStateInset</key>
+	<string>smartRoleAlignment</string>
+	<key>listviewVersusFlyweight</key>
+	<string>accessoryVariableEdge</string>
+	<key>metadataAgainstActivity</key>
+	<string>navigatorSystemBorder</string>
+	<key>previewByPlatform</key>
+	<string>sequentialExtensionKind</string>
+	<key>spotAmongBridge</key>
+	<string>resourceFormPressure</string>
+	<key>spriteThanSystem</key>
+	<string>tappableHandlerValidation</string>
+	<key>titleAgainstAction</key>
+	<string>paddingAndAdapter</string>
+</dict>
+</plist>

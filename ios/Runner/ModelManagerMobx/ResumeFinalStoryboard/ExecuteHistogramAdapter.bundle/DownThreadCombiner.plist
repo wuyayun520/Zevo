@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackFromActivity</key>
+	<string>precisionFunctionResponse</string>
+	<key>layoutWorkPressure</key>
+	<string>euclideanPlaybackMargin</string>
+	<key>memberWithScope</key>
+	<string>layoutTypeMomentum</string>
+	<key>missedCoordinatorIndex</key>
+	<string>substantialPlaybackScale</string>
+	<key>parallelSingletonBorder</key>
+	<string>catalystFlyweightBrightness</string>
+	<key>reactiveLogHue</key>
+	<string>enabledStackType</string>
+	<key>reducerAtStrategy</key>
+	<string>usedCurveDepth</string>
+	<key>textActivityVisibility</key>
+	<string>comprehensiveCardHead</string>
+</dict>
+</plist>

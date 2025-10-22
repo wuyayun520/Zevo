@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderVersusComposite</key>
+	<string>masterVersusFacade</string>
+	<key>ephemeralControllerInterval</key>
+	<string>statefulListenerCoord</string>
+	<key>ephemeralPopupShape</key>
+	<string>animatedcontainerWithLayer</string>
+	<key>exceptionVisitorState</key>
+	<string>coordinatorPhaseState</string>
+	<key>injectionStrategyPressure</key>
+	<string>entropyLayerOpacity</string>
+	<key>menuMethodVisibility</key>
+	<string>resolverMediatorTag</string>
+	<key>resultActionType</key>
+	<string>staticReducerName</string>
+	<key>variantOperationScale</key>
+	<string>transitionPhaseScale</string>
+</dict>
+</plist>

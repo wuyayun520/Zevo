@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyInsidePattern</key>
+	<string>playbackLikeVariable</string>
+	<key>finalLayoutFlags</key>
+	<string>directManagerValidation</string>
+	<key>interactiveControllerValidation</key>
+	<string>touchStructureCoord</string>
+	<key>permissiveConfigurationTop</key>
+	<string>allocatorAboutProcess</string>
+	<key>tweenAroundVisitor</key>
+	<string>substantialTransitionBorder</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderVariableBound</key>
+	<string>binaryStateRate</string>
+	<key>buttonInDecorator</key>
+	<string>notifierKindFlags</string>
+	<key>cupertinoCatalystInteraction</key>
+	<string>buttonTypeKind</string>
+	<key>descriptorChainFlags</key>
+	<string>dependencyThroughPrototype</string>
+	<key>explicitAlphaVisible</key>
+	<string>dynamicHandlerBehavior</string>
+	<key>interfaceTaskOffset</key>
+	<string>persistentLayoutLocation</string>
+	<key>monsterBeyondStyle</key>
+	<string>arithmeticOfParam</string>
+	<key>permissiveSubpixelSpeed</key>
+	<string>timerWorkSkewy</string>
+	<key>projectionAlongEnvironment</key>
+	<string>ephemeralDescriptionVelocity</string>
+	<key>scrollableCoordinatorPosition</key>
+	<string>channelContextSkewy</string>
+</dict>
+</plist>

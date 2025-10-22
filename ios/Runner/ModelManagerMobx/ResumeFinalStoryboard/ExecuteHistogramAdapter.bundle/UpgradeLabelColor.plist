@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerPatternShade</key>
+	<string>mainTaskShade</string>
+	<key>crudeSliderOrientation</key>
+	<string>sizedboxPrototypeOpacity</string>
+	<key>dependencyBridgeInterval</key>
+	<string>concurrentCoordinatorAppearance</string>
+	<key>ephemeralDurationDistance</key>
+	<string>allocatorAdapterTop</string>
+	<key>exceptionExceptParam</key>
+	<string>missedConstraintRotation</string>
+	<key>gridOfAdapter</key>
+	<string>priorityScopeForce</string>
+	<key>petModeMode</key>
+	<string>serviceAgainstKind</string>
+	<key>projectionNearObserver</key>
+	<string>heapTempleCount</string>
+	<key>resultContextMomentum</key>
+	<string>sharedDimensionContrast</string>
+	<key>synchronousRequestScale</key>
+	<string>positionedBeyondComposite</string>
+</dict>
+</plist>

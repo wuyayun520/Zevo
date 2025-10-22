@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>modalDecoratorLocation</key>
+	<string>mainQueueVelocity</string>
+	<key>presenterKindType</key>
+	<string>baseVersusStage</string>
+	<key>previewAwayPlatform</key>
+	<string>buttonLevelFrequency</string>
+	<key>rapidCommandFrequency</key>
+	<string>responseFrameworkTop</string>
+	<key>resultContextLeft</key>
+	<string>navigatorNearChain</string>
+</dict>
+</plist>

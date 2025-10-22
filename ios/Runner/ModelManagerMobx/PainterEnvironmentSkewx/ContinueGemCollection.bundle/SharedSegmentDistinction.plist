@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderByObserver</key>
+	<string>arithmeticTimerEdge</string>
+	<key>builderProxyShape</key>
+	<string>axisModeTransparency</string>
+	<key>configurationContextInteraction</key>
+	<string>flexStateState</string>
+	<key>criticalOptionOffset</key>
+	<string>handlerBufferHead</string>
+	<key>handlerPatternHead</key>
+	<string>frameThanCycle</string>
+	<key>standaloneAsyncSkewx</key>
+	<string>capacitiesFacadeMode</string>
+	<key>transitionViaCommand</key>
+	<string>durationVarScale</string>
+</dict>
+</plist>

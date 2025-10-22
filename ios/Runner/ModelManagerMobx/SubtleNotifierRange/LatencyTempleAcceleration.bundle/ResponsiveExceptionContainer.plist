@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionActivityPressure</key>
+	<string>screenOperationCenter</string>
+	<key>adaptiveAlphaLocation</key>
+	<string>segueOrStage</string>
+	<key>descriptionActionStyle</key>
+	<string>mobileSegueSize</string>
+	<key>eventFormOrientation</key>
+	<string>utilPhaseTheme</string>
+	<key>labelChainStyle</key>
+	<string>cellWithMethod</string>
+	<key>methodFlyweightSkewy</key>
+	<string>buttonCycleTheme</string>
+	<key>projectionBesideAction</key>
+	<string>priorNodeStyle</string>
+	<key>spotLevelPosition</key>
+	<string>euclideanCapsulePosition</string>
+</dict>
+</plist>

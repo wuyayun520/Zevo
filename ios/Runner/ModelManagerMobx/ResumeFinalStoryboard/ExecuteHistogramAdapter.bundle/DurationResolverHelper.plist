@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferFromObserver</key>
+	<string>inactiveRectScale</string>
+	<key>decorationJobShape</key>
+	<string>disparateSizeTop</string>
+	<key>dropdownbuttonLikeContext</key>
+	<string>indicatorCommandSpeed</string>
+	<key>featureModeDepth</key>
+	<string>backwardTopicIndex</string>
+	<key>transitionAwayPattern</key>
+	<string>queryModeDelay</string>
+</dict>
+</plist>

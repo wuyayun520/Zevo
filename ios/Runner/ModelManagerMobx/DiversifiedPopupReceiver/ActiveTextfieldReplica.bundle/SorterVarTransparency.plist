@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryAtActivity</key>
+	<string>progressbarStyleColor</string>
+	<key>columnVersusForm</key>
+	<string>easyProgressbarScale</string>
+	<key>cubitCycleSkewx</key>
+	<string>cosineMethodInterval</string>
+	<key>granularServiceType</key>
+	<string>vectorModeValidation</string>
+	<key>indicatorAgainstStyle</key>
+	<string>integerModeInset</string>
+	<key>instructionIncludeMode</key>
+	<string>permanentEffectStyle</string>
+	<key>respectiveFeatureOrientation</key>
+	<string>observerContainProxy</string>
+	<key>touchPrototypeFlags</key>
+	<string>projectThroughContext</string>
+</dict>
+</plist>

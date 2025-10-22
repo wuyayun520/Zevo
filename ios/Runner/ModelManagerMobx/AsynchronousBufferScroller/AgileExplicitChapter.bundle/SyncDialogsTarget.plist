@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicTimerTheme</key>
+	<string>finalSinkMomentum</string>
+	<key>dimensionBesideMediator</key>
+	<string>widgetInStage</string>
+	<key>inheritedNotificationOrientation</key>
+	<string>nativeHeapRight</string>
+	<key>nextScreenSkewx</key>
+	<string>sliderForOperation</string>
+	<key>seamlessResponseAlignment</key>
+	<string>autoLoopFrequency</string>
+	<key>semanticAwaitOrigin</key>
+	<string>localGraphVisibility</string>
+	<key>shaderPlatformFeedback</key>
+	<string>statelessCurveTop</string>
+	<key>streamMediatorTail</key>
+	<string>sharedCurveSpacing</string>
+	<key>temporaryCapacitiesScale</key>
+	<string>featureFunctionInterval</string>
+</dict>
+</plist>

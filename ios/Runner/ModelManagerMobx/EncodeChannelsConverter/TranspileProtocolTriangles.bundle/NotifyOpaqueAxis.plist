@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterAgainstFlyweight</key>
+	<string>tappableOffsetType</string>
+	<key>customizedQueueOrientation</key>
+	<string>alignmentOfMediator</string>
+	<key>mapWithoutLevel</key>
+	<string>lastAllocatorPadding</string>
+	<key>sliderChainAlignment</key>
+	<string>marginVariableSkewy</string>
+	<key>subscriptionUntilTier</key>
+	<string>builderFromMemento</string>
+	<key>usageForPattern</key>
+	<string>viewMethodFlags</string>
+</dict>
+</plist>

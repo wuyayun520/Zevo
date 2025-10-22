@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelCompositeResponse</key>
+	<string>vectorStructureBehavior</string>
+	<key>granularOperationSize</key>
+	<string>autoChartTransparency</string>
+	<key>indicatorExceptSingleton</key>
+	<string>usedObserverAppearance</string>
+	<key>managerContextRate</key>
+	<string>specifyPaddingCenter</string>
+	<key>previewOrAdapter</key>
+	<string>listenerWithShape</string>
+	<key>screenFlyweightSize</key>
+	<string>viewLikeFacade</string>
+	<key>sensorWithChain</key>
+	<string>descriptionExceptFramework</string>
+	<key>sophisticatedGemSpacing</key>
+	<string>axisStructureInterval</string>
+	<key>storageAgainstStrategy</key>
+	<string>presenterContainMemento</string>
+</dict>
+</plist>

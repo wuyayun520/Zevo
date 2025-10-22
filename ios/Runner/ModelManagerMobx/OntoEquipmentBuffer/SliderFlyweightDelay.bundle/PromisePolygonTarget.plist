@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionUnaryTransparency</key>
+	<string>entityCycleState</string>
+	<key>builderChainInset</key>
+	<string>managerCommandIndex</string>
+	<key>cardVarName</key>
+	<string>reusableContainerLocation</string>
+	<key>interactiveSignBottom</key>
+	<string>collectionVarTag</string>
+	<key>modalDuringMode</key>
+	<string>progressbarPatternCoord</string>
+	<key>particleOfTask</key>
+	<string>resourceJobBehavior</string>
+	<key>rowParamVisibility</key>
+	<string>publicEffectCount</string>
+	<key>sortedMasterAcceleration</key>
+	<string>multiSceneTint</string>
+</dict>
+</plist>

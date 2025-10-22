@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnKindInteraction</key>
+	<string>layoutDespiteJob</string>
+	<key>lazyResourceOpacity</key>
+	<string>constraintPhaseCount</string>
+	<key>standaloneBoxshadowCount</key>
+	<string>aspectInNumber</string>
+	<key>stateVisitorSkewy</key>
+	<string>spriteAndCommand</string>
+</dict>
+</plist>

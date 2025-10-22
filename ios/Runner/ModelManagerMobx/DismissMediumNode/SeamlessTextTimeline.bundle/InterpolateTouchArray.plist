@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gesturedetectorActivityPosition</key>
+	<string>sizePlatformMomentum</string>
+	<key>plateJobIndex</key>
+	<string>displayableAnimatedcontainerBound</string>
+	<key>significantAlphaOrigin</key>
+	<string>spriteFrameworkOpacity</string>
+	<key>usageContainPhase</key>
+	<string>buttonValueStatus</string>
+</dict>
+</plist>

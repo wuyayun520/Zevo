@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitAroundLevel</key>
+	<string>responseDecoratorEdge</string>
+	<key>behaviorAgainstShape</key>
+	<string>independentProgressbarVisible</string>
+	<key>constraintAdapterDistance</key>
+	<string>permissivePaddingDelay</string>
+	<key>futureAgainstTask</key>
+	<string>intermediateEffectIndex</string>
+	<key>materialDespiteProcess</key>
+	<string>navigatorAdapterTail</string>
+	<key>reducerPhaseCoord</key>
+	<string>sliderNumberMargin</string>
+</dict>
+</plist>

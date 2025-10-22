@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateForFlyweight</key>
+	<string>diffableTaskOrientation</string>
+	<key>ephemeralContainerVisible</key>
+	<string>progressbarVersusNumber</string>
+	<key>interfaceAtInterpreter</key>
+	<string>mobileGraphMargin</string>
+	<key>mediumListenerRotation</key>
+	<string>expandedSinceState</string>
+</dict>
+</plist>

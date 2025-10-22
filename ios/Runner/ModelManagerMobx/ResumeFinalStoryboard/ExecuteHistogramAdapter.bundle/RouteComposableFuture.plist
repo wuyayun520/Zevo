@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferTaskBehavior</key>
+	<string>tickerValueDuration</string>
+	<key>flexOperationColor</key>
+	<string>mediaqueryCycleVisibility</string>
+	<key>overlayAmongLayer</key>
+	<string>sliderLevelMomentum</string>
+	<key>positionAroundScope</key>
+	<string>missedRowIndex</string>
+	<key>projectUntilMemento</key>
+	<string>prioritySingletonVisibility</string>
+	<key>requestTaskAlignment</key>
+	<string>listenerThanAdapter</string>
+	<key>serviceNearJob</key>
+	<string>cacheNumberSaturation</string>
+	<key>touchAsObserver</key>
+	<string>activityModeState</string>
+	<key>unsortedProviderInset</key>
+	<string>specifierFrameworkAcceleration</string>
+</dict>
+</plist>

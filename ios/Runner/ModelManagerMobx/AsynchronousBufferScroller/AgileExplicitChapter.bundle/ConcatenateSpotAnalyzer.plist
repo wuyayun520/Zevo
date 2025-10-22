@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleListenerType</key>
+	<string>assetNumberLeft</string>
+	<key>accordionConfigurationVisible</key>
+	<string>bufferFacadeAcceleration</string>
+	<key>baselineBeyondFacade</key>
+	<string>scrollableCardOffset</string>
+	<key>effectContainShape</key>
+	<string>loopWithProcess</string>
+	<key>errorAndPhase</key>
+	<string>containerOutsidePlatform</string>
+	<key>playbackViaVisitor</key>
+	<string>layerAndStyle</string>
+	<key>sinkCycleCenter</key>
+	<string>statefulBlocTint</string>
+	<key>smallButtonShade</key>
+	<string>secondButtonBehavior</string>
+</dict>
+</plist>

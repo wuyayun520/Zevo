@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventFormOpacity</key>
+	<string>handlerNumberVisibility</string>
+	<key>gateNearLayer</key>
+	<string>spriteAgainstPattern</string>
+	<key>immutableUtilForce</key>
+	<string>batchAtStage</string>
+	<key>otherTransitionBottom</key>
+	<string>explicitTickerPadding</string>
+	<key>progressbarInSystem</key>
+	<string>subtleSignatureDuration</string>
+	<key>screenViaProcess</key>
+	<string>directWorkflowPressure</string>
+</dict>
+</plist>

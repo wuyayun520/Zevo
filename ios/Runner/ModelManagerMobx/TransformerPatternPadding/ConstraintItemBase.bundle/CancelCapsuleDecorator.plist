@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardActionMargin</key>
+	<string>sensorSingletonSkewx</string>
+	<key>checkboxPerVariable</key>
+	<string>immutableBlocSkewx</string>
+	<key>controllerBeyondProxy</key>
+	<string>delegateModeDuration</string>
+	<key>indicatorVisitorLocation</key>
+	<string>modulusUntilJob</string>
+	<key>interactorAwayPattern</key>
+	<string>gestureBesideDecorator</string>
+	<key>overlayForComposite</key>
+	<string>crucialBufferIndex</string>
+	<key>resourcePlatformFormat</key>
+	<string>commandNumberRate</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerButtonMode</key>
+	<string>greatTouchType</string>
+	<key>elasticBaseIndex</key>
+	<string>transitionUntilType</string>
+	<key>modelCycleCenter</key>
+	<string>liteBuilderInteraction</string>
+	<key>subscriptionOutsideScope</key>
+	<string>blocForWork</string>
+</dict>
+</plist>

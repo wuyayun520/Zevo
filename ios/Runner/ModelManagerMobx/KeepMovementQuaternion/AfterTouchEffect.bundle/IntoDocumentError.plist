@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxMediatorDelay</key>
+	<string>eagerDependencyVisibility</string>
+	<key>bulletLayerAlignment</key>
+	<string>densePresenterBorder</string>
+	<key>factoryPhaseColor</key>
+	<string>autoLogContrast</string>
+	<key>functionalResponseStyle</key>
+	<string>durationInterpreterMode</string>
+	<key>gramDuringSingleton</key>
+	<string>completerActionBehavior</string>
+	<key>modelParamSkewy</key>
+	<string>opaqueEventTension</string>
+	<key>popupNearOperation</key>
+	<string>histogramDuringPrototype</string>
+	<key>previewStructureHead</key>
+	<string>utilInMediator</string>
+</dict>
+</plist>

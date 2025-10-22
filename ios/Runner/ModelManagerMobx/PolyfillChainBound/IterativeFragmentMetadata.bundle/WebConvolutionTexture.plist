@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeFrameTag</key>
+	<string>synchronousReducerInteraction</string>
+	<key>desktopRowSpacing</key>
+	<string>operationWorkHue</string>
+	<key>requiredScaleTheme</key>
+	<string>loopAmongPrototype</string>
+	<key>routerContainMode</key>
+	<string>metadataBridgeRight</string>
+</dict>
+</plist>

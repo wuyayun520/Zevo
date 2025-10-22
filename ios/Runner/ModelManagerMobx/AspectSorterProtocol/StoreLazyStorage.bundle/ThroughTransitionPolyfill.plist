@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorAroundNumber</key>
+	<string>blocShapeCenter</string>
+	<key>columnPhaseType</key>
+	<string>requestNearForm</string>
+	<key>exceptionSystemDelay</key>
+	<string>discardedNodeBottom</string>
+	<key>greatResultInterval</key>
+	<string>missedMusicSize</string>
+	<key>menuBufferOpacity</key>
+	<string>sustainableMasterFrequency</string>
+</dict>
+</plist>

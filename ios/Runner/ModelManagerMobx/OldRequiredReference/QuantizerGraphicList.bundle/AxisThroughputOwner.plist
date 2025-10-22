@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseChallengeCenter</key>
+	<string>disabledChannelsSaturation</string>
+	<key>grainOrShape</key>
+	<string>alignmentFunctionDepth</string>
+	<key>inkwellSingletonPosition</key>
+	<string>contractionPhaseBrightness</string>
+	<key>layerPrototypeSpeed</key>
+	<string>themeStageBrightness</string>
+	<key>listenerScopeAppearance</key>
+	<string>providerParameterResponse</string>
+</dict>
+</plist>

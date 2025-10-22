@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncBesidePhase</key>
+	<string>popupAboutPattern</string>
+	<key>certificateContainBridge</key>
+	<string>localizationAmongSystem</string>
+	<key>configurationOperationAppearance</key>
+	<string>accordionDescriptionOffset</string>
+	<key>granularAwaitResponse</key>
+	<string>unsortedObserverVisibility</string>
+	<key>methodParamIndex</key>
+	<string>persistentEffectPressure</string>
+	<key>zoneLayerRight</key>
+	<string>interactorStructureType</string>
+</dict>
+</plist>

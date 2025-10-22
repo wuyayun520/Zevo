@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedMetadataSpeed</key>
+	<string>titleByPrototype</string>
+	<key>mobileFromProcess</key>
+	<string>lastAlertMode</string>
+	<key>progressbarAsObserver</key>
+	<string>sizeAtMode</string>
+	<key>taskNearOperation</key>
+	<string>profileViaPhase</string>
+</dict>
+</plist>

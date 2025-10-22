@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartTaskRate</key>
+	<string>plateOfTier</string>
+	<key>operationUntilEnvironment</key>
+	<string>resultForOperation</string>
+	<key>scrollVariableOffset</key>
+	<string>diffableCanvasSpacing</string>
+	<key>sessionLevelTransparency</key>
+	<string>sequentialMovementTension</string>
+</dict>
+</plist>

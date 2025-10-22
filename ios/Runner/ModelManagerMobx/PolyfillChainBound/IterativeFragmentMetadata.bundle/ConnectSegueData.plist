@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeClipperBehavior</key>
+	<string>rectAgainstCommand</string>
+	<key>coordinatorAboutSingleton</key>
+	<string>pointBeyondChain</string>
+	<key>heroDecoratorBorder</key>
+	<string>playbackWithParam</string>
+	<key>momentumOutsideStyle</key>
+	<string>delegateStrategyEdge</string>
+	<key>originalViewTail</key>
+	<string>smartGraphicMargin</string>
+	<key>roleFromVisitor</key>
+	<string>pointInterpreterTransparency</string>
+	<key>topicIncludeState</key>
+	<string>storeBeyondActivity</string>
+</dict>
+</plist>

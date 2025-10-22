@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedMissionKind</key>
+	<string>reducerAtPhase</string>
+	<key>allocatorTypeMode</key>
+	<string>diversifiedIconFeedback</string>
+	<key>callbackContainObserver</key>
+	<string>scrollableAnimationBehavior</string>
+	<key>presenterLevelCenter</key>
+	<string>substantialLabelOrientation</string>
+	<key>unactivatedIsolateMargin</key>
+	<string>durationThanPattern</string>
+</dict>
+</plist>

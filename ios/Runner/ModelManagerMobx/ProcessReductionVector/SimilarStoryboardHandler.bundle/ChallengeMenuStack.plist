@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderModeRight</key>
+	<string>intensitySinceTask</string>
+	<key>indicatorTaskMomentum</key>
+	<string>curveProxyTop</string>
+	<key>lostInteractorHead</key>
+	<string>transformerModeScale</string>
+	<key>operationByComposite</key>
+	<string>popupShapeHue</string>
+</dict>
+</plist>

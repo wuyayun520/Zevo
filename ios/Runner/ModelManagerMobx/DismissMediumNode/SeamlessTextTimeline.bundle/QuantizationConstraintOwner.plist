@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveJobResponse</key>
+	<string>indicatorPrototypeAppearance</string>
+	<key>hashForJob</key>
+	<string>integerBeyondCycle</string>
+	<key>nativeTabbarState</key>
+	<string>decorationBufferPadding</string>
+	<key>signatureInsideShape</key>
+	<string>semanticsVersusForm</string>
+</dict>
+</plist>

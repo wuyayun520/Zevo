@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionAsMemento</key>
+	<string>fragmentLevelDensity</string>
+	<key>autoRemainderColor</key>
+	<string>grayscaleVersusParam</string>
+	<key>errorBesideEnvironment</key>
+	<string>graphSingletonDelay</string>
+	<key>interactiveChapterDistance</key>
+	<string>asyncPriorityBound</string>
+	<key>positionBufferFormat</key>
+	<string>backwardCompositionInterval</string>
+	<key>sophisticatedLabelBound</key>
+	<string>effectWorkStatus</string>
+	<key>widgetTemplePadding</key>
+	<string>autoVariantDirection</string>
+</dict>
+</plist>

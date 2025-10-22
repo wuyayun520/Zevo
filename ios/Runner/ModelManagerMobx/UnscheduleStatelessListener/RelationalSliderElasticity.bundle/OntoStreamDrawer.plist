@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnAsFacade</key>
+	<string>composableIntegerVisible</string>
+	<key>interactorTierSaturation</key>
+	<string>promiseBesideSystem</string>
+	<key>opaqueSceneCoord</key>
+	<string>delegateCycleHue</string>
+	<key>shaderOperationOffset</key>
+	<string>intuitiveResponseOpacity</string>
+</dict>
+</plist>

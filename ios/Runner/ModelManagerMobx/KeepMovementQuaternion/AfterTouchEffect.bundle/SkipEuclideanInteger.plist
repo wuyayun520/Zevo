@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorBesideForm</key>
+	<string>activeAppbarDistance</string>
+	<key>desktopCycleRotation</key>
+	<string>rowBeyondForm</string>
+	<key>easyNavigatorTail</key>
+	<string>iterativeChecklistSpeed</string>
+	<key>notifierVersusStyle</key>
+	<string>comprehensiveInjectionColor</string>
+	<key>opaqueLayoutBehavior</key>
+	<string>cursorBeyondContext</string>
+	<key>opaqueModelTransparency</key>
+	<string>tickerAwayStage</string>
+	<key>sequentialRouteMode</key>
+	<string>gemCycleMargin</string>
+	<key>standaloneEntityLocation</key>
+	<string>tickerEnvironmentStatus</string>
+	<key>titleFromChain</key>
+	<string>radioIncludeChain</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardSceneTint</key>
+	<string>custompaintValueInset</string>
+	<key>declarativeObserverInterval</key>
+	<string>layoutParamKind</string>
+	<key>granularGradientOpacity</key>
+	<string>functionalEffectOpacity</string>
+	<key>masterUntilMode</key>
+	<string>activatedRectPressure</string>
+	<key>materialCommandDepth</key>
+	<string>mobileStageTint</string>
+	<key>opaqueExpandedPosition</key>
+	<string>multiplicationSinceState</string>
+	<key>similarTweenDuration</key>
+	<string>rapidViewHue</string>
+</dict>
+</plist>

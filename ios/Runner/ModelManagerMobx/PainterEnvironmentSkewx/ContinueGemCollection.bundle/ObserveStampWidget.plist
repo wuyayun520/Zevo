@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncTaskOpacity</key>
+	<string>storeAroundWork</string>
+	<key>hardDependencyBorder</key>
+	<string>storageInSingleton</string>
+	<key>largeListenerMode</key>
+	<string>decorationPerScope</string>
+	<key>providerDespiteStyle</key>
+	<string>channelsOfSingleton</string>
+	<key>typicalConfigurationBottom</key>
+	<string>transformerParamDistance</string>
+</dict>
+</plist>

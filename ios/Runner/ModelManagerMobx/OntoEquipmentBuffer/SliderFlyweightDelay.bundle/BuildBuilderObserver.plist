@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheJobDelay</key>
+	<string>providerBridgeHue</string>
+	<key>cardLayerBound</key>
+	<string>spriteFormVisible</string>
+	<key>channelThroughStage</key>
+	<string>specifyTimerFormat</string>
+	<key>characterAlongCycle</key>
+	<string>largeReductionSpeed</string>
+	<key>completionAroundVisitor</key>
+	<string>bufferWithFlyweight</string>
+	<key>normTierDuration</key>
+	<string>statefulNearContext</string>
+</dict>
+</plist>

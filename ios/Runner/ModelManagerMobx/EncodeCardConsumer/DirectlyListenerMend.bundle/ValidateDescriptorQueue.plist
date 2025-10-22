@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperVersusStrategy</key>
+	<string>viewAdapterLeft</string>
+	<key>diffableOptionSize</key>
+	<string>arithmeticOrStrategy</string>
+	<key>graphicIncludeAction</key>
+	<string>boxshadowViaStrategy</string>
+	<key>hierarchicalMapInterval</key>
+	<string>getxWorkCount</string>
+	<key>layoutViaLayer</key>
+	<string>modelFromVariable</string>
+	<key>notificationValueDirection</key>
+	<string>menuPerPrototype</string>
+	<key>referenceParamMargin</key>
+	<string>captionAboutJob</string>
+	<key>responseFunctionValidation</key>
+	<string>responseLayerStyle</string>
+	<key>serviceFrameworkTension</key>
+	<string>completerAboutTier</string>
+	<key>usecaseByNumber</key>
+	<string>imperativePositionedFlags</string>
+</dict>
+</plist>

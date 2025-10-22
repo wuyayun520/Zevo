@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationForLevel</key>
+	<string>observerOutsideSystem</string>
+	<key>concurrentSwitchTransparency</key>
+	<string>ignoredReducerVelocity</string>
+	<key>momentumFromProxy</key>
+	<string>interpolationAgainstLevel</string>
+	<key>nodePerVisitor</key>
+	<string>controllerVisitorAppearance</string>
+	<key>offsetContainInterpreter</key>
+	<string>nibThanValue</string>
+	<key>pinchableObserverVelocity</key>
+	<string>switchDuringMediator</string>
+	<key>usecaseFrameworkSaturation</key>
+	<string>decorationPatternEdge</string>
+</dict>
+</plist>

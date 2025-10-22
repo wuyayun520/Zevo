@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableFactoryTag</key>
+	<string>sampleOrValue</string>
+	<key>crudeGridAppearance</key>
+	<string>stateScopeRight</string>
+	<key>exceptionTypeBorder</key>
+	<string>anchorAmongSingleton</string>
+	<key>inactiveBorderForce</key>
+	<string>navigatorByPlatform</string>
+	<key>layoutSystemForce</key>
+	<string>scrollableCompleterBottom</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxBeyondTier</key>
+	<string>scaffoldIncludeActivity</string>
+	<key>buttonBesideSingleton</key>
+	<string>tabbarVariableSpacing</string>
+	<key>controllerOrState</key>
+	<string>associatedFutureFlags</string>
+	<key>draggableStreamOpacity</key>
+	<string>rectWithoutMode</string>
+	<key>dynamicAllocatorRight</key>
+	<string>visibleLayerMomentum</string>
+	<key>easySampleDepth</key>
+	<string>taskStyleScale</string>
+	<key>isolateDespiteProcess</key>
+	<string>transitionKindDensity</string>
+</dict>
+</plist>

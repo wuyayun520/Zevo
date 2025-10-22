@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedWidgetBorder</key>
+	<string>curveViaProxy</string>
+	<key>allocatorInJob</key>
+	<string>builderUntilSingleton</string>
+	<key>chapterSingletonName</key>
+	<string>priorityWithPlatform</string>
+	<key>effectOutsideBridge</key>
+	<string>sustainableListenerSpeed</string>
+	<key>factoryForMode</key>
+	<string>interactiveConstraintTheme</string>
+</dict>
+</plist>

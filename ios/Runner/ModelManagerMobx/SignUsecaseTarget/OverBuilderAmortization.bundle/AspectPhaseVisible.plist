@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationObserverInteraction</key>
+	<string>textValueDensity</string>
+	<key>deferredProfileFormat</key>
+	<string>checkboxAroundValue</string>
+	<key>delegateAsAction</key>
+	<string>managerIncludeLevel</string>
+	<key>nibViaLayer</key>
+	<string>curveParameterColor</string>
+	<key>queryJobOpacity</key>
+	<string>sessionActionShade</string>
+	<key>respectivePainterAlignment</key>
+	<string>storyboardProcessAcceleration</string>
+	<key>scrollPrototypeRight</key>
+	<string>robustConfigurationDistance</string>
+	<key>stepChainContrast</key>
+	<string>signAgainstShape</string>
+</dict>
+</plist>

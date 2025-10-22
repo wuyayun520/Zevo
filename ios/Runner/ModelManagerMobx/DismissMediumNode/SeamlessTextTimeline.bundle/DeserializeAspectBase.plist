@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeActivityDuration</key>
+	<string>cupertinoBeyondForm</string>
+	<key>intermediateCellCoord</key>
+	<string>effectStageDirection</string>
+	<key>metadataDecoratorName</key>
+	<string>entityInsideShape</string>
+	<key>streamPerWork</key>
+	<string>globalLabelDirection</string>
+</dict>
+</plist>

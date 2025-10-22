@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedSingletonInset</key>
+	<string>dynamicInteractorDensity</string>
+	<key>eventBridgeSkewx</key>
+	<string>swiftProcessStyle</string>
+	<key>mediocreGraphOffset</key>
+	<string>adaptiveAnchorType</string>
+	<key>numericalMarginFeedback</key>
+	<string>batchLayerCenter</string>
+	<key>themeViaProxy</key>
+	<string>heroAtMediator</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileBuilderSpacing</key>
+	<string>hardTangentMargin</string>
+	<key>concurrentAnchorState</key>
+	<string>sessionSingletonEdge</string>
+	<key>entityAgainstMediator</key>
+	<string>entityParamAcceleration</string>
+	<key>equipmentInMethod</key>
+	<string>missedTabbarInterval</string>
+	<key>flexVisitorInterval</key>
+	<string>usedCoordinatorDelay</string>
+	<key>priorBlocDelay</key>
+	<string>paddingPlatformMargin</string>
+</dict>
+</plist>

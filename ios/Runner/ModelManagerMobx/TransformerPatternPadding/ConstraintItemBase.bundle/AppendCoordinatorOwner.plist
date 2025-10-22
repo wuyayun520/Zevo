@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>giftPlatformDelay</key>
+	<string>prevContainerIndex</string>
+	<key>ignoredPositionedAcceleration</key>
+	<string>custompaintInFramework</string>
+	<key>interactorSystemStyle</key>
+	<string>alphaEnvironmentDensity</string>
+	<key>publicLabelTint</key>
+	<string>temporaryDelegateVelocity</string>
+	<key>sharedSkirtTag</key>
+	<string>consultativeTabviewBehavior</string>
+	<key>skirtAgainstParameter</key>
+	<string>largeRemainderPosition</string>
+	<key>textureVisitorDistance</key>
+	<string>webTabbarKind</string>
+</dict>
+</plist>

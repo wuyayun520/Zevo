@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledFactoryLeft</key>
+	<string>otherCustompaintContrast</string>
+	<key>localGraphFormat</key>
+	<string>dimensionTypeTint</string>
+	<key>nibObserverValidation</key>
+	<string>custompaintBeyondAction</string>
+	<key>referenceInPattern</key>
+	<string>deferredStateBottom</string>
+	<key>richtextAsForm</key>
+	<string>mobileTernaryRight</string>
+	<key>usedWorkflowBottom</key>
+	<string>observerAroundStructure</string>
+</dict>
+</plist>

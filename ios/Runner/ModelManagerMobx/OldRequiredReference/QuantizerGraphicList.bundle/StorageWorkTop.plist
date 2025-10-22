@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintCommandTransparency</key>
+	<string>stackContextType</string>
+	<key>draggableSubscriptionTransparency</key>
+	<string>mediaDecoratorCoord</string>
+	<key>euclideanAxisIndex</key>
+	<string>interpolationInsideLevel</string>
+	<key>hyperbolicStoreFormat</key>
+	<string>utilOutsideStage</string>
+</dict>
+</plist>

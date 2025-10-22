@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationFrameworkDelay</key>
+	<string>inactiveMasterCoord</string>
+	<key>fixedCommandMomentum</key>
+	<string>grayscaleAsValue</string>
+	<key>invisibleBoxBehavior</key>
+	<string>visibleConsumerCount</string>
+	<key>opaqueResolverFormat</key>
+	<string>methodLikeMode</string>
+	<key>segmentProcessValidation</key>
+	<string>chapterPhasePressure</string>
+	<key>statefulFrameworkOrientation</key>
+	<string>storageThroughTask</string>
+	<key>storageContextName</key>
+	<string>featureAmongPattern</string>
+</dict>
+</plist>

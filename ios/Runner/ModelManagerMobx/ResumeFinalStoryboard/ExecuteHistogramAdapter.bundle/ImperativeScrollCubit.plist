@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationBeyondAction</key>
+	<string>resolverSingletonStatus</string>
+	<key>cubitInEnvironment</key>
+	<string>tweenPlatformAlignment</string>
+	<key>seamlessRouterTheme</key>
+	<string>reactiveCellCount</string>
+	<key>stateAroundValue</key>
+	<string>sophisticatedDecorationOrigin</string>
+</dict>
+</plist>

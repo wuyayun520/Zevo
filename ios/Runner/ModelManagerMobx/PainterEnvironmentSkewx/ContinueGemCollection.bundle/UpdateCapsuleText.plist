@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityStageSpeed</key>
+	<string>shaderModeSaturation</string>
+	<key>basicRoleOrigin</key>
+	<string>rapidListviewIndex</string>
+	<key>elasticImageEdge</key>
+	<string>cardForStyle</string>
+	<key>invisibleResolverRate</key>
+	<string>hierarchicalInterpolationOrientation</string>
+	<key>isolateOfVar</key>
+	<string>subpixelAroundScope</string>
+	<key>marginAboutBridge</key>
+	<string>retainedEffectCenter</string>
+	<key>modelNearAction</key>
+	<string>buttonAsLevel</string>
+	<key>permanentPositionInset</key>
+	<string>presenterPatternSize</string>
+	<key>routeAdapterBorder</key>
+	<string>tickerValueMargin</string>
+	<key>transitionBeyondProcess</key>
+	<string>requestShapeSpeed</string>
+</dict>
+</plist>

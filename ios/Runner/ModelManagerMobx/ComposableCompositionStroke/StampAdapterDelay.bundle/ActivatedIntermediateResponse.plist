@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityLikePlatform</key>
+	<string>pinchableManagerState</string>
+	<key>animationLayerOrigin</key>
+	<string>gridviewAmongPhase</string>
+	<key>decorationNearScope</key>
+	<string>smallPrecisionShape</string>
+	<key>fixedLoopInteraction</key>
+	<string>cupertinoInteractorTint</string>
+	<key>reactiveChartAppearance</key>
+	<string>errorCommandResponse</string>
+	<key>routerMementoDirection</key>
+	<string>progressbarContainInterpreter</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationOrVisitor</key>
+	<string>basicAnimatedcontainerShape</string>
+	<key>appbarStrategyFormat</key>
+	<string>injectionSingletonFeedback</string>
+	<key>permissiveParticleSize</key>
+	<string>pointForSingleton</string>
+	<key>statefulVarVisibility</key>
+	<string>usedOffsetCoord</string>
+</dict>
+</plist>

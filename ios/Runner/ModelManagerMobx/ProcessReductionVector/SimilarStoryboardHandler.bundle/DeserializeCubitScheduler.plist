@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedNavigatorFlags</key>
+	<string>temporaryEntropyState</string>
+	<key>containerSinceShape</key>
+	<string>visibleClipperLeft</string>
+	<key>customNavigationTheme</key>
+	<string>stateFromAdapter</string>
+	<key>mapSystemType</key>
+	<string>keyIsolateBrightness</string>
+	<key>modalStrategyFlags</key>
+	<string>aspectratioCompositeFormat</string>
+	<key>musicStyleIndex</key>
+	<string>intuitiveDurationBrightness</string>
+	<key>progressbarObserverRight</key>
+	<string>localEventHue</string>
+	<key>statefulFutureDuration</key>
+	<string>typicalExtensionFormat</string>
+	<key>textAgainstVariable</key>
+	<string>entityFlyweightVisibility</string>
+	<key>titleStyleInset</key>
+	<string>layoutContextHue</string>
+</dict>
+</plist>

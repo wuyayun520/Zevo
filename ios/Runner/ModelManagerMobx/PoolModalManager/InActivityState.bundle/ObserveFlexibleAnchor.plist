@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentUtilAppearance</key>
+	<string>monsterPerFramework</string>
+	<key>desktopRepositoryAcceleration</key>
+	<string>spriteMethodVisible</string>
+	<key>dimensionAwayAction</key>
+	<string>heroActionFeedback</string>
+	<key>durationInsideProxy</key>
+	<string>granularHistogramBottom</string>
+	<key>resolverBesideStrategy</key>
+	<string>menuOrWork</string>
+	<key>titleVersusLayer</key>
+	<string>metadataDespiteCycle</string>
+</dict>
+</plist>

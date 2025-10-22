@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletPerTask</key>
+	<string>blocScopeLocation</string>
+	<key>chartAndStrategy</key>
+	<string>gridviewInParameter</string>
+	<key>drawerInPrototype</key>
+	<string>utilIncludeSingleton</string>
+	<key>getxVersusStrategy</key>
+	<string>intermediateChartOffset</string>
+	<key>listenerOperationBound</key>
+	<string>animationShapeCenter</string>
+	<key>storyboardNearSystem</key>
+	<string>heroNearForm</string>
+	<key>tabviewAsVariable</key>
+	<string>batchDespiteLayer</string>
+</dict>
+</plist>

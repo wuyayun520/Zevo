@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveExponentOffset</key>
+	<string>swiftWithoutFacade</string>
+	<key>adaptiveFeatureVisibility</key>
+	<string>interfaceSinceBuffer</string>
+	<key>adaptiveManagerKind</key>
+	<string>roleScopeScale</string>
+	<key>beginnerRowState</key>
+	<string>challengeStateColor</string>
+	<key>callbackPatternInterval</key>
+	<string>popupContextDistance</string>
+	<key>containerMediatorSkewy</key>
+	<string>groupVariableRate</string>
+	<key>offsetByMemento</key>
+	<string>storageProcessTransparency</string>
+	<key>publicFragmentType</key>
+	<string>iterativeBulletVelocity</string>
+	<key>specifyLayoutStyle</key>
+	<string>boxshadowAroundNumber</string>
+</dict>
+</plist>

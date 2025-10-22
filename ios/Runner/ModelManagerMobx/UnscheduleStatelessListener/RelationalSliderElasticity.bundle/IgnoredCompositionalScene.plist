@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationSystemInset</key>
+	<string>rectAndCycle</string>
+	<key>cupertinoUsecaseTop</key>
+	<string>navigatorUntilSingleton</string>
+	<key>errorProcessValidation</key>
+	<string>cubitOperationColor</string>
+	<key>flexibleCharacterScale</key>
+	<string>subtleTabbarOrigin</string>
+	<key>ignoredSwiftVisible</key>
+	<string>storageAtComposite</string>
+	<key>lostBufferDistance</key>
+	<string>heroObserverInterval</string>
+	<key>priorityKindEdge</key>
+	<string>grainStrategyTag</string>
+</dict>
+</plist>

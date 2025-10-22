@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoProcessResponse</key>
+	<string>exceptionVarSpacing</string>
+	<key>immutableControllerPosition</key>
+	<string>originalBuilderContrast</string>
+	<key>labelDecoratorTransparency</key>
+	<string>adaptiveCallbackRight</string>
+	<key>navigatorFunctionSpacing</key>
+	<string>reactiveAnimatedcontainerCenter</string>
+	<key>persistentTaskStyle</key>
+	<string>geometricBuilderTransparency</string>
+	<key>reducerVarBound</key>
+	<string>resizableMaterialRate</string>
+	<key>smartCertificateType</key>
+	<string>mobxInterpreterAcceleration</string>
+	<key>substantialMomentumBottom</key>
+	<string>reducerAndAdapter</string>
+	<key>tableChainVisibility</key>
+	<string>utilFrameworkOrientation</string>
+</dict>
+</plist>

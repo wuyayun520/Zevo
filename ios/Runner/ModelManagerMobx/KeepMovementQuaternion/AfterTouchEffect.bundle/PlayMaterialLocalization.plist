@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerPerObserver</key>
+	<string>buttonStrategyBorder</string>
+	<key>interactorAtLayer</key>
+	<string>rowLevelBehavior</string>
+	<key>masterLayerFrequency</key>
+	<string>scaffoldStructureDensity</string>
+	<key>skinOfWork</key>
+	<string>alphaInPrototype</string>
+	<key>substantialIsolateType</key>
+	<string>localDrawerDelay</string>
+</dict>
+</plist>

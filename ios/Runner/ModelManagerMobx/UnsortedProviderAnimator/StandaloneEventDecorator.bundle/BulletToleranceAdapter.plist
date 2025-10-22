@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedGroupBottom</key>
+	<string>customSliderShape</string>
+	<key>cycleBeyondParameter</key>
+	<string>singletonCycleSize</string>
+	<key>firstDecorationTransparency</key>
+	<string>mobileAndBridge</string>
+	<key>injectionFacadeLocation</key>
+	<string>compositionActivityValidation</string>
+	<key>modalLevelTag</key>
+	<string>mediocreResolverPosition</string>
+	<key>offsetScopeEdge</key>
+	<string>providerContextBehavior</string>
+	<key>priorityVarBehavior</key>
+	<string>backwardGraphicAlignment</string>
+	<key>scrollableClipperDepth</key>
+	<string>significantEntityOrigin</string>
+	<key>techniqueViaContext</key>
+	<string>navigationAdapterBrightness</string>
+</dict>
+</plist>

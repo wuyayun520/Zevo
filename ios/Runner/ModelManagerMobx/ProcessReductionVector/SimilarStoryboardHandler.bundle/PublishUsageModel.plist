@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeParameterVisibility</key>
+	<string>rapidRemainderStyle</string>
+	<key>configurationBesideMediator</key>
+	<string>petFacadeBrightness</string>
+	<key>descriptorUntilStructure</key>
+	<string>progressbarForPlatform</string>
+	<key>graphicActivityTag</key>
+	<string>usedHistogramDepth</string>
+	<key>localCertificateStyle</key>
+	<string>resourceInsideStage</string>
+	<key>reactiveDialogsFlags</key>
+	<string>nextRequestEdge</string>
+	<key>scrollableResolverContrast</key>
+	<string>numericalExceptionSpeed</string>
+</dict>
+</plist>

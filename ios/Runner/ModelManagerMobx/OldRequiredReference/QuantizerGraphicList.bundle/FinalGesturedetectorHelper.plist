@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeCharacterCount</key>
+	<string>navigatorProxyScale</string>
+	<key>cubitCommandIndex</key>
+	<string>stackOutsideStage</string>
+	<key>cubitSystemAlignment</key>
+	<string>inkwellCommandDuration</string>
+	<key>disabledPresenterDistance</key>
+	<string>precisionAlongNumber</string>
+	<key>positionIncludeEnvironment</key>
+	<string>metadataPatternDistance</string>
+	<key>streamContextInterval</key>
+	<string>labelVersusForm</string>
+</dict>
+</plist>

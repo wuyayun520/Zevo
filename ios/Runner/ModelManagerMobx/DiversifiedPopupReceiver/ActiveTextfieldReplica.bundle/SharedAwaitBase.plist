@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocStrategyDirection</key>
+	<string>diversifiedRequestCount</string>
+	<key>independentMaterialOpacity</key>
+	<string>logarithmExceptVisitor</string>
+	<key>mainAssetDepth</key>
+	<string>futurePatternSkewy</string>
+	<key>streamPerType</key>
+	<string>baselineDuringStage</string>
+	<key>topicAboutDecorator</key>
+	<string>documentOrJob</string>
+	<key>transitionByVar</key>
+	<string>subscriptionByVariable</string>
+</dict>
+</plist>

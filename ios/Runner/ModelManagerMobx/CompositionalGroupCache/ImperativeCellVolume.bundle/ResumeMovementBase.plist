@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxIncludeProxy</key>
+	<string>sliderDespiteProxy</string>
+	<key>immutablePainterBound</key>
+	<string>diffableLogSkewy</string>
+	<key>responseTaskSize</key>
+	<string>desktopNotificationDensity</string>
+	<key>richtextIncludeState</key>
+	<string>interactorMediatorAcceleration</string>
+	<key>stateTaskShape</key>
+	<string>globalPetBottom</string>
+	<key>variantWorkRotation</key>
+	<string>overlayWithoutBuffer</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentPatternKind</key>
+	<string>modulusOfComposite</string>
+	<key>crucialSemanticsLeft</key>
+	<string>particleIncludeStrategy</string>
+	<key>liteDurationCoord</key>
+	<string>intuitiveAnimationVisible</string>
+	<key>multiThreadDistance</key>
+	<string>transitionCycleRate</string>
+	<key>queueAlongJob</key>
+	<string>promiseOfType</string>
+	<key>slashStateDelay</key>
+	<string>curveSystemInset</string>
+	<key>unsortedActionDepth</key>
+	<string>offsetFacadeFormat</string>
+</dict>
+</plist>

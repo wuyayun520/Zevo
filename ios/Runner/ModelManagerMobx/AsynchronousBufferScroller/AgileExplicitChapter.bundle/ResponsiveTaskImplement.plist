@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionAdapterBehavior</key>
+	<string>profileLevelResponse</string>
+	<key>cellLayerVisible</key>
+	<string>resourceScopeLeft</string>
+	<key>framePhaseRight</key>
+	<string>flexibleRequestDistance</string>
+	<key>loopVersusMode</key>
+	<string>routerAwayObserver</string>
+	<key>marginParamAlignment</key>
+	<string>draggableCapsuleTension</string>
+	<key>pivotalBehaviorBottom</key>
+	<string>layoutActivityPressure</string>
+	<key>semanticWidgetMomentum</key>
+	<string>injectionModeCoord</string>
+	<key>unactivatedCanvasStyle</key>
+	<string>bufferThanMemento</string>
+	<key>viewDuringOperation</key>
+	<string>functionalEntityLocation</string>
+</dict>
+</plist>

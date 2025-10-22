@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitDuringDecorator</key>
+	<string>animationFlyweightVisibility</string>
+	<key>hardViewRight</key>
+	<string>significantProgressbarDelay</string>
+	<key>labelForEnvironment</key>
+	<string>scaffoldVarVisible</string>
+	<key>localizationJobHead</key>
+	<string>storyboardValueDistance</string>
+	<key>promiseBufferInteraction</key>
+	<string>uniqueCompleterSkewx</string>
+	<key>resourceWithProcess</key>
+	<string>nativeErrorInterval</string>
+	<key>serviceCycleTheme</key>
+	<string>pinchableDependencySkewy</string>
+	<key>storyboardWithLayer</key>
+	<string>completerAgainstChain</string>
+</dict>
+</plist>

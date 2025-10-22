@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectPerStrategy</key>
+	<string>resourceForAdapter</string>
+	<key>dependencyMementoAcceleration</key>
+	<string>finalDecorationValidation</string>
+	<key>extensionNearVar</key>
+	<string>swiftFormContrast</string>
+	<key>fusedZoneLocation</key>
+	<string>intensityAgainstForm</string>
+	<key>mediumSignVisible</key>
+	<string>visibleNotifierDelay</string>
+	<key>momentumSystemTop</key>
+	<string>capacitiesJobDepth</string>
+	<key>subscriptionTaskEdge</key>
+	<string>isolateFromObserver</string>
+</dict>
+</plist>

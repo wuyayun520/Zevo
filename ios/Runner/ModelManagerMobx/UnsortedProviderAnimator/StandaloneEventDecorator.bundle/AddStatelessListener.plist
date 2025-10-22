@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyExceptAdapter</key>
+	<string>frameAroundAction</string>
+	<key>eventAndFunction</key>
+	<string>resolverAsTask</string>
+	<key>exceptionVariableSaturation</key>
+	<string>stepDecoratorVelocity</string>
+	<key>overlayAtPlatform</key>
+	<string>hashUntilComposite</string>
+	<key>popupNearWork</key>
+	<string>entityAboutStructure</string>
+	<key>reactiveCubeValidation</key>
+	<string>positionFromCommand</string>
+	<key>serviceAsPhase</key>
+	<string>spriteForContext</string>
+	<key>signObserverType</key>
+	<string>serviceOrParam</string>
+	<key>taskInsideLevel</key>
+	<string>localPointPressure</string>
+	<key>uniformRectBehavior</key>
+	<string>secondTextureSpeed</string>
+</dict>
+</plist>

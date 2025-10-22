@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionSystemBehavior</key>
+	<string>crucialAnimationCoord</string>
+	<key>constServiceStyle</key>
+	<string>requestContainMethod</string>
+	<key>dialogsVersusAction</key>
+	<string>ternaryContainCommand</string>
+	<key>errorFunctionOrigin</key>
+	<string>sceneVersusProxy</string>
+	<key>imperativeRowRate</key>
+	<string>groupDuringState</string>
+	<key>intensityTierOpacity</key>
+	<string>liteNodeResponse</string>
+	<key>multiLayerBottom</key>
+	<string>eventByScope</string>
+	<key>roleOutsideParam</key>
+	<string>previewTaskCenter</string>
+	<key>routeThanDecorator</key>
+	<string>alignmentContextType</string>
+	<key>swiftVariableSize</key>
+	<string>ephemeralResponseOrigin</string>
+</dict>
+</plist>

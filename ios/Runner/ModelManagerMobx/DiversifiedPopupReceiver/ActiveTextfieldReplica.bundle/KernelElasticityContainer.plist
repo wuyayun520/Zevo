@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateStrategyFlags</key>
+	<string>singletonAsKind</string>
+	<key>desktopListenerRotation</key>
+	<string>requiredCompletionSpacing</string>
+	<key>granularEqualizationSkewx</key>
+	<string>concreteRouterResponse</string>
+	<key>layerSingletonCount</key>
+	<string>crucialSensorVisibility</string>
+	<key>textViaSingleton</key>
+	<string>statelessSwitchSize</string>
+</dict>
+</plist>

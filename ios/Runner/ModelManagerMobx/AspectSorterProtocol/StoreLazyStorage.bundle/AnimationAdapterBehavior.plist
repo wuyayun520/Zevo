@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>queryAgainstStrategy</key>
+	<string>managerDecoratorVisibility</string>
+	<key>routeVarAppearance</key>
+	<string>spriteEnvironmentRight</string>
+	<key>statelessJobDuration</key>
+	<string>controllerCompositeType</string>
+	<key>tappableGraphicAppearance</key>
+	<string>delegateAdapterPadding</string>
+	<key>toolAboutPrototype</key>
+	<string>scaleFromState</string>
+</dict>
+</plist>

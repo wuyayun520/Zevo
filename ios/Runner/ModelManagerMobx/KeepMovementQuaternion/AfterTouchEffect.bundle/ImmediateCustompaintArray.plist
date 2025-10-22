@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintParamLocation</key>
+	<string>prismaticConstraintTransparency</string>
+	<key>discardedTickerDirection</key>
+	<string>immediatePaddingAcceleration</string>
+	<key>logarithmParameterSpacing</key>
+	<string>hierarchicalGraphMode</string>
+	<key>momentumOutsideBuffer</key>
+	<string>dedicatedDimensionOrientation</string>
+	<key>parallelBufferCenter</key>
+	<string>functionalNibAcceleration</string>
+	<key>prismaticProfileFormat</key>
+	<string>inheritedGradientOffset</string>
+	<key>sortedWidgetBrightness</key>
+	<string>respectiveExpandedIndex</string>
+</dict>
+</plist>

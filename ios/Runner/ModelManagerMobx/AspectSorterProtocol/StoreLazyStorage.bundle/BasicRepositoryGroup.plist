@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferExceptDecorator</key>
+	<string>allocatorOrDecorator</string>
+	<key>collectionAwayBuffer</key>
+	<string>unsortedLayoutName</string>
+	<key>coordinatorDuringCycle</key>
+	<string>logarithmStateInset</string>
+	<key>dedicatedSpriteDensity</key>
+	<string>marginObserverInset</string>
+	<key>opaqueEqualizationDepth</key>
+	<string>parallelDelegatePadding</string>
+	<key>rowLevelHue</key>
+	<string>dependencyOperationFlags</string>
+	<key>skinFlyweightOffset</key>
+	<string>transformerAboutValue</string>
+	<key>sliderAtProxy</key>
+	<string>normChainOpacity</string>
+</dict>
+</plist>

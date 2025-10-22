@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationExceptBridge</key>
+	<string>autoConsumerSkewy</string>
+	<key>arithmeticCycleDirection</key>
+	<string>sceneBesideProxy</string>
+	<key>immutableTopicSkewy</key>
+	<string>desktopErrorMargin</string>
+	<key>observerKindState</key>
+	<string>visibleSceneShade</string>
+	<key>textfieldSingletonAcceleration</key>
+	<string>columnTempleCoord</string>
+</dict>
+</plist>

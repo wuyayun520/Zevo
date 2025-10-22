@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documentBesideContext</key>
+	<string>builderNearProxy</string>
+	<key>imperativeSpineContrast</key>
+	<string>blocActivityStyle</string>
+	<key>lazyGrayscaleOrientation</key>
+	<string>dropdownbuttonActivitySkewx</string>
+	<key>mediaqueryFormPosition</key>
+	<string>adaptiveVectorRate</string>
+	<key>mobileDurationOrigin</key>
+	<string>brushForTask</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionFacadeShape</key>
+	<string>graphFacadeTension</string>
+	<key>easySizeBehavior</key>
+	<string>factoryExceptComposite</string>
+	<key>finalAnimationRight</key>
+	<string>factoryWithPhase</string>
+	<key>instructionPatternTint</key>
+	<string>activeKernelSpacing</string>
+	<key>keyIntegerScale</key>
+	<string>reducerModeSpacing</string>
+	<key>responseTypePosition</key>
+	<string>semanticViewPadding</string>
+	<key>scaleNumberPosition</key>
+	<string>delegateExceptScope</string>
+</dict>
+</plist>

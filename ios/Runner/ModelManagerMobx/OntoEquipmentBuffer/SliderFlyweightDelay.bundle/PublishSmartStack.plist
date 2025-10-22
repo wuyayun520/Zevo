@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionOutsideObserver</key>
+	<string>missedPointLeft</string>
+	<key>loopMediatorFrequency</key>
+	<string>priorRequestBorder</string>
+	<key>mediaqueryMediatorValidation</key>
+	<string>resultTaskSpeed</string>
+	<key>protectedSineRate</key>
+	<string>staticTextOrientation</string>
+	<key>scenePerParam</key>
+	<string>curveAsMemento</string>
+	<key>sceneWorkState</key>
+	<string>handlerSinceAction</string>
+	<key>spineContainChain</key>
+	<string>typicalBuilderDepth</string>
+	<key>threadNearBuffer</key>
+	<string>optionThroughProcess</string>
+	<key>unsortedFrameLocation</key>
+	<string>originalCharacterVisible</string>
+</dict>
+</plist>

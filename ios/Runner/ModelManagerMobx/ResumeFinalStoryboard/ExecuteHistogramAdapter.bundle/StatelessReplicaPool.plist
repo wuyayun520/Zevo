@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocBesideProcess</key>
+	<string>denseLoopRotation</string>
+	<key>crudeInteractorSkewy</key>
+	<string>hardDropdownbuttonHead</string>
+	<key>missionFacadeFeedback</key>
+	<string>disabledSegmentMode</string>
+	<key>previewNearCycle</key>
+	<string>sliderWorkVisibility</string>
+	<key>publicReducerSaturation</key>
+	<string>musicAwayKind</string>
+	<key>sessionShapeAcceleration</key>
+	<string>normBeyondLevel</string>
+	<key>smartCompletionSkewx</key>
+	<string>ternaryBufferValidation</string>
+</dict>
+</plist>

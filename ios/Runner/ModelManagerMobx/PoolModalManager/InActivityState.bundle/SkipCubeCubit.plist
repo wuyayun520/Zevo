@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entropyAtFramework</key>
+	<string>binaryViaPattern</string>
+	<key>gradientEnvironmentPadding</key>
+	<string>queryIncludeScope</string>
+	<key>liteTransitionName</key>
+	<string>signDuringPrototype</string>
+	<key>optionPhaseDirection</key>
+	<string>granularEventOrientation</string>
+	<key>pointContainShape</key>
+	<string>declarativeHashKind</string>
+	<key>synchronousResourceTint</key>
+	<string>frameStructureBrightness</string>
+</dict>
+</plist>

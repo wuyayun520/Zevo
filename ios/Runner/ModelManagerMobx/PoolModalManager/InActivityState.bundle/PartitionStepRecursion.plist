@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedResolverCount</key>
+	<string>invisibleNavigatorResponse</string>
+	<key>diffableConfigurationShape</key>
+	<string>loopAsBridge</string>
+	<key>movementAwayAction</key>
+	<string>permanentEqualizationVelocity</string>
+	<key>priorityParameterScale</key>
+	<string>remainderChainName</string>
+	<key>reducerLikeSingleton</key>
+	<string>controllerLevelFormat</string>
+	<key>spriteAmongStyle</key>
+	<string>mobileContextBrightness</string>
+</dict>
+</plist>

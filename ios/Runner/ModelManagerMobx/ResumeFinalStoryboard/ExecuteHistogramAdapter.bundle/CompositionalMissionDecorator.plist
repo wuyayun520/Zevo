@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityStrategySize</key>
+	<string>lostInterfaceInteraction</string>
+	<key>advancedCompositionBorder</key>
+	<string>multiContainerDirection</string>
+	<key>completerStructureLeft</key>
+	<string>capacitiesAsActivity</string>
+	<key>metadataInsideCycle</key>
+	<string>animationTierTop</string>
+	<key>requiredAlertBorder</key>
+	<string>compositionalCursorInteraction</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalPageviewStyle</key>
+	<string>equipmentTypeTail</string>
+	<key>exceptionDuringContext</key>
+	<string>pivotalRequestRate</string>
+	<key>logBeyondScope</key>
+	<string>sizeViaSystem</string>
+	<key>plateOperationPadding</key>
+	<string>sharedDocumentVisible</string>
+</dict>
+</plist>

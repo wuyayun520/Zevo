@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableProjectionFlags</key>
+	<string>grayscaleVarValidation</string>
+	<key>criticalTernaryBound</key>
+	<string>stackModeTint</string>
+	<key>declarativeInstructionLocation</key>
+	<string>sortedAnimationHue</string>
+	<key>directRowVisibility</key>
+	<string>effectPatternTail</string>
+	<key>immutableTransformerFeedback</key>
+	<string>streamNumberState</string>
+	<key>missionFrameworkLeft</key>
+	<string>pointAdapterSize</string>
+	<key>popupWithoutKind</key>
+	<string>methodFacadeMomentum</string>
+	<key>primaryTaskDuration</key>
+	<string>hashAsPhase</string>
+	<key>widgetOrProcess</key>
+	<string>entityPatternBrightness</string>
+</dict>
+</plist>

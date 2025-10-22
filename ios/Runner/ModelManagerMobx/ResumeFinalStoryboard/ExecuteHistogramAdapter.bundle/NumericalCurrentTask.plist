@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateMementoSpeed</key>
+	<string>musicAlongLevel</string>
+	<key>fusedDecorationIndex</key>
+	<string>gridviewByProxy</string>
+	<key>parallelReferenceRotation</key>
+	<string>gridLikeLevel</string>
+	<key>resourceBridgeLeft</key>
+	<string>advancedSwiftFrequency</string>
+</dict>
+</plist>

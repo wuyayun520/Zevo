@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionJobOrientation</key>
+	<string>resolverForActivity</string>
+	<key>immutableLayoutTop</key>
+	<string>statelessOrContext</string>
+	<key>intensityJobOffset</key>
+	<string>synchronousQueryStatus</string>
+	<key>nativeCanvasVisible</key>
+	<string>reusableRouterBrightness</string>
+	<key>optimizerTypeKind</key>
+	<string>deferredTopicForce</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorChainFlags</key>
+	<string>notificationInsideChain</string>
+	<key>labelBufferShape</key>
+	<string>stateOperationFrequency</string>
+	<key>otherProgressbarInset</key>
+	<string>menuExceptPrototype</string>
+	<key>promiseCommandShape</key>
+	<string>primaryActionDistance</string>
+	<key>storagePrototypeSaturation</key>
+	<string>sustainableAllocatorHue</string>
+</dict>
+</plist>

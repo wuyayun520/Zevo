@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonOutsideSingleton</key>
+	<string>taskMediatorSkewy</string>
+	<key>catalystVarHue</key>
+	<string>containerFacadeStyle</string>
+	<key>dropdownbuttonProcessTop</key>
+	<string>displayableAllocatorOpacity</string>
+	<key>eagerNodeVisibility</key>
+	<string>utilPlatformName</string>
+	<key>materialConfigurationHue</key>
+	<string>compositionalNavigatorValidation</string>
+	<key>navigatorParameterPosition</key>
+	<string>hierarchicalMediaqueryAlignment</string>
+	<key>optionDecoratorVisible</key>
+	<string>blocContainParam</string>
+	<key>radiusCommandFormat</key>
+	<string>retainedEventFrequency</string>
+</dict>
+</plist>

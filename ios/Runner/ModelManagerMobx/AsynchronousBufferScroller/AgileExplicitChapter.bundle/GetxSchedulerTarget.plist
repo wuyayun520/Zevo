@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futureMediatorTag</key>
+	<string>builderFromVariable</string>
+	<key>injectionWithMediator</key>
+	<string>cupertinoMementoAlignment</string>
+	<key>queueActivityInset</key>
+	<string>channelNearMode</string>
+	<key>rectVersusShape</key>
+	<string>progressbarKindAlignment</string>
+</dict>
+</plist>

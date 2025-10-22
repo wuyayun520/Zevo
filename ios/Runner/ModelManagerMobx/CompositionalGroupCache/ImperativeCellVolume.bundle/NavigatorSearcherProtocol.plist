@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystThroughOperation</key>
+	<string>draggableEqualizationDelay</string>
+	<key>lostMatrixDepth</key>
+	<string>featureShapePosition</string>
+	<key>masterForValue</key>
+	<string>resourceShapeOrigin</string>
+	<key>queueForType</key>
+	<string>signBufferHead</string>
+</dict>
+</plist>

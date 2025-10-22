@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarDespiteState</key>
+	<string>elasticScrollScale</string>
+	<key>blocAsContext</key>
+	<string>synchronousDurationTheme</string>
+	<key>flexibleContractionState</key>
+	<string>stackFlyweightShape</string>
+	<key>injectionPatternSkewx</key>
+	<string>multiRectType</string>
+	<key>particleByPhase</key>
+	<string>fusedRepositoryIndex</string>
+	<key>plateKindTag</key>
+	<string>accordionIconState</string>
+	<key>singleFeatureAlignment</key>
+	<string>builderOperationFormat</string>
+</dict>
+</plist>

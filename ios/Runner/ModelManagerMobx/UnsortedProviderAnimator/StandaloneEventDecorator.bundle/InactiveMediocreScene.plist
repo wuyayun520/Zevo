@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionInsideWork</key>
+	<string>previewWithJob</string>
+	<key>animatedDrawerMargin</key>
+	<string>lazyResolverShade</string>
+	<key>appbarAtForm</key>
+	<string>curveContextRate</string>
+	<key>custompaintAsSingleton</key>
+	<string>observerScopePadding</string>
+	<key>expandedDecoratorTheme</key>
+	<string>apertureStyleType</string>
+	<key>similarLabelOrientation</key>
+	<string>persistentOperationColor</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncVersusBuffer</key>
+	<string>inheritedStorageDirection</string>
+	<key>autoMethodRotation</key>
+	<string>stackStructureDirection</string>
+	<key>coordinatorContextSize</key>
+	<string>baselineAtPattern</string>
+	<key>graphicValueBehavior</key>
+	<string>capacitiesSinceValue</string>
+	<key>layerAwayVisitor</key>
+	<string>gradientAsStructure</string>
+	<key>managerForFacade</key>
+	<string>symmetricInterpolationLocation</string>
+	<key>mediumRequestDistance</key>
+	<string>disparateCallbackTop</string>
+	<key>missedMemberStyle</key>
+	<string>activatedAsyncSize</string>
+	<key>sinkMediatorStyle</key>
+	<string>durationModeSpacing</string>
+</dict>
+</plist>

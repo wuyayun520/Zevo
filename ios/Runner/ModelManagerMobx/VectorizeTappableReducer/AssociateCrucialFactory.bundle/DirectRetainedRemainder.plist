@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityInterpreterOffset</key>
+	<string>plateKindPosition</string>
+	<key>awaitStateInteraction</key>
+	<string>primaryNormTag</string>
+	<key>composableGroupLeft</key>
+	<string>sceneMementoOffset</string>
+	<key>controllerOutsideStrategy</key>
+	<string>graphAtProxy</string>
+	<key>errorStyleBrightness</key>
+	<string>cartesianRowOffset</string>
+	<key>notifierWithPrototype</key>
+	<string>inkwellInterpreterCount</string>
+	<key>semanticQueryScale</key>
+	<string>animatedViewFlags</string>
+	<key>viewThroughBridge</key>
+	<string>immutableSymbolRight</string>
+</dict>
+</plist>

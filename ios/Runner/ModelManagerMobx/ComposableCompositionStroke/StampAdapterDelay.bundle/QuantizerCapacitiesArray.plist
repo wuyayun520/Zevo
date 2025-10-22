@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectBesideFlyweight</key>
+	<string>observerWorkRotation</string>
+	<key>featureJobDensity</key>
+	<string>injectionThroughChain</string>
+	<key>scrollableSingletonStyle</key>
+	<string>containerFromDecorator</string>
+	<key>shaderAwayLevel</key>
+	<string>tensorConvolutionFeedback</string>
+	<key>tableFromAction</key>
+	<string>navigatorBridgeShape</string>
+</dict>
+</plist>

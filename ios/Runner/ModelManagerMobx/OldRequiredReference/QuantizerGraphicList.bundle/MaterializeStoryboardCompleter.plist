@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitSystemStyle</key>
+	<string>basicSpriteInteraction</string>
+	<key>contractionExceptActivity</key>
+	<string>declarativeCompletionLeft</string>
+	<key>graphTempleIndex</key>
+	<string>offsetWithPrototype</string>
+	<key>previewSingletonStatus</key>
+	<string>prevMethodLeft</string>
+	<key>routerFrameworkState</key>
+	<string>drawerChainName</string>
+	<key>streamAroundStrategy</key>
+	<string>tabviewPlatformName</string>
+	<key>widgetBesideMediator</key>
+	<string>mediaAtLevel</string>
+</dict>
+</plist>

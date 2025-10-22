@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeTickerType</key>
+	<string>routeAmongSingleton</string>
+	<key>autoCellFormat</key>
+	<string>exceptionAmongMode</string>
+	<key>drawerValueAlignment</key>
+	<string>optionVersusScope</string>
+	<key>globalCardVisibility</key>
+	<string>firstThreadDepth</string>
+	<key>topicOperationDuration</key>
+	<string>asynchronousAnimatedcontainerFlags</string>
+	<key>usecaseWithoutChain</key>
+	<string>agileSpritePosition</string>
+</dict>
+</plist>

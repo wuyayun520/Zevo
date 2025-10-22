@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorShapeTransparency</key>
+	<string>managerUntilBuffer</string>
+	<key>drawerFormBehavior</key>
+	<string>queryActivityBound</string>
+	<key>hashNumberDepth</key>
+	<string>constHeroLeft</string>
+	<key>subscriptionBeyondComposite</key>
+	<string>dynamicProviderStyle</string>
+</dict>
+</plist>

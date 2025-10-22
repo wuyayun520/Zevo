@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanGridEdge</key>
+	<string>cycleWithState</string>
+	<key>fixedProviderInset</key>
+	<string>effectFromCycle</string>
+	<key>promiseForVisitor</key>
+	<string>otherAnimationSpeed</string>
+	<key>resourceDespiteActivity</key>
+	<string>tappableDescriptorName</string>
+</dict>
+</plist>

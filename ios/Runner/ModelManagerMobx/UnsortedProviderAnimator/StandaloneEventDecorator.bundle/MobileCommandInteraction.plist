@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeMasterFormat</key>
+	<string>topicAndParameter</string>
+	<key>customizedPositionedValidation</key>
+	<string>loopVersusStructure</string>
+	<key>durationBufferDensity</key>
+	<string>ephemeralDecorationBound</string>
+	<key>localizationUntilValue</key>
+	<string>effectFacadeContrast</string>
+	<key>routeAwayType</key>
+	<string>largeCubitSpacing</string>
+	<key>scrollableNotifierTension</key>
+	<string>storeInterpreterShape</string>
+	<key>taskProcessCount</key>
+	<string>logDuringStage</string>
+</dict>
+</plist>

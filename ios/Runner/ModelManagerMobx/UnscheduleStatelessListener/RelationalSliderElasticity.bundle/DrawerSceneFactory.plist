@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorAndTemple</key>
+	<string>logContextBorder</string>
+	<key>effectVersusForm</key>
+	<string>sharedUsecaseBottom</string>
+	<key>explicitPlateBorder</key>
+	<string>primaryButtonSpacing</string>
+	<key>interactiveCycleFormat</key>
+	<string>composableDrawerInteraction</string>
+	<key>reusableMetadataRate</key>
+	<string>cursorTaskRate</string>
+	<key>sizedboxAndMode</key>
+	<string>checklistOutsideProcess</string>
+</dict>
+</plist>

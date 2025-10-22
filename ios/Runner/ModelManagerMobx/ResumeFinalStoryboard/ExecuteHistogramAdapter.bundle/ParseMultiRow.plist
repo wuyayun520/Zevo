@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeAgainstPrototype</key>
+	<string>autoProviderTransparency</string>
+	<key>granularScaffoldShade</key>
+	<string>inkwellCycleSaturation</string>
+	<key>mediaqueryLikeChain</key>
+	<string>tabbarMediatorInset</string>
+	<key>mediocreFragmentColor</key>
+	<string>disabledLabelValidation</string>
+	<key>mediocreRowTint</key>
+	<string>modelLayerTransparency</string>
+	<key>tangentNumberVisible</key>
+	<string>retainedRepositoryVisible</string>
+</dict>
+</plist>

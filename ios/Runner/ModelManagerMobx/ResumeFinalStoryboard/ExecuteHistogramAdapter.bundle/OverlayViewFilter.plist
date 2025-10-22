@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousBrushDirection</key>
+	<string>observerJobFormat</string>
+	<key>behaviorBridgeOrientation</key>
+	<string>largeDecorationInset</string>
+	<key>effectActionAlignment</key>
+	<string>viewNearMemento</string>
+	<key>fixedGraphicDelay</key>
+	<string>beginnerIconBottom</string>
+	<key>persistentZoneFormat</key>
+	<string>basicSceneSaturation</string>
+	<key>storeInsideComposite</key>
+	<string>labelAsVariable</string>
+</dict>
+</plist>

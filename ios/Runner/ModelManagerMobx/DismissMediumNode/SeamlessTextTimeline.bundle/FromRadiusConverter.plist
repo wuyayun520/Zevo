@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncObserverDelay</key>
+	<string>assetScopePosition</string>
+	<key>gestureChainDistance</key>
+	<string>inkwellNumberInteraction</string>
+	<key>globalRouteMargin</key>
+	<string>enabledInkwellTension</string>
+	<key>multiCollectionLocation</key>
+	<string>mapModeScale</string>
+	<key>pageviewLevelPressure</key>
+	<string>textProcessVisibility</string>
+	<key>resizableTableBrightness</key>
+	<string>crudeSegueResponse</string>
+	<key>respectiveLocalizationCount</key>
+	<string>directAppbarVisible</string>
+	<key>taskAroundJob</key>
+	<string>inkwellForParam</string>
+</dict>
+</plist>

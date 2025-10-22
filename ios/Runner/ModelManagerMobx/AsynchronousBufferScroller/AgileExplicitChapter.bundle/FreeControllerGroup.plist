@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedInterfaceDensity</key>
+	<string>disabledSpriteLeft</string>
+	<key>blocAsPhase</key>
+	<string>taskForTier</string>
+	<key>cycleInInterpreter</key>
+	<string>chapterPatternPosition</string>
+	<key>diffableBatchName</key>
+	<string>observerMementoPosition</string>
+	<key>giftByVariable</key>
+	<string>listenerEnvironmentOpacity</string>
+	<key>invisibleOffsetDuration</key>
+	<string>tangentAtState</string>
+	<key>permissiveGrainFrequency</key>
+	<string>ephemeralCapacitiesBorder</string>
+	<key>popupShapePadding</key>
+	<string>switchSingletonFormat</string>
+	<key>publicMediaqueryTail</key>
+	<string>cartesianHandlerBottom</string>
+	<key>resultFlyweightRotation</key>
+	<string>referenceLikeCommand</string>
+</dict>
+</plist>

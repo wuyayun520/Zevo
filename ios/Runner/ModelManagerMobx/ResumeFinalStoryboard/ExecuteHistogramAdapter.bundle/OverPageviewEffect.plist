@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarWithoutFlyweight</key>
+	<string>usecaseBesidePrototype</string>
+	<key>cartesianActionState</key>
+	<string>staticGridDepth</string>
+	<key>constProgressbarIndex</key>
+	<string>compositionalBlocDelay</string>
+	<key>displayableListenerState</key>
+	<string>keyConstraintVisible</string>
+	<key>momentumOfTask</key>
+	<string>localizationAwayFlyweight</string>
+	<key>signatureParameterName</key>
+	<string>routeActivityCoord</string>
+	<key>singletonOfJob</key>
+	<string>enabledSpotMomentum</string>
+</dict>
+</plist>

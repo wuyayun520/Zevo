@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledOperationInteraction</key>
+	<string>granularRiverpodSkewx</string>
+	<key>permanentLocalizationVisibility</key>
+	<string>dedicatedConfigurationVisible</string>
+	<key>uniformResolverCenter</key>
+	<string>sustainableProgressbarTheme</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationFunctionRotation</key>
+	<string>materialChainScale</string>
+	<key>autoEventRotation</key>
+	<string>permissiveReferenceOrientation</string>
+	<key>basicControllerOrigin</key>
+	<string>pageviewDespiteCommand</string>
+	<key>chapterCompositeDirection</key>
+	<string>capacitiesInsideProxy</string>
+	<key>largeTopicMargin</key>
+	<string>nodeContextOffset</string>
+	<key>mediocreFactoryTail</key>
+	<string>projectAmongState</string>
+	<key>particleNumberRotation</key>
+	<string>mediumInterpolationDuration</string>
+	<key>richtextPatternSkewx</key>
+	<string>statefulAlphaType</string>
+	<key>tablePerVisitor</key>
+	<string>sampleAboutState</string>
+</dict>
+</plist>

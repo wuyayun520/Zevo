@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionThemeAlignment</key>
+	<string>skirtContextHue</string>
+	<key>animationFromObserver</key>
+	<string>loopWithoutAdapter</string>
+	<key>baseDespiteKind</key>
+	<string>sessionAsParameter</string>
+	<key>masterSinceContext</key>
+	<string>pivotalAnimationDirection</string>
+	<key>resourceAlongLayer</key>
+	<string>checklistTypeOffset</string>
+	<key>streamAsWork</key>
+	<string>iconVarSize</string>
+	<key>tappableBoxshadowLeft</key>
+	<string>baselineInSystem</string>
+	<key>transitionSinceVariable</key>
+	<string>tensorGesturedetectorDistance</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackOutsideMethod</key>
+	<string>subscriptionBesideCycle</string>
+	<key>deferredAllocatorVisibility</key>
+	<string>transformerContainDecorator</string>
+	<key>eagerGraphFeedback</key>
+	<string>channelsKindKind</string>
+	<key>observerMementoAcceleration</key>
+	<string>globalZoneDirection</string>
+	<key>richtextAdapterSpeed</key>
+	<string>gestureDecoratorFlags</string>
+	<key>sharedProgressbarTop</key>
+	<string>projectFlyweightStatus</string>
+	<key>uniformControllerSkewy</key>
+	<string>convolutionVersusDecorator</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletInterpreterTheme</key>
+	<string>particleWithAdapter</string>
+	<key>effectLayerValidation</key>
+	<string>apertureSingletonTransparency</string>
+	<key>errorAsOperation</key>
+	<string>similarButtonTheme</string>
+	<key>momentumTaskInteraction</key>
+	<string>topicAgainstStructure</string>
+	<key>observerAroundFramework</key>
+	<string>routeAtPrototype</string>
+	<key>queryAlongMethod</key>
+	<string>overlayVariableSpacing</string>
+	<key>sampleVisitorRotation</key>
+	<string>consultativeSizeShape</string>
+</dict>
+</plist>

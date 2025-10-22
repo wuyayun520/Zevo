@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedBuilderInteraction</key>
+	<string>indicatorTierBehavior</string>
+	<key>awaitSingletonCount</key>
+	<string>permanentKernelVisibility</string>
+	<key>completerBridgeOrientation</key>
+	<string>parallelInkwellAppearance</string>
+	<key>eagerBinaryCount</key>
+	<string>localizationWorkType</string>
+	<key>explicitWidgetShade</key>
+	<string>managerUntilProcess</string>
+	<key>intensityNumberPadding</key>
+	<string>usedCardCenter</string>
+	<key>painterAlongActivity</key>
+	<string>clipperVersusMode</string>
+	<key>scrollableTransitionSpeed</key>
+	<string>callbackLikePattern</string>
+	<key>transitionUntilSingleton</key>
+	<string>timerAmongChain</string>
+</dict>
+</plist>

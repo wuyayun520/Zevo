@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncSubscriptionBottom</key>
+	<string>columnModeDuration</string>
+	<key>awaitStageVelocity</key>
+	<string>callbackSinceNumber</string>
+	<key>cycleCycleCount</key>
+	<string>loopByBridge</string>
+	<key>futureJobDistance</key>
+	<string>metadataPhaseCoord</string>
+	<key>lossPrototypeState</key>
+	<string>requiredParticleValidation</string>
+	<key>sliderAgainstContext</key>
+	<string>materialContainContext</string>
+	<key>specifyScrollInterval</key>
+	<string>temporaryMarginTail</string>
+</dict>
+</plist>

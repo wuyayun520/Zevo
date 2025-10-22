@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionAlongLayer</key>
+	<string>opaqueNotifierEdge</string>
+	<key>imperativeResponseTag</key>
+	<string>tappableMomentumBorder</string>
+	<key>interpolationAlongShape</key>
+	<string>permissiveBlocVisible</string>
+	<key>navigationAdapterSaturation</key>
+	<string>projectionLayerScale</string>
+	<key>numericalZoneRotation</key>
+	<string>graphicForAction</string>
+	<key>prismaticPlaybackDepth</key>
+	<string>composablePlateShade</string>
+	<key>rapidTickerSpeed</key>
+	<string>cubitAgainstDecorator</string>
+	<key>signatureOutsideTemple</key>
+	<string>opaqueAnchorColor</string>
+</dict>
+</plist>

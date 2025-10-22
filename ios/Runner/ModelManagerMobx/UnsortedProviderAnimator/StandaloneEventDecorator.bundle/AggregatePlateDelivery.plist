@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivePopupStatus</key>
+	<string>protocolOrTier</string>
+	<key>challengeAwayMode</key>
+	<string>unaryPlatformBottom</string>
+	<key>offsetCompositeLocation</key>
+	<string>firstChannelsMode</string>
+	<key>prevStatefulMode</key>
+	<string>autoSensorSkewy</string>
+	<key>protocolWorkShade</key>
+	<string>fixedDescriptionAppearance</string>
+	<key>queryKindBorder</key>
+	<string>alertFromAdapter</string>
+	<key>sceneAdapterSaturation</key>
+	<string>disabledArithmeticShape</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentStageShape</key>
+	<string>pageviewSinceSystem</string>
+	<key>gridAsSystem</key>
+	<string>sortedMenuVelocity</string>
+	<key>loopProcessSize</key>
+	<string>anchorBeyondComposite</string>
+	<key>notifierAdapterInteraction</key>
+	<string>hashLayerBehavior</string>
+	<key>radioJobResponse</key>
+	<string>descriptionProcessFeedback</string>
+	<key>resourceFacadeSkewx</key>
+	<string>featurePatternLeft</string>
+	<key>serviceWithCommand</key>
+	<string>consumerCompositeAppearance</string>
+	<key>vectorThroughVariable</key>
+	<string>metadataMediatorRight</string>
+</dict>
+</plist>

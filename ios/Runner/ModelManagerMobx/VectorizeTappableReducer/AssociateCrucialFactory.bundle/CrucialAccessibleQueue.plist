@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorStateMode</key>
+	<string>roleActivityShade</string>
+	<key>chartFacadeShade</key>
+	<string>concreteSliderHead</string>
+	<key>compositionalAspectOrigin</key>
+	<string>nodeFrameworkPadding</string>
+	<key>diffableCurveValidation</key>
+	<string>roleProcessBound</string>
+	<key>fusedUtilRotation</key>
+	<string>labelVariableMode</string>
+	<key>loopWithoutTier</key>
+	<string>interpolationVariableSkewy</string>
+	<key>subtleFutureInteraction</key>
+	<string>keyTransformerSpacing</string>
+	<key>tangentParameterDensity</key>
+	<string>temporarySwiftKind</string>
+</dict>
+</plist>

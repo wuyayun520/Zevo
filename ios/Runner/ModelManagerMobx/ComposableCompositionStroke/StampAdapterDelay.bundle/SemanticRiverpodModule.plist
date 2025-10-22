@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryChainVisibility</key>
+	<string>methodDecoratorOffset</string>
+	<key>curveInDecorator</key>
+	<string>nodeFrameworkDelay</string>
+	<key>eagerAnimationState</key>
+	<string>uniqueErrorSkewx</string>
+	<key>listenerAboutActivity</key>
+	<string>mainTextLocation</string>
+	<key>liteBaseRotation</key>
+	<string>criticalStoreSpacing</string>
+	<key>observerPatternFrequency</key>
+	<string>dynamicRichtextDensity</string>
+	<key>riverpodAtValue</key>
+	<string>crudeMobxBound</string>
+	<key>segmentInTier</key>
+	<string>layoutObserverSaturation</string>
+	<key>taskExceptMediator</key>
+	<string>comprehensiveFutureBound</string>
+</dict>
+</plist>

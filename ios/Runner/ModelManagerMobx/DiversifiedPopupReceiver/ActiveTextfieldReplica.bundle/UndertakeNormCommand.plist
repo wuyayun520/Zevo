@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectExceptVar</key>
+	<string>unactivatedTextFrequency</string>
+	<key>associatedRouteStatus</key>
+	<string>observerProxyTop</string>
+	<key>geometricTransitionFrequency</key>
+	<string>bufferBesideInterpreter</string>
+	<key>symbolTaskRate</key>
+	<string>modelFunctionSpeed</string>
+	<key>timerBeyondJob</key>
+	<string>popupValueSpeed</string>
+</dict>
+</plist>

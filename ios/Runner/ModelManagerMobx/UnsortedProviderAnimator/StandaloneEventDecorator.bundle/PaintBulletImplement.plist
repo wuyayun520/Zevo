@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonAgainstBridge</key>
+	<string>bufferVariableSpeed</string>
+	<key>curveInterpreterBorder</key>
+	<string>normalTouchOffset</string>
+	<key>effectEnvironmentSpacing</key>
+	<string>mobxProcessInset</string>
+	<key>gridAmongJob</key>
+	<string>configurationAlongFlyweight</string>
+	<key>mediaOutsideMemento</key>
+	<string>canvasBesideStyle</string>
+	<key>navigatorUntilPrototype</key>
+	<string>challengeLayerTheme</string>
+	<key>semanticSliderVisible</key>
+	<string>specifierForForm</string>
+</dict>
+</plist>

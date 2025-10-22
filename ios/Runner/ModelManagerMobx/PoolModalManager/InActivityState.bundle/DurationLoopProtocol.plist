@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeSubscriptionDistance</key>
+	<string>compositionalLoopIndex</string>
+	<key>descriptorInFlyweight</key>
+	<string>swiftOutsideVar</string>
+	<key>errorAgainstVar</key>
+	<string>animatedcontainerOutsideInterpreter</string>
+	<key>labelViaStructure</key>
+	<string>stateContextKind</string>
+	<key>observerScopeColor</key>
+	<string>cursorWithoutVisitor</string>
+	<key>prioritySingletonStatus</key>
+	<string>mediaqueryOutsideAdapter</string>
+	<key>temporaryEntropyInterval</key>
+	<string>diffableAllocatorOffset</string>
+</dict>
+</plist>

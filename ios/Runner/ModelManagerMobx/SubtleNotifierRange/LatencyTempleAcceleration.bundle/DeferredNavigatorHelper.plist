@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customStoryboardSkewy</key>
+	<string>pinchablePositionHead</string>
+	<key>finalDependencyOrientation</key>
+	<string>skinAndPhase</string>
+	<key>heapBridgeDelay</key>
+	<string>euclideanMediaqueryShade</string>
+	<key>immutableVariantDelay</key>
+	<string>responsiveResponseShape</string>
+	<key>queueContextFlags</key>
+	<string>segueStyleBorder</string>
+	<key>radioBeyondInterpreter</key>
+	<string>localLabelType</string>
+	<key>subpixelCommandVisible</key>
+	<string>transformerPhaseHue</string>
+</dict>
+</plist>

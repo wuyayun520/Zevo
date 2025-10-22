@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsAtVar</key>
+	<string>persistentCompleterBorder</string>
+	<key>modulusFromVariable</key>
+	<string>robustMasterCoord</string>
+	<key>nodeMethodBorder</key>
+	<string>featureNearComposite</string>
+	<key>serviceDuringStage</key>
+	<string>entityOrMode</string>
+	<key>stampForMemento</key>
+	<string>storeValueCount</string>
+	<key>textureOrProcess</key>
+	<string>cubitObserverPadding</string>
+	<key>unaryShapeContrast</key>
+	<string>sequentialAnimationTransparency</string>
+</dict>
+</plist>

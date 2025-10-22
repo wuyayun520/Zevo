@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureForKind</key>
+	<string>collectionFromMediator</string>
+	<key>appbarStageSize</key>
+	<string>mainSinkInteraction</string>
+	<key>layerPrototypeFrequency</key>
+	<string>geometricVectorSpeed</string>
+	<key>navigatorAsFunction</key>
+	<string>sliderOrChain</string>
+</dict>
+</plist>

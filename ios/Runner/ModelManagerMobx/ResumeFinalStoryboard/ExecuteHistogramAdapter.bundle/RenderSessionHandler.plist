@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mapTierIndex</key>
+	<string>diversifiedThreadFrequency</string>
+	<key>richtextChainMargin</key>
+	<string>canvasIncludeSystem</string>
+	<key>transformerFromType</key>
+	<string>oldBufferBehavior</string>
+	<key>usecaseStyleAcceleration</key>
+	<string>autoSpineBehavior</string>
+	<key>usecaseTaskFrequency</key>
+	<string>composableModelTint</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticSegmentCenter</key>
+	<string>brushStageCenter</string>
+	<key>consumerInStage</key>
+	<string>mainActionOffset</string>
+	<key>durationWorkPosition</key>
+	<string>utilDuringStage</string>
+	<key>firstCacheMargin</key>
+	<string>basicPriorityKind</string>
+	<key>optimizerStyleOrigin</key>
+	<string>parallelCoordinatorTop</string>
+	<key>permissiveCallbackRight</key>
+	<string>fragmentAsTemple</string>
+</dict>
+</plist>

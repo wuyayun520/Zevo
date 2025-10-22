@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocAlongShape</key>
+	<string>streamKindRotation</string>
+	<key>compositionalExceptionLocation</key>
+	<string>popupSingletonLeft</string>
+	<key>expandedSinceFlyweight</key>
+	<string>activeAllocatorStatus</string>
+	<key>loopInterpreterValidation</key>
+	<string>dedicatedTimerScale</string>
+</dict>
+</plist>

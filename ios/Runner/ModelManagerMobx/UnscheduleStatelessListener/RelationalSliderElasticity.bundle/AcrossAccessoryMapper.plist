@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationProcessFlags</key>
+	<string>queueInChain</string>
+	<key>contractionDespiteParameter</key>
+	<string>swiftTaskTop</string>
+	<key>frameVisitorDirection</key>
+	<string>queueCompositeTop</string>
+	<key>liteCapsuleTop</key>
+	<string>localIsolateTransparency</string>
+	<key>materialRowBrightness</key>
+	<string>prismaticGetxMode</string>
+	<key>retainedGraphAlignment</key>
+	<string>operationUntilType</string>
+	<key>zonePrototypeForce</key>
+	<string>factorySingletonMode</string>
+</dict>
+</plist>

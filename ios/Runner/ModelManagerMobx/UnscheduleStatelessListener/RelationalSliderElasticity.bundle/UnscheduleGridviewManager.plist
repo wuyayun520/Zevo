@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonPatternTransparency</key>
+	<string>paddingAmongPhase</string>
+	<key>callbackVariableState</key>
+	<string>alphaOutsideBridge</string>
+	<key>completerNumberContrast</key>
+	<string>accessibleMapSize</string>
+	<key>containerSystemOrientation</key>
+	<string>managerThroughFacade</string>
+	<key>disabledLocalizationSkewy</key>
+	<string>textureInJob</string>
+	<key>navigatorAsForm</key>
+	<string>temporaryToolStatus</string>
+	<key>storyboardTypeTag</key>
+	<string>iconViaAdapter</string>
+	<key>subscriptionPhaseCoord</key>
+	<string>menuKindOrigin</string>
+	<key>transitionExceptLevel</key>
+	<string>expandedTierPosition</string>
+	<key>usageDuringStage</key>
+	<string>isolateLevelInset</string>
+</dict>
+</plist>

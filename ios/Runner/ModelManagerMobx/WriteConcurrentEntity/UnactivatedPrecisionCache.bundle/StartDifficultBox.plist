@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetDespiteMemento</key>
+	<string>progressbarPatternInteraction</string>
+	<key>composableZoneBorder</key>
+	<string>drawerVersusMemento</string>
+	<key>delegateAboutCommand</key>
+	<string>presenterFromPhase</string>
+	<key>delegateAroundVisitor</key>
+	<string>declarativeAspectMode</string>
+	<key>isolateDespiteWork</key>
+	<string>delicateAxisHead</string>
+	<key>mobileEffectTag</key>
+	<string>popupMementoTag</string>
+	<key>techniqueInterpreterBehavior</key>
+	<string>promiseStrategyDuration</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logarithmIncludeMethod</key>
+	<string>channelsAndParam</string>
+	<key>nativeGrainForce</key>
+	<string>localTransitionDelay</string>
+	<key>opaqueBaseSkewy</key>
+	<string>tableAsStrategy</string>
+	<key>radiusSinceObserver</key>
+	<string>storyboardStateStatus</string>
+	<key>skinTaskStyle</key>
+	<string>requestWithoutInterpreter</string>
+	<key>textureStrategyOpacity</key>
+	<string>prismaticTransitionFrequency</string>
+	<key>transformerSystemVelocity</key>
+	<string>sensorPatternTop</string>
+</dict>
+</plist>

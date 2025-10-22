@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledConfigurationRate</key>
+	<string>matrixForProcess</string>
+	<key>memberForJob</key>
+	<string>graphOrSystem</string>
+	<key>presenterAsProxy</key>
+	<string>routeAtParameter</string>
+	<key>rowAtMode</key>
+	<string>animatedSineCoord</string>
+	<key>substantialGesturedetectorDistance</key>
+	<string>alertFunctionBottom</string>
+</dict>
+</plist>

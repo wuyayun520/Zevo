@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorCycleSpacing</key>
+	<string>primaryShaderSkewx</string>
+	<key>capsuleContainPlatform</key>
+	<string>routeAgainstPlatform</string>
+	<key>euclideanModelOffset</key>
+	<string>materialForValue</string>
+	<key>keyAssetAcceleration</key>
+	<string>permanentAlertPosition</string>
+	<key>textAlongInterpreter</key>
+	<string>utilOfParam</string>
+	<key>tweenSingletonVelocity</key>
+	<string>subsequentWidgetDelay</string>
+</dict>
+</plist>

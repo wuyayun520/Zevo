@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryAlongType</key>
+	<string>progressbarOrMemento</string>
+	<key>activeEventDelay</key>
+	<string>gradientCommandOpacity</string>
+	<key>gradientLikeValue</key>
+	<string>temporaryResultTint</string>
+	<key>requestFromJob</key>
+	<string>accordionManagerBorder</string>
+	<key>scaleInVariable</key>
+	<string>promiseStructureSpeed</string>
+	<key>temporaryPetSpacing</key>
+	<string>labelAwayFlyweight</string>
+</dict>
+</plist>

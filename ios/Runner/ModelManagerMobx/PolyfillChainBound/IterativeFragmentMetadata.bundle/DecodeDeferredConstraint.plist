@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicConstraintVisibility</key>
+	<string>missedManagerSpacing</string>
+	<key>columnFrameworkMode</key>
+	<string>skinNearMemento</string>
+	<key>inkwellPrototypeEdge</key>
+	<string>boxshadowParamOrigin</string>
+	<key>otherStampEdge</key>
+	<string>staticMenuAcceleration</string>
+	<key>resourceTierBehavior</key>
+	<string>momentumActionPadding</string>
+	<key>usedTransformerPosition</key>
+	<string>graphAndJob</string>
+</dict>
+</plist>

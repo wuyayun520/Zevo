@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grainAdapterTheme</key>
+	<string>boxOutsideJob</string>
+	<key>newestAccessoryBrightness</key>
+	<string>smallTimerDelay</string>
+	<key>notificationNearFlyweight</key>
+	<string>missionExceptFacade</string>
+	<key>resilientTextSpacing</key>
+	<string>entropyInContext</string>
+	<key>respectiveDurationPressure</key>
+	<string>pageviewModeTop</string>
+	<key>seamlessHistogramMode</key>
+	<string>descriptorPlatformTop</string>
+	<key>specifierEnvironmentLeft</key>
+	<string>aspectratioEnvironmentSpeed</string>
+</dict>
+</plist>

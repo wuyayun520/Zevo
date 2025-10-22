@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleEffectCount</key>
+	<string>decorationActionSkewx</string>
+	<key>extensionPhaseFeedback</key>
+	<string>robustBoxshadowFeedback</string>
+	<key>graphicOfAction</key>
+	<string>singletonDecoratorFeedback</string>
+	<key>intensitySystemRate</key>
+	<string>widgetActionTint</string>
+	<key>layoutOrParameter</key>
+	<string>statefulButtonLocation</string>
+	<key>localizationLevelSkewy</key>
+	<string>retainedSineName</string>
+	<key>subsequentPositionedContrast</key>
+	<string>grainVisitorCenter</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlerAtCommand</key>
+	<string>disparateContainerVisibility</string>
+	<key>methodPerEnvironment</key>
+	<string>navigatorOutsideObserver</string>
+	<key>notificationFunctionBehavior</key>
+	<string>viewParameterInteraction</string>
+	<key>previewJobVelocity</key>
+	<string>routeScopeCoord</string>
+	<key>queryBesideProcess</key>
+	<string>blocCommandCoord</string>
+	<key>resolverInContext</key>
+	<string>activatedTransitionStyle</string>
+	<key>sequentialEventTension</key>
+	<string>featureSincePhase</string>
+	<key>sortedDurationSize</key>
+	<string>pivotalGroupAcceleration</string>
+	<key>tweenProcessOffset</key>
+	<string>sliderBufferVelocity</string>
+	<key>unactivatedSizedboxOrientation</key>
+	<string>delegateActionHead</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintAdapterEdge</key>
+	<string>diffableChannelShade</string>
+	<key>discardedNavigatorInteraction</key>
+	<string>navigatorAsForm</string>
+	<key>keyPositionTransparency</key>
+	<string>mobxFlyweightDuration</string>
+	<key>popupBeyondActivity</key>
+	<string>numericalCosineBrightness</string>
+	<key>priorSliderMode</key>
+	<string>catalystFacadeLeft</string>
+	<key>prismaticSineInteraction</key>
+	<string>coordinatorAndScope</string>
+	<key>tappablePreviewRight</key>
+	<string>descriptionStageRate</string>
+</dict>
+</plist>

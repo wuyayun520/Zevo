@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateAgainstStructure</key>
+	<string>sliderContextVisibility</string>
+	<key>exponentAndLayer</key>
+	<string>tableShapeSaturation</string>
+	<key>inkwellCommandDirection</key>
+	<string>queueVersusOperation</string>
+	<key>sustainableControllerDuration</key>
+	<string>toolAtObserver</string>
+</dict>
+</plist>

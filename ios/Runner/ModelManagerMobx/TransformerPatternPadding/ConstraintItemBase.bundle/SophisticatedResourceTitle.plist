@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureFromStage</key>
+	<string>buttonAmongVariable</string>
+	<key>controllerProxySaturation</key>
+	<string>finalTernarySkewy</string>
+	<key>customMatrixSkewy</key>
+	<string>standaloneMultiplicationDelay</string>
+	<key>cycleExceptNumber</key>
+	<string>matrixThroughMediator</string>
+	<key>enabledNodeState</key>
+	<string>specifyCatalystIndex</string>
+	<key>graphicParamSize</key>
+	<string>animatedCubeState</string>
+	<key>layoutNumberContrast</key>
+	<string>graphVersusVisitor</string>
+	<key>smallListenerSpacing</key>
+	<string>allocatorSinceShape</string>
+	<key>streamPerMediator</key>
+	<string>cellDecoratorScale</string>
+</dict>
+</plist>

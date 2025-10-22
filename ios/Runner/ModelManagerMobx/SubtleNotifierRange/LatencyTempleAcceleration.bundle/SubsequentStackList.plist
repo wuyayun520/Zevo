@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineProxyRotation</key>
+	<string>effectNumberTheme</string>
+	<key>eventValueInteraction</key>
+	<string>decorationAdapterBound</string>
+	<key>fusedContainerFrequency</key>
+	<string>dynamicCurveScale</string>
+	<key>immediateStampSpacing</key>
+	<string>giftAwayNumber</string>
+	<key>listenerVisitorBehavior</key>
+	<string>visibleResolverTension</string>
+	<key>offsetOfFlyweight</key>
+	<string>temporaryBufferType</string>
+</dict>
+</plist>

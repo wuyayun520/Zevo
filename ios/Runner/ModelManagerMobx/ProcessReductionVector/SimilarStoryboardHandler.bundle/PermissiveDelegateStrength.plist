@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertScopeMode</key>
+	<string>interactiveApertureAcceleration</string>
+	<key>dropdownbuttonDespiteActivity</key>
+	<string>screenExceptParameter</string>
+	<key>fragmentUntilCycle</key>
+	<string>diffableAssetAcceleration</string>
+	<key>groupAmongLayer</key>
+	<string>textWorkCoord</string>
+	<key>groupInsideLevel</key>
+	<string>queueDuringState</string>
+	<key>imageLayerCenter</key>
+	<string>specifierAsAdapter</string>
+	<key>overlayPrototypeShade</key>
+	<string>dependencyObserverInset</string>
+	<key>subscriptionAlongMode</key>
+	<string>hyperbolicProjectionOffset</string>
+	<key>viewCommandLeft</key>
+	<string>visibleFrameOrientation</string>
+</dict>
+</plist>
